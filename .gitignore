@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Masquer notre base
+base_complete.csv
+*.csv.gz
