@@ -1,11 +1,11 @@
 artist_names,nationalite
 Manuel Turizo,CO
 "Bizarrap, Quevedo",AR;ES
-"Rei, Callejero Fino",JP;AR
+"Rei, Callejero Fino",AR
 Maria Becerra,AR
 ROSALÍA,ES
 "Alan Gomez, Callejero Fino",AR
-"Rei, Quevedo",JP;ES
+"Rei, Quevedo",ES;AR
 Rels B,ES
 "Bad Bunny, Chencho Corleone",PR
 Luar La L,PR
@@ -45,7 +45,7 @@ Lali,AR
 "Oscu, Nobeat",AR
 "Bad Bunny, JHAYCO",PR
 "Duki, De La Ghetto, Quevedo",AR;PR;ES
-Rei,JP
+Rei,AR
 "KAROL G, Maldy",CO;PR
 "Wisin & Yandel, ROSALÍA",PR;ES
 "Bizarrap, Tiago PZK",AR
@@ -79,17 +79,17 @@ Standly,CL
 Rauw Alejandro,PR
 "David Guetta, Bebe Rexha",FR;US
 "NATTI NATASHA, Maria Becerra",DO;AR
-"Duki, YSY A, Rei",AR;JP
+"Duki, YSY A, Rei",AR
 Feid,CO
 "TINI, Beéle",AR;CO
 "Polimá Westcoast, Feid, Pailita, Paloma Mami, De La Ghetto, Yamir Enrique Chartuni Castro",CL;CO;US;PR
 Danny Ocean,US
 "YG, Duki, Cuco",US;AR;MX
 Dua Lipa,GB
-Airbag,ES
+Airbag,AR
 "LIT killah, De La Ghetto, L-Gante",AR;PR
 "MYA, Manuel Turizo, Agus Bernasconi, Maxi Espindola",US;CO;AR
-Lasso,ES
+Lasso,VE
 "J Balvin, Bad Bunny",CO;PR
 Sebastian Yatra,CO
 Ingratax,MX
@@ -97,7 +97,7 @@ Ingratax,MX
 "La K'onga, Damián Córdoba",AR
 YSY A,AR
 "Prince Royce, Maria Becerra",US;AR
-"LIT killah, Los Palmeras",AR;CU
+"LIT killah, Los Palmeras",AR
 Paulo Londra,AR
 "Fuego, Manuel Turizo, Duki",US;CO;AR
 "Emilia, Duki",SE;AR
@@ -128,7 +128,7 @@ Plan B,GB
 "NATTI NATASHA, Daddy Yankee, Wisin & Yandel",DO;PR
 "Mau y Ricky, Maria Becerra",VE;AR
 Andrés Calamaro,AR
-RYH,
+RYH,US
 Trueno,AR
 Anitta,BR
 Coldplay,GB
@@ -139,7 +139,7 @@ Gustavo Cerati,AR
 EL NOBA,AR
 Ciro y los Persas,AR
 Arctic Monkeys,GB
-Guns N' Roses,US;DK
+Guns N' Roses,US
 "Tiago PZK, LIT killah",AR
 Turf,AR
 "Mora, Bad Bunny, Sech",SE;PR;PA
@@ -165,7 +165,7 @@ Salastkbron,AR
 Los del Fuego,AR
 "Alejo Isakk, Omar Varela",AR
 "Migrantes, El Retutu, FMK, Nico Valdi",AR
-Alonzo Cortes,
+Alonzo Cortes,AR
 Tom Odell,GB
 "Ozuna, Feid",PR;CO
 "TINI, Morat",AR;CO
@@ -173,7 +173,7 @@ Tom Odell,GB
 Patricio Rey y sus Redonditos de Ricota,AR
 "La K'onga, Rusherking",AR
 Babasonicos,AR
-The Police,FR;US;GB
+The Police,GB
 "Shakira, Ozuna",CO;PR
 Taylor Swift,US
 "DJ Tao, Callejero Fino",IT;AR
@@ -181,13 +181,13 @@ Taylor Swift,US
 "The Chainsmokers, Coldplay",US;GB
 "L-Gante, NEGRO DUB, DT.Bilardo",AR
 "JHAYCO, Feid, Sech",PR;CO;PA
-LuisinhoDJ,
+LuisinhoDJ,BR
 "Manuel Turizo, Maria Becerra",CO;AR
 LIT killah,AR
 "La Joaqui, Salastkbron, Gusty dj",AR
 Jin,US
 "El Polaco, La China",AR
-"Alan Gomez, Rei, Salastkbron",AR;JP
+"Alan Gomez, Rei, Salastkbron",AR
 "Cris MJ, Tiago PZK",CL;AR
 "Coldplay, Selena Gomez",GB;US
 "Morat, Feid",CO
@@ -195,7 +195,7 @@ Jin,US
 "Paulo Londra, Feid",AR;CO
 Tan Bionica,AR
 "El Punto40, Marcianeke",CL
-Mambo DJ,
+Mambo DJ,AR
 "Bad Bunny, Tainy",PR
 "Ke Personajes, La Contra",AR
 "BM, Phontana",BG;AR
@@ -223,7 +223,7 @@ Eladio Carrion,PR
 "Paulo Londra, LIT killah",AR
 "Migrantes, Alico, Nico Valdi",AR;TR
 La Mosca,AR
-Mario Luis,CO
+Mario Luis,AR
 "Arcángel, Bad Bunny",PR
 "Rusherking, L-Gante, Emilia",AR;SE
 "Arcángel, Duki, Bizarrap",PR;AR
@@ -235,7 +235,7 @@ Rafaga,AR
 Bellakath,MX
 Milo j,AR
 "Luck Ra, La K'onga",AR
-Jona Mix,
+Jona Mix,MX
 "Myke Towers, Daddy Yankee",PR
 "Cris MJ, Duki, Nicki Nicole, Standly, Stars Music Chile",CL;AR
 La T y La M,AR
@@ -245,17 +245,17 @@ Yerba Brava,AR
 "Ke Personajes, La T y La M",AR
 "La T y La M, Ke Personajes",AR
 "La Joaqui, DJ Alex",AR;NL
-"Diego Redes, Adrian Araujo",
+"Diego Redes, Adrian Araujo",AR
 "Trueno, NATHY PELUSO",AR;ES
 "ITHAN NY, Tunechikidd, Nickoog Clk",CL
 "Ñengo Flow, Bad Bunny",PR
-"Los Palmeras, Onda Sabanera",CU;AR
+"Los Palmeras, Onda Sabanera",AR
 "DJ Tao, Peipper",IT;AR
-Los Palmeras,CU
+Los Palmeras,AR
 Los Charros,AR
 Tambó Tambó,AR
 El Polaco,AR
-Rodrigo,ES
+Rodrigo,AR
 Ulises Bueno,AR
 "Fer Palacio, DJ Alex, Santiago Saez",AR;NL
 Amar Azul,AR
@@ -280,7 +280,7 @@ Los Abuelos De La Nada,AR
 Miley Cyrus,US
 Tiago PZK,AR
 Lolo OG,AR
-"Melissa Catherina, Golden Girly",
+"Melissa Catherina, Golden Girly",ID
 "Agapornis, Hernan y La Champion's Liga, Lauro",AR;IT
 "Alejo Isakk, Gusty dj",AR
 Shakira,CO
@@ -288,7 +288,7 @@ Pappo,AR
 "La K'onga, Matías Valdez",AR;UY
 Marama,UY
 SZA,US
-"FMK, Rei",JP
+"FMK, Rei",AR
 "LiL CaKe, Migrantes, Nico Valdi",AR
 "Miranda!, Lali",US;AR
 "Justin Quiles, Myke Towers",PR
@@ -309,8 +309,8 @@ Fito Paez,AR
 "Alan Gomez, Callejero Fino, Javiielo, Julianno Sosa",AR
 Yng Lvcas,MX
 "Milo j, Taiu",AR
-"Rei, Gusty dj",JP
-SOLARI DJ,
+"Rei, Gusty dj",AR
+SOLARI DJ,AR
 "KAROL G, Shakira",CO
 "Miranda!, Emilia",US;SE
 "Gorillaz, Bad Bunny",GB;PR
@@ -360,7 +360,7 @@ Aitana,ES
 "Lola Indigo, Quevedo",ES
 "Miranda!, Maria Becerra, FMK",US;AR
 "Nicki Nicole, Rels B",AR;ES
-"Miranda!, Chano",US;ES
+"Miranda!, Chano",US;AR
 "Feid, Sean Paul",CO;JM
 "Cazzu, La Joaqui",AR
 "Miranda!, Cristian Castro",US;MX
@@ -392,7 +392,7 @@ Bacilos,CO
 "Tiago PZK, TINI",AR
 "Nicki Nicole, Milo j",AR
 "Maria Becerra, Fast & Furious: The Fast Saga",AR
-scuboom,
+scuboom,AR
 "Nicki Nicole, YSY A",AR
 "Nicky Jam, Feid",PR;CO
 "Nicki Nicole, Young Miko",AR;PR
@@ -437,7 +437,7 @@ Olivia Rodrigo,US
 "Peso Pluma, Grupo Frontera",MX;US
 "Bad Gyal, Tokischa, Young Miko",ES;DO;PR
 "Tainy, Daddy Yankee, Feid, Sech",PR;CO;PA
-"Emanero, Ulises Bueno, Migrantes, Los Palmeras",AR;CU
+"Emanero, Ulises Bueno, Migrantes, Los Palmeras",AR
 "Luck Ra, BM",AR;BG
 "DJ Tao, Karina",IT;AR
 "DT.Bilardo, Perro Primo, DJ Cronox",AR
@@ -521,7 +521,7 @@ Piso 21,CO
 "Bad Bunny, Eladio Carrion",PR
 "Bad Bunny, Arcángel, De La Ghetto, Ñengo Flow",PR
 "Lucky Brown, Jere Klein, Mateo on the Beatz",US;CL
-"Sayian Jimmy, Nysix Music, CamiMusic",
+"Sayian Jimmy, Nysix Music, CamiMusic",US
 "Bhavi, C.R.O, KHEA, Neo Pistea",AR;DE
 "Anuel AA, Quevedo, Maluma, Mambo Kingz, DJ Luian",PR;ES;CO
 "DJ Tao, DobleP",IT;AR
@@ -544,7 +544,7 @@ Jung Kook,KR
 "Feid, Rema",CO;NG
 "Lucky Brown, Adan La Amenaza",US
 "Nicki Nicole, Bad Gyal",AR;ES
-"El Joan, Celso El Potente",
+"El Joan, Celso El Potente",CL
 "Marama, Rombai",UY
 "Kali Uchis, KAROL G",US;CO
 Rombai,UY
@@ -558,7 +558,7 @@ Rombai,UY
 "Gusty dj, Salastkbron, Callejero Fino, Alejo Isakk, R Jota, L-Gante, Lolo OG, DobleP, Lauty Gram",AR
 "Papichamp, The La Planta, El negro tecla, Lolo OG, Locura Mix",AR;UY
 "Roze Oficial, Peipper",AR
-"Emanero, Karina, j mena, Angela Torres",AR;PH
+"Emanero, Karina, j mena, Angela Torres",AR
 "Feid, ATL Jacob",CO;US
 "Jere Klein, Nickoog Clk, Lucky Brown, El BAI",CL;US
 "The La Planta, El negro tecla, Locura Mix",UY
@@ -609,7 +609,7 @@ YG Marley,US
 "Eladio Carrion, Milo j",PR;AR
 "Gino Mella, Jairo Vera, Yandel, Lenny Tavárez, Best",CL;PR;AU
 "KHEA, Emilia",AR;SE
-"Engel Montaz, Kuv507, Latinnites Music",
+"Engel Montaz, Kuv507, Latinnites Music",MX
 "KAROL G, Tiësto",CO;NL
 "La K'onga, David Bisbal, Emanero",AR;ES
 "GIMS, Maria Becerra",FR;AR
@@ -632,7 +632,7 @@ Djo,US
 Teddy Swims,US
 Chayanne,PR
 "Salastkbron, Diel Paris",AR
-"Renn, Yexel",
+"Renn, Yexel",MX
 "KHEA, YSY A",AR
 "KHEA, C.R.O, Neo Pistea",AR;DE
 "Cris MJ, Dei V",CL;PR
@@ -673,21 +673,21 @@ El Kuelgue,AR
 "Sevdaliza, Villano Antillano, Tokischa",NL;PR;DO
 CA7RIEL & Paco Amoroso,AR
 Sabrina Carpenter,US
-"Emanero, BM, Onda Sabanera, Mario Luis",AR;BG;CO
+"Emanero, BM, Onda Sabanera, Mario Luis",AR;BG
 "Myke Towers, Bad Bunny",PR
 "Dillom, Andrés Calamaro",AR
-"YSY A, Rei, Obie Wanshot",AR;JP
+"YSY A, Rei, Obie Wanshot",AR
 "Dillom, Lali",AR
-"Eze Remix, Matt Sebastian",
+"Eze Remix, Matt Sebastian",AR
 "Rels B, Lia Kali",ES
 "YSY A, CLUB HATS, SPONSOR DIOS",AR
-Thomy DJ,
+Thomy DJ,CO
 "Lolo OG, Axel Caram",AR
 "Pablo Chill-E, Bryartz",CL
 "Callejero Fino, Axel Caram",AR
 Bersuit Vergarabat,AR
-"djsantaa, Bruno Chavez Dj",
-"elaggume, Fauna Music, Coco Palmer",
+"djsantaa, Bruno Chavez Dj",AR
+"elaggume, Fauna Music, Coco Palmer",ES;AR
 "DobleP, Lauty Gram, Matt Sebastian",AR
 "ZARAMAY, Lil Pani",AR
 "Q' Lokura, Valentino Merlo",AR
@@ -708,7 +708,7 @@ Los Pericos,AR
 "CA7RIEL & Paco Amoroso, TINI",AR
 "PRIZE, Sautu, ARA, Ramma, c n d, Tiano, almeja",KR;AR;CL
 "elaggume, ECKO, Omar Varela, Fauna Music",AR
-"Rei, Duki",JP;AR
+"Rei, Duki",AR
 "DJ Tao, Ponte Perro",IT;AR
 Roman El Original,AR
 La Sonora Master,AR
@@ -750,28 +750,28 @@ Diegote,ES
 Kapo,CO
 *NSYNC,US
 "Omar Courtz, De La Rose, Haze",PR;GB
-La Fiesta DJs,
+La Fiesta DJs,AR
 "Charli xcx, Billie Eilish",GB;US
-"Tan Bionica, Airbag",AR;ES
+"Tan Bionica, Airbag",AR
 Lomiiel,DO
 "Bryant Myers, Cris MJ",PR;CL
 "Tiago PZK, Anitta, Emilia",AR;BR;SE
 "Bhavi, Trueno",AR
 "Lira, KINGTO, Dj Ronel",ZA
-DJ Stephany,
+DJ Stephany,AR
 "Lauty Gram, La Joaqui",AR
 "DT.Bilardo, Perro Primo",AR
 "Pinky SD, Un Poco de Ruido, Uriel Lozano",AR
-"LISA, ROSALÍA",JP;ES
+"LISA, ROSALÍA",ES;TH
 "Lady Gaga, Bruno Mars",US
-"Matias Fisher, Santiago Ibarra",
+"Matias Fisher, Santiago Ibarra",AR
 Klim,UA
 Romeo Santos,US
 "Yami Safdie, Flor Alvarez",AR
 "Big One, Ciro y los Persas, Miranda!",AR;US
 "Maisak, Feid",CO
 Joaquín Da Rosa,UY
-Oasis,GB;US
+Oasis,GB
 "Jere Klein, Mateo on the Beatz, EL MURCIELAGO",CL
 "The La Planta, Valentino Merlo",UY;AR
 "La Joaqui, elaggume, Fauna Music, Gusty dj",AR
@@ -810,7 +810,7 @@ HUMBE,MX
 "Ponte Perro, COLORS",AR;US
 "El negro tecla, Nahuel The Coach",AR
 "Myke Towers, benny blanco",PR;US
-"Yami Safdie, Lasso",AR;ES
+"Yami Safdie, Lasso",AR;VE
 "ROSÉ, Bruno Mars",US
 "Cris MJ, Kali Uchis, JHAYCO",CL;US;PR
 "The La Planta, Marcela Morelo, La T y La M",UY;AR
@@ -830,7 +830,7 @@ One Direction,GB;IE
 "Duki, Wiz Khalifa, Arcángel",AR;US;PR
 "Duki, Morad",AR;ES
 "Maria Becerra, Yandel",AR;PR
-Membrillito,
+Membrillito,MX
 "LIT killah, Emilia",AR;SE
 "YSY A, Emirsito",AR
 "Renzo ED, elaggume",AR
@@ -853,7 +853,7 @@ Membrillito,
 "Arcane, Stromae, Pomme",US;BE;FR
 "Lucky Brown, Mateo on the Beatz",US
 "King Savagge, Jairo Vera, Bayron Fire",CL
-NandoVVS,
+NandoVVS,ES
 "Neo Pistea, Duki",AR
 Cosculluela,PR
 "Brytiago, Anuel AA",PR
@@ -873,7 +873,7 @@ Cazzu,AR
 Nestor En Bloque,AR
 DesaKTa2,AR
 "Ulises Bueno, DesaKTa2",AR
-Wham!,GB;US
+Wham!,GB
 "The La Planta, Sebastian Mendoza",UY;AR
 "Bizarrap, Luck Ra",AR
 "Bauti Mascia, The La Planta, Q' Lokura, Meri Deal, Marama",AR;UY;MX
@@ -890,7 +890,7 @@ Wham!,GB;US
 "King Savagge, Paulo Londra, Luck Ra, Bayron Fire, Jairo Vera, LIT killah",AR
 "Alleh, Yorghaki",VE
 Max Carra,AR
-"ROA, De La Rose, Luar La L, Yan Block, Omar Courtz",KR;PR
+"ROA, De La Rose, Luar La L, Yan Block, Omar Courtz",PR
 "El Reja, Tussiwarriors",UY
 "Eugenia Quevedo, La banda de Carlitos",AR
 "Bad Gyal, Trueno",ES;AR
@@ -949,9 +949,9 @@ Omar Courtz,PR
 "Luck Ra, Tiago PZK",AR
 "Luciano Pereyra, Ezequiel Y La Clave, Un Poco de Ruido, Pinky SD",AR
 "Trueno, Young Miko",AR;PR
-Mattei,
+Mattei,ES
 "Tobal Mj, Lucky Brown, Nacho G Flow",CL;US
-Eze Remix,
+Eze Remix,AR
 Lil Pani,AR
 "DobleP, VERNAZ, Matt Sebastian",AR
 "DENNIS, Luísa Sonza",JM;BR
@@ -987,7 +987,7 @@ Los Auténticos Decadentes,AR
 "Mattei, Arcángel, De La Ghetto, Jowell & Randy, DJ Urba",PR;DO
 "Myke Towers, Quevedo",PR;ES
 "Trueno, DJ Premier",AR;US
-Chano,ES
+Chano,AR
 La Renga,AR
 "FMK, Emilia, Nicki Nicole, Tiago PZK",SE;AR
 "Brytiago, Darell",PR
@@ -1005,7 +1005,7 @@ El Plan De La Mariposa,AR
 Los Cafres,AR
 "Max Carra, Lira",AR;ZA
 "Trap Capos, Noriel, Gigolo Y La Exce, Sammy & Falsetto, Mike Duran, Baby Angel",PR
-ROA,KR
+ROA,PR
 "SAIKO, Omar Courtz",CL;PR
 Attaque 77,AR
 "KAROL G, Feid",CO
@@ -1026,7 +1026,7 @@ Justin Bieber,CA
 "HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast",US
 "Myke Towers, Manuel Turizo",PR;CO
 "DobleP, La Joaqui, Gusty dj",AR
-Pone La Premier,
+Pone La Premier,ES
 La Beriso,AR
 "Maria Becerra, XROSS",AR
 "Intoxicados, Andrés Calamaro",AR
@@ -1043,17 +1043,17 @@ El Cuarteto De Nos,UY
 "Trap Capos, Noriel, Bad Bunny, Almighty",PR;GB
 "Julianno Sosa, benjitalkapone, Jairo Vera",CL
 "Emmanuel Horvilleur, Zoe Gotusso",AR
-Tiziano El Bombón de la Cumbia,
+Tiziano El Bombón de la Cumbia,PE
 "DesaKTa2, Valentina Marquez",AR
-"Blessd, Anuel AA, Yan Block, Luar La L, Kris R., ROA",CO;PR;KR
+"Blessd, Anuel AA, Yan Block, Luar La L, Kris R., ROA",CO;PR
 "Tincho & Javi, Max Carra",AR
 "Easykid, Dysbit",CL;AR
 "Lucky Brown, Mateo on the Beatz, Adan La Amenaza",US
 "Luck Ra, Miranda!",AR;US
 "Ke Personajes, J Balvin",AR;CO
-Angela Torres,PH
+Angela Torres,AR
 Jambao,AR
-PALO,
+PALO,AR
 "Maria Becerra, TINI, XROSS",AR
 "Trap Capos, Noriel, Anuel AA, Baby Rasta",PR
 Zion & Lennox,PR
@@ -1063,7 +1063,7 @@ Zion & Lennox,PR
 "Milo j, Paula Prieto",AR
 "Milo j, Mercedes Sosa",AR
 "Milo j, Silvio Rodríguez",AR;CU
-"Dj Plaga, mamiyosoyelth",
+"Dj Plaga, mamiyosoyelth",DO
 "Milo j, Cuti y Roberto Carabajal",AR
 "Milo j, Radamel",AR
 "Zion & Lennox, J Balvin",PR;CO
@@ -1094,7 +1094,7 @@ Don Omar,PR
 "ROSALÍA, Estrella Morente, Sílvia Pérez Cruz",ES
 "Tan Bionica, Andrés Calamaro",AR
 "Maria Becerra, El Alfa, XROSS",AR;DO
-"Maria Becerra, Rei, XROSS",AR;JP
+"Maria Becerra, Rei, XROSS",AR
 "Maria Becerra, TAICHU, XROSS",AR
 "Rich Music LTD, Sech, Dalex, Justin Quiles, Lenny Tavárez, Feid, Wisin, Zion",PA;PR;CO;US
 "Maria Becerra, Karina, XROSS",AR
@@ -1113,7 +1113,7 @@ Don Omar,PR
 "Ozuna, Beéle",PR;CO
 "Bizarrap, J Balvin",AR;CO
 "Un Poco de Ruido, Pinky SD, DesaKTa2",AR
-Felix Record,
+Felix Record,AR
 "Ryan Castro, Kapo, Gangsta",CO;US
 "Callejero Fino, Martin Vegas",AR
 "Ozuna, Beéle, Ovy On The Drums",PR;CO
@@ -1123,7 +1123,7 @@ Felix Record,
 Kate Bush,GB
 "Tincho & Javi, Valentina Olguin, Bauti Mascia",AR
 "Lauta, Amigo de Artistas, Tote",CL;AR
-"FranMVP, FrannSSJ",
+"FranMVP, FrannSSJ",AR
 "Romeo Santos, Prince Royce",US
 "PEPU, Nico Valdi, Pizzu",AR
 RAYE,GB
@@ -1136,7 +1136,7 @@ RAYE,GB
 "CA7RIEL & Paco Amoroso, Sting",AR;GB
 "Omar Courtz, Ñengo Flow",PR
 "PEDRO SAMPAIO, Emilia, MC Meno K, Melody",BR;SE;US
-"Omar Courtz, ROA",PR;KR
+"Omar Courtz, ROA",PR
 "Omar Courtz, KARBeats",PR
 "Omar Courtz, Myke Towers",PR
 "Blessd, Anuel AA, SOG",CO;PR;NZ
@@ -1150,15 +1150,15 @@ Rata Blanca,AR
 "Lauta, Matías Valdez, Tote, Nico Valdi",UY;AR
 Dominic Fike,US
 Ñengo Flow,PR
-Ian Cordova,
+Ian Cordova,EC
 "TINI, Ulises Bueno",AR
 "Little Boogie, Milo j, STEREO",AR
-slimesanti,
+slimesanti,AR
 "CA7RIEL & Paco Amoroso, Jack Black",AR;US
 "Maria Becerra, Jere Klein, Lucky Brown, XROSS",AR;CL;US
 "Ricky Martin, Los Ángeles Azules, TINI",PR;MX;AR
 "La T y La M, Luck Ra",AR
-AC/DC,AU;US;GB
+AC/DC,AU
 "Ñejo, Arcángel",PR
 Jay Wheeler,PR
 "Justin Bieber, Nicki Minaj",CA;US
@@ -1192,7 +1192,7 @@ Simon Aguirre,AR
 "Jay Wheeler, Omar Courtz",PR
 Radiohead,GB
 "Los Herrera, Q' Lokura",AR
-Louis BPM,
+Louis BPM,ES
 "El Soldado, Indio Solari, Sergio Dawi",AR
 "Shakira, Burna Boy",CO;NG
 "Olivia Rodrigo, Robert Smith",US;GB
@@ -1208,7 +1208,7 @@ El De Las R's,MX
 "Yandel, Farruko, Zion & Lennox, Egbert Rosa aka Haze",PR
 "Alex Rose, Lenny Tavárez, Quimico Ultra Mega, Chris Wandell",PR;DO
 Fuerza Regida,US
-PALMITO,
+PALMITO,AR
 Conep,PR
 "Un Poco de Ruido, Pinky SD, La Kuppe",AR
 Taro,JP
@@ -1241,17 +1241,17 @@ Bee Gees,GB;AU
 Ele A El Dominio,PR
 "Anuel AA, Daddy Yankee, KAROL G, Ozuna, J Balvin",PR;CO
 "La T y La M, J Balvin",AR;CO
-"ROA, Anuel AA",KR;PR
+"ROA, Anuel AA",PR
 "DJ Tao, JUANO DSKT",IT
-Lezcano Alan,
+Lezcano Alan,AR
 ADÉLA,SK
-"Luciano, Aitch, BIA",IT;GB;US
-"Luciano, Central Cee",IT;GB
+"Luciano, Aitch, BIA",GB;US;DE
+"Luciano, Central Cee",GB;DE
 "Jamule, FOURTY",DE
 Nina Chuba,DE
 Pashanim,DE
 "Miksu / Macloud, makko",DE
-Luciano,IT
+Luciano,DE
 southstar,DE
 "Yung Hurn, SW43 L33 D1DO",AT
 "Liaze, equal",DE;IS
@@ -1265,11 +1265,11 @@ Rosc,DE
 "Imanbek, BYOR",RU
 twenty4tim,DE
 OneRepublic,US
-"Luciano, KALIM",IT;DE
+"Luciano, KALIM",DE
 Rosa Linn,AM
 Lil Nas X,US
 "Bonez MC, RAF Camora, Gzuz",DE;AT
-"RIN, Schmyt, Miksu / Macloud",JP;DE
+"RIN, Schmyt, Miksu / Macloud",DE
 "Miksu / Macloud, t-low",DE
 "Kontra K, Sido, Leony",DE
 Central Cee,GB
@@ -1281,7 +1281,7 @@ Armani White,US
 Beyoncé,US
 Nicki Minaj,US
 Kontra K,DE
-"Nina Chuba, Juju",DE;JP
+"Nina Chuba, Juju",DE
 "Die Zipfelbuben, Der Zipfelbube, DJ Cashi",DE
 "Öwnboss, Sevek",BR
 "MADE, San Andreas, Dorian",JP;NL;ES
@@ -1292,20 +1292,20 @@ Sido,DE
 Kraftklub,DE
 Glass Animals,GB
 The Neighbourhood,US
-"Luciano, Headie One",IT;GB
+"Luciano, Headie One",GB;DE
 "Glockenbach, ÁSDÍS",DE;IS
 "Tream, treamiboii, HBz",DE
-"Luciano, RAF Camora",IT;AT
-"Luciano, Sophie Hunger",IT;CH
+"Luciano, RAF Camora",AT;DE
+"Luciano, Sophie Hunger",CH;DE
 Julian Sommer,DE
 Dean Lewis,AU
 "Rowli, Hank, Sick & Tired, Asterio",DE;US
 Domiziana,DE
-"Luciano, Paula Hartmann",IT;DE
+"Luciano, Paula Hartmann",DE
 "Brasco, Lucio101",FR;DE
 "Cheriimoya, Sierra Kidd",DE
 "Nicky Youre, hey daisy",US
-"Luciano, Gzuz",IT;DE
+"Luciano, Gzuz",DE
 "MEDUZA, James Carter, Elley Duhé, FAST BOY",SE;US;DE
 "t-low, Miksu / Macloud",DE
 "Empire Of The Sun, southstar",AU;DE
@@ -1328,11 +1328,11 @@ Tom Twers,DE
 "AYLIVA, Mudi",DE
 "Macklemore, Ryan Lewis, Macklemore & Ryan Lewis, Ray Dalton",US;KE
 "Elton John, Britney Spears",GB;US
-"Luciano, Yung Hurn",IT;AT
+"Luciano, Yung Hurn",AT;DE
 "Ramo, Gzuz",DE
 AnnenMayKantereit,DE
 Seafret,GB
-RIN,JP
+RIN,DE
 Oxlade,NG
 "The Kid LAROI, Justin Bieber",AU;CA
 d4vd,US
@@ -1351,12 +1351,12 @@ Rema,NG
 O.G.,DE
 "Camila Cabello, Ed Sheeran",US;GB
 "Rosa Walton, Hallie Coggins",GB
-"Luciano, Gazo",IT;FR
+"Luciano, Gazo",FR;DE
 Emilio,BR
 "Kraftklub, Tokio Hotel",DE
 "Luude, Mattafix",AU;GB
 Leony,DE
-"Dhurata Dora, Luciano",DE;IT
+"Dhurata Dora, Luciano",DE
 "felix jaehn, Ray Dalton",DE;US
 "Tiësto, Charli xcx",NL;GB
 "Billie Eilish, Khalid",US
@@ -1373,14 +1373,14 @@ PA Sports,DE
 Jason Derulo,US
 "KUMMER, Fred Rabe",DE
 "Marshmello, Khalid",US
-SAIM x CAN,
+SAIM x CAN,DE
 "Sido, Apache 207",DE
-"RAF Camora, Luciano",AT;IT
+"RAF Camora, Luciano",AT;DE
 "The Game, 50 Cent",US
 Dxrk ダーク,DZ
 "Bonez MC, RAF Camora, Maxwell",DE;AT;US
-"Black Eyed Peas, Shakira, David Guetta",US;PH;CO;FR
-Culcha Candela,KR;PL;DE;CO
+"Black Eyed Peas, Shakira, David Guetta",CO;FR;US
+Culcha Candela,DE
 "01099, Gustav, Zachi",DE;AT
 "Bierkapitän, Andy Luxx, Dj Aaron",DE
 Joji,US
@@ -1412,7 +1412,7 @@ Måneskin,IT
 "Eno, Bausa",GB;DE
 "Disarstar, Evangelia, The Cratez",DE;US
 "Tream, treamiboii, Luca-Dante Spadafora",DE
-"Ralfo, Knocho",
+"Ralfo, Knocho",DE
 "PA Sports, SØVA",DE;ID
 "MADE, Dorian",JP;ES
 Mau P,NL
@@ -1430,7 +1430,7 @@ LX,DE
 "Zuna, Azet",DE
 Miami Yacine,DE
 Olexesh,DE
-"1RALF7, Ralfo, Knocho",
+"1RALF7, Ralfo, Knocho",DE
 "KLAN, LEA",PL;DE
 "Longus Mongus, Monk, BHZ, Themba",DE;US;ZA
 Beyazz,DE
@@ -1476,7 +1476,7 @@ Lil Uzi Vert,US
 "Quavo, Takeoff",US
 Isabel LaRosa,US
 XXXTENTACION,US
-Worald,
+Worald,DE
 AK AUSSERKONTROLLE,DE
 "Samra, Alice Stark",DE
 "KALIM, Bonez MC",DE
@@ -1496,10 +1496,10 @@ Kelly Clarkson,US
 Freddie Dredd,CA
 "KASIMIR1441, Nizi19, Lucio101",DE
 Aerosmith,US
-Chipz,BR
+Chipz,NL
 IMMY,GB
 "CANEY030, Eno",DE;GB
-Juju,JP
+Juju,DE
 Natalie Jane,US
 Chris Rea,GB
 Bobby Helms,US
@@ -1541,7 +1541,7 @@ Jonas Brothers,US
 "Gwen Stefani, Blake Shelton",US
 "Perry Como, The Fontane Sisters, Mitchell Ayres & His Orchestra",US
 Helene Fischer,DE
-Band Aid 30,GB;IE;BJ
+Band Aid 30,GB
 Kylie Minogue,AU
 Burl Ives,US
 Elton John,GB
@@ -1560,7 +1560,7 @@ Slade,GB
 01099,DE
 "Metro Boomin, The Weeknd, 21 Savage",US;CA
 "Sido, Bozza",DE
-Summer Cem,TR
+Summer Cem,DE
 "Haftbefehl, AZAD, Kool Savas, Bazzazian",DE
 "Metro Boomin, Future, Chris Brown",US
 "AK AUSSERKONTROLLE, Samra",DE
@@ -1572,33 +1572,33 @@ Summer Cem,TR
 "NOAH, Capital Bra",ID;DE
 "LX, Gzuz",DE
 "Metro Boomin, Don Toliver",US
-Loredana,IT
+Loredana,CH
 "Metro Boomin, Travis Scott, Young Thug",US
 "Metro Boomin, 21 Savage, Young Nudy",US
 Cliff Richard,GB
 "Haftbefehl, Ufo361, Bazzazian",DE
 "Metro Boomin, John Legend",US
 "Metro Boomin, Young Thug",US
-Frankie Goes To Hollywood,GB;US
+Frankie Goes To Hollywood,GB
 Eagles,US
 Sam Feldt,NL
 Leona Lewis,GB
 "Brett Eldredge, Meghan Trainor",US
-Boney M.,JM;NL;US;DE;GB
+Boney M.,DE
 "Metro Boomin, 21 Savage, Mustafa",US;TR
 "Metro Boomin, Travis Scott, Future",US
 Nat King Cole,US
 "Bing Crosby, Ken Darby Singers, John Scott Trotter & His Orchestra",US
 Bonez MC,DE
 "Jala Brat, RAF Camora, Buba Corelli, Dardan",BA;AT;DE
-"KALIM, Luciano",DE;IT
+"KALIM, Luciano",DE
 "Sido, Karen, Tarek K.I.Z",DE;US
 "Sido, Estikay",DE
-"Thrife, Nimo, Summer Cem",SE;DE;TR
+"Thrife, Nimo, Summer Cem",SE;DE
 "Milonair, Kool Savas, 1986zig",DE
 Symba,DE
 "Sido, Karen",DE;US
-"KALIM, Loredana",DE;IT
+"KALIM, Loredana",DE;CH
 "CAPO, Bausa",DE
 CÉLINE,CA
 Ronan Keating,IE
@@ -1633,16 +1633,16 @@ Ella Fitzgerald,US
 The Jackson 5,US
 Rod Stewart,GB
 Lukas Graham,DK
-The Beach Boys,US;ZA;AU
+The Beach Boys,US
 Jona Lewie,GB
 Stevie Wonder,US
 "Bing Crosby, The Andrews Sisters",US
 Hurts,GB
-"blondette, sweet planet",
+"blondette, sweet planet",US
 "Ella Henderson, AJ Mitchell",GB;US
 "Julien Bam, Mark Forster",DE
 Ellie Goulding,GB
-Depeche Mode,GB;US
+Depeche Mode,GB
 Eden Elf,FR
 Sigrid,NO
 Jamie Cullum,GB
@@ -1651,7 +1651,7 @@ Natasha Bedingfield,GB
 "Durdenhauer, A$AP Rocky, Skepta",US;GB
 "David Guetta, Kid Cudi",FR;US
 "Alle Farben, PollyAnna",DE;AU
-Black Eyed Peas,US;PH
+Black Eyed Peas,US
 "Glockenbach, ClockClock",DE
 "HBz, JAMYX",DE
 "Lucenzo, Don Omar",FR;PR
@@ -1659,7 +1659,7 @@ Black Eyed Peas,US;PH
 "Darius & Finlay, MartinBepunkt, Shaun Baker",AT;JO
 LUNAX,DE
 "Alle Farben, KIDDO",DE;SE
-Journey,US;GB;PH
+Journey,US
 "Stephen Sanchez, Em Beihold",US
 "Purple Disco Machine, Sophie and the Giants",DE;GB
 "USHER, Lil Jon, Ludacris",US
@@ -1683,7 +1683,7 @@ INTERWORLD,RU
 Dermot Kennedy,IE
 "Gala, Molella, Phil Jay",IT
 Vance Joy,AU
-Seeed,DE;CH
+Seeed,DE
 "David Guetta, Akon",FR;SN
 "AYLIVA, MERO",DE
 "The Cratez, Sido, Kontra K, Montez",DE;US
@@ -1705,7 +1705,7 @@ Coi Leray,US
 Lil Peep,US
 Kolja Goldstein,NL
 "Skrillex, Fred again.., Flowdan",US;GB
-"Juju, Henning May",JP;DE
+"Juju, Henning May",DE
 "Pajel, KALIM",DE
 Veysel,DE
 "Longus Mongus, Monk, BHZ",DE;US
@@ -1726,7 +1726,7 @@ Lewis Capaldi,GB
 Jamule,DE
 "Ufo361, Gunna",DE;US
 Dorian,ES
-Unrealistic Sounds,
+Unrealistic Sounds,DE
 "Makar, DYSTINCT",US;BE
 "Soufian, SOTT",DE
 Manu Chao,FR
@@ -1789,8 +1789,8 @@ Niall Horan,IE
 Paveier,DE
 "BOJAN, CALO",DE;AR
 "Milonair, Capital Bra",DE
-"Valexus, Culcha Candela",DE;KR;PL;CO
-LIL M,
+"Valexus, Culcha Candela",DE
+LIL M,US
 "Samra, Sido",DE
 "Nina Chuba, Provinz",DE
 Azet,DE
@@ -1819,12 +1819,12 @@ Ivo Martin,DE
 "HBz, Miss Platnum, Yasha, Marteria",DE
 "ARY, Florentina",BR;DE
 "badmómzjay, Domiziana",DE
-"RIN, Nina Chuba, Miksu / Macloud",JP;DE
+"RIN, Nina Chuba, Miksu / Macloud",DE
 "Kurdo, Dardan",DE
 Dante YN,DE
 "Calvin Harris, Ellie Goulding",GB
-"Malik Montana, Fivio Foreign, Luciano, Baby Gang",PL;US;IT
-"Dhurata Dora, Luciano, Noizy",DE;IT;AL
+"Malik Montana, Fivio Foreign, Luciano, Baby Gang",PL;US;IT;DE
+"Dhurata Dora, Luciano, Noizy",DE;AL
 "lityway, Edo Saiya",DE
 "Schubi AKpella, Nimo",DE
 "Bonez MC, Gzuz, Olexesh",DE
@@ -1848,7 +1848,7 @@ KC Rebell,DE
 "makko, Miksu / Macloud",DE
 "01099, Gustav, Paul, Zachi",DE;AT;GB
 "BOJAN, NGEE",DE
-LLUISA,
+LLUISA,ES
 EAZ,CH
 "Miami Yacine, AZAD",DE
 Amy Macdonald,GB
@@ -1862,7 +1862,7 @@ Shindy,DE
 "Heuss L'enfoiré, Jul",FR
 "187 Strassenbande, Bonez MC, Frauenarzt",DE
 Nicolas Binder,DE
-"Sfera Ebbasta, Luciano",IT
+"Sfera Ebbasta, Luciano",IT;DE
 "CÉLINE, Paula Hartmann",CA;DE
 "David Guetta, Anne-Marie, Coi Leray",FR;GB;US
 "Jazeek, reezy",DE
@@ -1892,7 +1892,7 @@ IMMI,JP
 Koushino,DE
 Milky Chance,DE
 "01099, Paul, Ski Aggu",DE;GB
-"Summer Cem, Geenaro & Ghana Beats, reezy",TR;DE
+"Summer Cem, Geenaro & Ghana Beats, reezy",DE
 "The Weeknd, Future",CA;US
 "KC Rebell, Kontra K",DE
 Dani Lia,AT
@@ -1920,14 +1920,14 @@ Kollegah,DE
 "Atay, Jamule",DE
 "Jax Jones, Calum Scott",GB
 Ricchi E Poveri,IT
-"reezy, Luciano",DE;IT
+"reezy, Luciano",DE
 RAF Camora,AT
 "PA Sports, Samra",DE
 Katja Krasavice,DE
 "LEA, 01099, Gustav, Zachi",DE;AT
 "SIRA, Bausa, badchieff",DE
 "Takt32, badmómzjay",DE
-Bring Me The Horizon,GB;US
+Bring Me The Horizon,GB
 "KARDO, X WAVE",DE
 Teya Dora,RS
 "FAST BOY, Topic",DE
@@ -1949,7 +1949,7 @@ Shirin David,DE
 "1986zig, Kool Savas",DE
 "KC Rebell, Hasso, Miksu / Macloud",DE
 "AZAD, Miami Yacine, Pajel",DE
-"Summer Cem, Abra Cadabra, UZI, Geenaro & Ghana Beats",TR;GB;US
+"Summer Cem, Abra Cadabra, UZI, Geenaro & Ghana Beats",GB;US;DE
 "Nizi19, Lucio101, Omar101",DE
 "Ra'is, NOAH",ID
 Momo Chahine,DE
@@ -1969,7 +1969,7 @@ Momo Chahine,DE
 "FiNCH, Tream",GB;DE
 "The Weeknd, Playboi Carti, Madonna",CA;US
 "Alice Stark, Samra",DE
-"Summer Cem, Geenaro & Ghana Beats, Ezhel",TR
+"Summer Cem, Geenaro & Ghana Beats, Ezhel",DE
 "Malle Kalle, Danergy",DE
 Nico Santos,DE
 "Metro Boomin, A$AP Rocky, Roisee",US
@@ -1984,7 +1984,7 @@ Stray Kids,KR
 "Niklas Dee, Old Jim, Enny-Mae",IT;DE
 "Milano, PA Sports",US;DE
 "J Hus, Drake",GB;CA
-"BILLA JOE, Summer Cem, Geenaro & Ghana Beats",DE;TR
+"BILLA JOE, Summer Cem, Geenaro & Ghana Beats",DE
 "OG LOCKE, Unterm Radar",DE
 "Semicenk, Doğu Swag, Büken",TR
 "Post Malone, Swae Lee",US
@@ -1995,7 +1995,7 @@ Stray Kids,KR
 "Montez, SDP",US;DE
 "Silva, Bonez MC",BR;DE
 Casper,DE
-"KC Rebell, Summer Cem",DE;TR
+"KC Rebell, Summer Cem",DE
 "Big Pat, Shirama, BHZ",DE
 Gunna,US
 "DYSTINCT, Naza, Unleaded",BE;FR
@@ -2006,7 +2006,7 @@ Gunna,US
 "RAF Camora, Yung Hurn",AT
 Zymba,DE
 "Samra, BOJAN",DE
-Electric Callboy,DE;US
+Electric Callboy,DE
 MERO,DE
 Peggy Gou,DE
 "Nicki Minaj, Ice Spice, Aqua",US;NO;DK
@@ -2040,7 +2040,7 @@ Provinz,DE
 "RAF Camora, HoodBlaq",AT;DE
 "KALIM, Bawer",DE
 "Azet, DJ Gimi-O",DE
-"RIN, Miksu / Macloud",JP;DE
+"RIN, Miksu / Macloud",DE
 Troye Sivan,AU
 "Nio, Montez",DE;US
 "SIRA, Bausa, badchieff, Shirli",DE
@@ -2051,7 +2051,7 @@ Troye Sivan,AU
 "Capital Bra, Ilatch",DE
 "Katja Krasavice, felix jaehn",DE
 "Gzuz, The Cratez",DE
-"badmómzjay, Juju",DE;JP
+"badmómzjay, Juju",DE
 "Nimo, Pajel",DE
 Finnel,DE
 "Lucry & Suena, Blumengarten, 01099, Gustav, Zachi",DE;AT
@@ -2087,11 +2087,11 @@ BENNETT,US
 "Eno, Dardan",GB;DE
 "SDP, IIVEN, NESS",DE
 "Capital Bra, OZAN BRA",DE
-"Geenaro & Ghana Beats, MERO, Summer Cem, Ezhel",DE;TR
+"Geenaro & Ghana Beats, MERO, Summer Cem, Ezhel",DE
 "Miksu / Macloud, Ansu, MAJAN, Schmyt",DE
 "Bebe Rexha, David Guetta",US;FR
 "Kontra K, Lana Del Rey",DE;US
-"Luciano, BIA",IT;US
+"Luciano, BIA",US;DE
 "cassö, RAYE, D-Block Europe",GB
 "VOLO, CAPO, AK AUSSERKONTROLLE",IT;DE
 Angela Asiana,CH;LK
@@ -2106,7 +2106,7 @@ YAKARY,DE
 "Marnik, Naeleck, VINAI",IT;FR
 "Ski Aggu, $OHO BANI",DE
 "SIRA, Ufo361",DE
-"Creeds, Summer Cem, Domiziana",FR;TR;DE
+"Creeds, Summer Cem, Domiziana",FR;DE
 "2 Engel & Charlie, FiNCH",DE;GB
 "LX, Maxwell, CIIIO",DE;US
 "Capital Bra, OZAN BRA, Ilatch",DE
@@ -2115,11 +2115,11 @@ Julien Bam,DE
 "Jazeek, MERO",DE
 "CRO, Blumengarten",DE
 "Kurdo, Jamal",DE;US
-"Anonym, Summer Cem, Samra",US;TR;DE
+"Anonym, Summer Cem, Samra",US;DE
 "BHZ, Monk, Ion Miles, Big Pat",DE;US
 Kenya Grace,GB
 "LX, Maxwell, Bonez MC",DE;US
-"DJ JEEZY, Luciano, Murda, K-Trap",DE;IT;GB
+"DJ JEEZY, Luciano, Murda, K-Trap",DE;GB
 "NGEE, Teflon030",DE
 "Julien Bam, Julia Beautx",DE
 "Tiësto, 21 Savage, BIA",NL;US
@@ -2130,7 +2130,7 @@ Kenya Grace,GB
 Bausa,DE
 The Kolors,IT
 Burna Boy,NG
-HamedLoco,
+HamedLoco,IR
 Sosa La M,DE
 "Niclov, Baron",ES;UY
 "Drake, SZA",CA;US
@@ -2152,7 +2152,7 @@ Paula Hartmann,DE
 K.I.Z,DE
 "cassö, RAYE, Valexus, D-Block Europe",GB;DE
 "Azet, PAIX, LOLO79",DE;GB
-april27,
+april27,US
 "Lune, CÉLINE",DE;CA
 "Bausa, LEA",DE
 "Ufo361, Destroy Lonely",DE;US
@@ -2160,12 +2160,12 @@ Mikael,SE
 "OMAR, NGEE, BOJAN",GB;DE
 "Ikkimel, Barré",DE;US
 "SANNA, Samra",FR;DE
-"BIA, Luciano",US;IT
+"BIA, Luciano",US;DE
 "Nimo, IMMI",DE;JP
 "Kalazh44, Capital Bra, ROTE MÜTZE RAPHI",DE
 "Leony, Niklas Dee, VIZE",DE
 "Drake, Yeat",CA;US
-"01099, RIN, Gustav",DE;JP;AT
+"01099, RIN, Gustav",DE;AT
 "Drake, J. Cole",CA;US
 "Samra, Lacrim, Accaoui",DE;FR
 "MENJU, Dardan, Monet192",DE;CH
@@ -2213,7 +2213,7 @@ Cleffy,AU
 "Celo & Abdi, Nimo, Schubi AKpella, Krime, Olexesh",DE
 Bosse,DE
 Berq,DE
-The Citizens of Halloween,
+The Citizens of Halloween,US
 "01099, Trettmann, Gustav, Zachi",DE;AT
 "Capital Bra, Joker Bra",DE
 "BHZ, Monk, Ion Miles",DE;US
@@ -2225,11 +2225,11 @@ The Beatles,GB
 "MADE, SHABAB, Azu, 29 Seconds",JP;AT
 "LIZOT, KYANU",DE
 "Kontra K, SANTOS",DE;DO
-"Luciano, Morad",IT;ES
+"Luciano, Morad",ES;DE
 Jack Harlow,US
 "CAPO, MERO",DE
 "badmómzjay, Takt32, vito",DE
-"Kontra K, Luciano",DE;IT
+"Kontra K, Luciano",DE
 "Kontra K, Samra",DE
 "HE/RO, NESS",DE
 "David Guetta, Kim Petras",FR;US
@@ -2240,14 +2240,14 @@ DANO,ES
 "Julien Bam, Joon Kim",DE
 "JID, 21 Savage, Baby Tate",US
 "GIMS, Morad, SativaMusic",FR;ES
-EMES,
+EMES,DE
 "Madeline Juno, 1986zig",DE
 "Ofenbach, Norma Jean Martine",FR;GB
 "BHZ, Big Pat, Ion Miles",DE
 "MADE, Azu",JP
 "Helene Fischer, Shirin David",DE
 "Ritter Lean, Ski Aggu",DE
-"Stickle, Yung Hurn, Luciano",AT;IT
+"Stickle, Yung Hurn, Luciano",AT;DE
 "MERO, Tion Wayne",DE;GB
 "Provinz, ENNIO",DE;IT
 "Safraoui, HoodBlaq",DE
@@ -2301,7 +2301,7 @@ Céline Dion,CA
 "Miley Cyrus, Mark Ronson, Sean Ono Lennon",GB;US
 Backstreet Boys,US
 "MADE, BARÉ, Biggie68",JP;US;DE
-"Luciano, Hurts, 6PM RECORDS, SIRA",IT;GB;DE
+"Luciano, Hurts, 6PM RECORDS, SIRA",GB;DE
 "MADE, BARÉ, SHABAB, Azu, Bayor, Biggie68, Skandal",JP;US;AT;DE;ID
 "MADE, SHABAB",JP;AT
 GIGI D'AGOSTINO,IT
@@ -2312,7 +2312,7 @@ Die Prinzen,DE
 "Olexesh, AJÉ",DE
 "Elley Duhé, Whethan",US
 Nicolas Julian,DE
-TOTO,CA;US;ZA;GB
+TOTO,US
 Kesha,US
 Noah Kahan,US
 "Luca-Dante Spadafora, Beats by Luca",DE
@@ -2322,15 +2322,15 @@ Soft Cell,GB
 "Nimo, Haftbefehl",DE
 "OG Keemo, Shindy, Sumpa",DE
 Sophie Ellis-Bextor,GB
-"OG Keemo, RIN",DE;JP
+"OG Keemo, RIN",DE
 "Tiësto, FAST BOY",NL;DE
 "MADE, Hassuna, Biggie68, VITO",JP;DE
 Kanye West,US
-CYRIL,FR
+CYRIL,AU
 "KAYEF, Tom Twers",DE
 "MADE, Skandal, Kenan",JP;ID;TR
 Nickelback,CA
-"Summer Cem, BILLA JOE",TR;DE
+"Summer Cem, BILLA JOE",DE
 21 Savage,US
 "21 Savage, Travis Scott, Metro Boomin",US
 "Rap La Rue, Haaland936, Aymen, Amo",DE;JP
@@ -2351,7 +2351,7 @@ Creepy Nuts,JP
 Flo Milli,US
 ENNIO,IT
 "Flume, kai",AU;DE
-"Luciano, Niska",IT;FR
+"Luciano, Niska",FR;DE
 "CAPO, Kolja Goldstein",DE;NL
 "Esther Graf, Montez",AT;US
 "Maxwell, RAF Camora, Bonez MC",US;AT;DE
@@ -2376,13 +2376,13 @@ Shy Smith,CA
 Paves 16,GB
 DJSM,IT
 "skrt cobain, Mark Forster, Ski Aggu",DE
-"Luciano, OMAH LAY",IT;NG
+"Luciano, OMAH LAY",NG;DE
 "¥$, Kanye West, Ty Dolla $ign",US
 "Bonez MC, Nizi19",DE
 "FiNCH, Katja Krasavice, Luca-Dante Spadafora, Niklas Dee",GB;DE
 "Olexesh, MEL",DE;US
 "Travis Scott, Swae Lee, Chief Keef",US
-"Luciano, Stefflon Don, HoodBlaq",IT;GB;DE
+"Luciano, Stefflon Don, HoodBlaq",GB;DE
 "MADE, BARÉ, Azu",JP;US
 Fäaschtbänkler,CH
 Madison Beer,US
@@ -2394,19 +2394,19 @@ Nancy Franck,DE
 "Rap La Rue, Haaland936",DE
 Carly Rae Jepsen,CA
 Michael Marcagi,US
-"Disturbed, CYRIL",US;FR
+"Disturbed, CYRIL",US;AU
 Yeat,US
 Richy Mitch & The Coal Miners,US
 "Lucio101, Fergy53",DE
 "$OHO BANI, Herbert Grönemeyer, Ericson",DE;SE
-"Luciano, Mario",IT;US
+"Luciano, Mario",US;DE
 "Rap La Rue, Kauta, Aymen",DE;ES
 "CAPO, Nimo",DE
 "Rap La Rue, ILO 7ARAGA, Haaland936",DE
 "6PM RECORDS, Yung Hurn, Stickle",AT
 "Rap La Rue, Jiyo, Amo",DE;JP
 "KARDO, BANGWHITE, GOTTI, X WAVE",DE;US
-"CAPO, Summer Cem",DE;TR
+"CAPO, Summer Cem",DE
 "Lune, SHABAB",DE;AT
 "Nimo, BILLA JOE",DE
 "Kolja Goldstein, Sido",NL;DE
@@ -2433,16 +2433,16 @@ Joost,NL
 "Rap La Rue, Jiyo",DE
 "Ufo361, lucidbeatz, Monty Datta, Snøw",DE;US
 "Lucry & Suena, Bonez MC, Young Dolph",DE;US
-"Nemzzz, Luciano",GB;IT
+"Nemzzz, Luciano",GB;DE
 "Capital Bra, Sido, GRiNGO",DE
 "Olexesh, Haaland936",DE
-"BILLA JOE, Summer Cem, AJ Tracey",DE;TR;GB
+"BILLA JOE, Summer Cem, AJ Tracey",DE;GB
 Zeynep Bastık,TR
 "Rap La Rue, Aymen",DE
 Sampagne,IT
 "FiNCH, Alex Christensen",GB;DE
 "LukasBS, Marvin Vlogt, iCrimax",DE
-"Tua, RIN",DE;JP
+"Tua, RIN",DE
 Kings of Leon,US
 "Future, Metro Boomin, Kendrick Lamar",US
 "Future, Metro Boomin, Travis Scott, Playboi Carti",US
@@ -2463,7 +2463,7 @@ Gzuz,DE
 "Beyoncé, Miley Cyrus",US
 Trettmann,DE
 "Camila Cabello, Playboi Carti",US
-"ENNIO, RIN",IT;JP
+"ENNIO, RIN",IT;DE
 "Lucio101, Thxuzz, Tommy Gun",DE;US
 Levin Liam,DE
 "Rap La Rue, ILO 7ARAGA, Aymen",DE
@@ -2495,7 +2495,7 @@ Zara Larsson,SE
 "KARDO, SHABAB, X WAVE",DE;AT
 Lay Bankz,US
 "Hypaton, David Guetta",IT;FR
-"Summer Cem, Pajel",TR;DE
+"Summer Cem, Pajel",DE
 "FOURTY, Bausa, CHEKAA",DE;CH
 "KATI K, FiNCH",DE;GB
 "HoodBlaq, Alim, Veysel.Blaq, Safraoui, Jamal, Moussa, Mali",DE;US;SN;NZ
@@ -2513,7 +2513,7 @@ Zensery,DE
 "AYLIVA, Apache 207",DE
 "Jazeek, Milano",DE;US
 Amo,JP
-"Trettmann, RIN",DE;JP
+"Trettmann, RIN",DE
 "Kianush, YAKARY, PA Sports",DE
 "Olexesh, ILO 7ARAGA",DE
 "Isi Glück, Marc Eggers",DE
@@ -2527,7 +2527,7 @@ Eternxlkz,KZ
 "O.G. Pezo, Pashanim",DE
 "SDP, Sido, Esther Graf",DE;AT
 "Peter Fox, reezy",DE
-"Celo & Abdi, Summer Cem, Nimo",DE;TR
+"Celo & Abdi, Summer Cem, Nimo",DE
 "Rasa, ILO",US;GB
 Tommy Richman,US
 "Gzuz, LX",DE
@@ -2535,7 +2535,7 @@ Tommy Richman,US
 "Tiësto, Dimitri Vegas & Like Mike, Gabry Ponte",NL;BE;IT
 "Mickie Krause, Julian Sommer",DE
 "Ufo361, Monty Datta, Hinshi",DE;US
-Nemo,FR
+Nemo,CH
 "Chapo102, Bausa, Herbert Grönemeyer",DE
 "Post Malone, Morgan Wallen",US
 "Paula Hartmann, makko",DE
@@ -2573,18 +2573,18 @@ Bronski Beat,GB
 "Central Cee, Lil Baby",GB;US
 "Milano, MERO",US;DE
 "Capital Bra, UNDERARMOR CLIQUE, Caps, Caso, Miclo",DE;US;IT
-"BABYMETAL, Electric Callboy",JP;DE;US
+"BABYMETAL, Electric Callboy",JP;DE
 "Nimo, Soufian",DE
 "KARDO, CAPO, X WAVE",DE
 "Schubi AKpella, Amo",JP
 "Sampagne, Stickle",IT;AT
 "JEREMIAS, Herbert Grönemeyer",DE
-"HoodBlaq, Luciano, Mali, Jamal, Alim, Moussa",DE;IT;NZ;US;SN
+"HoodBlaq, Luciano, Mali, Jamal, Alim, Moussa",DE;NZ;US;SN
 "Baby B3ns, Yung Hurn",DE;AT
-"Aylo, Juju",DE;JP
+"Aylo, Juju",DE
 Kool Savas,DE
 "6PM RECORDS, Ski Aggu, Haaland936, SIRA",DE
-"Aitch, Luciano",GB;IT
+"Aitch, Luciano",GB;DE
 "Gzuz, Bonez MC",DE
 "KARDO, 3robi, X WAVE",DE;NL
 "Kurdo, CAPO",DE
@@ -2632,7 +2632,7 @@ Calvin Harris,GB
 "Zartmann, Drumla, Dauner",DE
 "Liaze, Olexesh",DE
 "Eurythmics, Annie Lennox, Dave Stewart",GB;US
-"Summer Cem, Geolier",TR;IT
+"Summer Cem, Geolier",IT;DE
 Tayna,XK
 "01099, Zachi, Gustav, Paul",DE;AT;GB
 "Quavo, Lana Del Rey",US
@@ -2651,17 +2651,17 @@ Tayna,XK
 "Eminem, Jelly Roll",US
 Celo & Abdi,DE
 "Pitbull, Kesha",US
-"Luciano, Jazeek",IT;DE
+"Luciano, Jazeek",DE
 FANJI,DE
 "ELDENO, Sido",DE
 "Lost Frequencies, Tom Odell",BE;GB
 "HUGEL, Topic, Arash, Daecolm",FR;DE;SE;GB
-Alphaville,DE;GB
+Alphaville,DE
 "HoodBlaq, reezy, Safraoui, Jamal",DE;US
 "HoodBlaq, Gzuz, Jamal, Mali",DE;US;NZ
 Butterbro,AT
 "Celo & Abdi, Haftbefehl, Amo",DE;JP
-"HoodBlaq, Mali, Jamal, Alim, Luciano, Moussa",DE;NZ;US;IT;SN
+"HoodBlaq, Mali, Jamal, Alim, Luciano, Moussa",DE;NZ;US;SN
 "oddworld, makko",DE
 The Goo Goo Dolls,US
 "Gordo, Drake",US;CA
@@ -2684,11 +2684,11 @@ Gravagerz,IT
 Shawn Mendes,CA
 "Nizi19, Lucio101",DE
 "Montez, Kontra K",US;DE
-"Bonez MC, Juju",DE;JP
+"Bonez MC, Juju",DE
 "Ski Aggu, JEREMIAS",DE
 "MERO, Jumpa",DE
 "DJEZJA, Rockywhereyoubeen",NL
-"Pajel, Summer Cem",DE;TR
+"Pajel, Summer Cem",DE
 "Lil Peep, XXXTENTACION",US
 "Rap La Rue, Der Yavuz",DE
 "Eno, Nimo",GB;DE
@@ -2730,7 +2730,7 @@ nimino,GB
 "Ufo361, Paula Hartmann",DE
 "YAKARY, Jamule",DE
 "Pashanim, RB030, Selim61",DE
-"RIN, oddworld",JP;DE
+"RIN, oddworld",DE
 "reezy, OZ",DE;ES
 "ENNIO, Nina Chuba",IT;DE
 Souly,DE
@@ -2739,9 +2739,9 @@ Schmyt,DE
 "Amo, Aymen",JP;DE
 "Levin Liam, reezy",DE
 "Symba, makko",DE
-"1986zig, Summer Cem",DE;TR
+"1986zig, Summer Cem",DE
 "VOLO, Delil, AVIE",IT;DE
-"Jazeek, Luciano, Miksu / Macloud",DE;IT
+"Jazeek, Luciano, Miksu / Macloud",DE
 "Ski Aggu, Bausa, FILLY, BUNT.",DE;AT
 "FiNCH, JBS",GB;DE
 "Symba, Pashanim",DE
@@ -2768,7 +2768,7 @@ JENNIE,KR
 Lichterkinder,DE
 "DJ Lucas Beat, Sia, MC Matheuzim",AU
 "NAVACHA, Mucco",DE
-"David Guetta, Alphaville, Ava Max",FR;DE;GB;US
+"David Guetta, Alphaville, Ava Max",FR;US;DE
 bac,TW
 "Shirin David, Sampagne",DE
 "Ufo361, Nina Chuba",DE
@@ -2804,7 +2804,7 @@ Paris Paloma,GB
 Yc,US
 "Ufo361, Symba",DE
 "Trettmann, Bonez MC",DE
-"Ufo361, RIN, $OHO BANI",DE;JP
+"Ufo361, RIN, $OHO BANI",DE
 Noizy,AL
 "Jamal, Safraoui, HoodBlaq",US;DE
 "Tom Hengst, OG Keemo",DE
@@ -2831,11 +2831,11 @@ Noizy,AL
 Chase Atlantic,AU
 "Trettmann, Jassin",DE
 "Arcane, Ashnikko",US
-"Sosa La M, Luciano",IT
+"Sosa La M, Luciano",DE
 "Saliou, Jazeek",DE
 "Ego, YAKARY, Haftbefehl",DE
-Ché Salah,
-THIZZY52,
+Ché Salah,DE
+THIZZY52,US
 Lola Young,GB
 "Betsy, Maria Iankovskaia",GB
 "Lucio101, Bonez MC",DE
@@ -2849,7 +2849,7 @@ Vanessa Mai,DE
 "Jamule, YAKARY",DE
 The Weavers,US
 Charlie Puth,US
-Glee Cast,US;CA;KR
+Glee Cast,US
 Bing Crosby,US
 Whitney Houston,US
 "VIZE, Leony",DE
@@ -2869,7 +2869,7 @@ Spider Murphy Gang,DE
 Iyaz,VG
 The Pointer Sisters,US
 "Chrystal, NOTION",GB
-Rednex,GB;DE;SE
+Rednex,SE
 "Aymen, Amo, Ché Salah",DE;JP
 Avicii,SE
 "PENOMECO, YDG",KR;US
@@ -2890,7 +2890,7 @@ Saliou,DE
 Wir sind Helden,DE
 "BARÉ, Rasa",US
 "Capital Bra, Ufo361",DE
-"Apache 207, Luciano",DE;IT
+"Apache 207, Luciano",DE
 "Tream, Mia Julia",DE
 "Sonus030, AK AUSSERKONTROLLE",DE
 Oimara,DE
@@ -2903,7 +2903,7 @@ XAVAS,DE
 Nessa Barrett,US
 "Mucco, OMAR",GB
 "KALIM, Nizi19, CANEY030",DE
-"Nimo, Summer Cem",DE;TR
+"Nimo, Summer Cem",DE
 ZAH1DE,DE
 Asche,DE
 "Central Cee, Lil Durk",GB;US
@@ -2928,7 +2928,7 @@ Doechii,US
 RIAN,JP
 "Mali, CANEY030, Eno, HoodBlaq",NZ;DE;GB
 "Rap La Rue, Finessim",DE
-"LISA, Doja Cat, RAYE",JP;US;GB
+"LISA, Doja Cat, RAYE",US;GB;TH
 "Mucco, Haps",DE
 "Helene Fischer, Florian Silbereisen",DE
 "WizTheMc, bees & honey",DE
@@ -2982,7 +2982,7 @@ Peter Wackel,DE
 Empire Of The Sun,AU
 "Zartmann, Kasi, Aaron, antonius",DE;US
 "Zerb, Ty Dolla $ign, Wiz Khalifa",BR;US
-jxlyn,
+jxlyn,DE
 "Filow, Ikkimel, Lucry & Suena",DE
 "Playboi Carti, The Weeknd",US;CA
 "Playboi Carti, Travis Scott",US
@@ -3009,12 +3009,12 @@ ATLXS,IT
 "Jazeek, SAMIRA",DE;MA
 "Bonez MC, Nate57, JUGGLERZ",DE
 "Drunken Masters, Nico K.I.Z, K.I.Z",DE
-"SIRA, RIN, Lucio101",DE;JP
+"SIRA, RIN, Lucio101",DE
 "Jazeek, Murda",DE
 "Shirin David, Xavier Naidoo",DE
 "Stickle, Bausa",DE
 Münchener Freiheit,DE
-"Rumbombe, bozi",
+"Rumbombe, bozi",DE
 "Dimitri Vegas & Like Mike, W&W, Marnik, Dimitri Vegas",BE;NL;IT
 "Nimo, Amo",DE;JP
 "Zartmann, Gustav, 01099",DE;AT
@@ -3026,13 +3026,13 @@ BANE,US
 Ella Stern,DE
 Ravyn Lenae,US
 "BOJAN, Monet192",DE;CH
-"Arnoire, vetlyx",
+"Arnoire, vetlyx",DE
 "Tream, KATI K, FiNCH",DE;GB
 "1986zig, Bozza",DE
 Elias,BR
 Papa Roach,US
 Nirvana,US
-"Bonez MC, Nate57, JUGGLERZ, AchtVier, AK 33, AK AUSSERKONTROLLE, AZAD, Big Toe, CANEY030, Celo & Abdi, Crackaveli, Curse, Dardan, Die P, Eno, FiNCH, Frauenarzt, Hakan Abi, Haze, Jaill, Jan Delay, Jonesmann, Juju, Kaisa Natron, Kolja Goldstein, Kontra K, Kwam.E, LAAS, LX, makko, Massiv, MP FRESHLY, Nizi19, Olexesh, OTW, Reeperbahn Kareem, Sa4, Saliou, Samra, Sido, SIL3A, Silva, Ski Aggu, Tom Hengst, Vega, Veysel, ZINED",DE;GB;US;JP;NL;BR
+"Bonez MC, Nate57, JUGGLERZ, AchtVier, AK 33, AK AUSSERKONTROLLE, AZAD, Big Toe, CANEY030, Celo & Abdi, Crackaveli, Curse, Dardan, Die P, Eno, FiNCH, Frauenarzt, Hakan Abi, Haze, Jaill, Jan Delay, Jonesmann, Juju, Kaisa Natron, Kolja Goldstein, Kontra K, Kwam.E, LAAS, LX, makko, Massiv, MP FRESHLY, Nizi19, Olexesh, OTW, Reeperbahn Kareem, Sa4, Saliou, Samra, Sido, SIL3A, Silva, Ski Aggu, Tom Hengst, Vega, Veysel, ZINED",DE;GB;US;NL;BR
 "01099, Paul, Ikkimel",DE;GB
 "Pajel, reezy",DE
 "Milano, Jazeek",US;DE
@@ -3047,7 +3047,7 @@ Lorde,NZ
 "Dauner, Ski Aggu, Ikkimel, Barré",DE;US
 "Pashanim, Ceren",DE
 "WizTheMc, bees & honey, Tyla",DE;GB
-"Atay, KARDO, Loredana",DE;IT
+"Atay, KARDO, Loredana",DE;CH
 "Ely Oaks, LAVINIA",AT;DE
 "Zsá Zsá, Replay Okay",DE
 "Kontra K, NESS",DE
@@ -3078,7 +3078,7 @@ VÆB,IS
 Zoë Më,CH
 "AYCA, CANEY030",TR;DE
 "Alim, Veysel.Blaq, HoodBlaq",DE
-Levi Heron,
+Levi Heron,GB
 "Veysel, KARDO",DE
 "Abor & Tynna, nowifi",AT
 "Bonez MC, Lucry & Suena",DE
@@ -3090,7 +3090,7 @@ YUNG SAINT PAUL,DE
 "Aymen, Amo",DE;JP
 "Tate McRae, F1 The Album",CA
 "Azet, Noizy",DE;AL
-"Dafina Zeqiri, Luciano",SE;IT
+"Dafina Zeqiri, Luciano",SE;DE
 "Pajel, BILLA JOE",DE
 "Bobby Vandamme, Chahid",DE
 "MAJAN, $OHO BANI",DE
@@ -3155,13 +3155,13 @@ Fleetwood Mac,GB;US;NZ
 Jassin,DE
 "Shindy, KALIM",DE
 "Ikkimel, nocashfromparents",DE
-Black Sabbath,GB;US;AU
+Black Sabbath,GB
 Marino,CA
 "KARDO, X WAVE, Veysel",DE
 "Shindy, Yung Kafa & Kücük Efendi",DE
 TWICE,KR
 "Aymen, SIRA",DE
-"Amo, Ché Salah",JP
+"Amo, Ché Salah",JP;DE
 "SDP, Esther Graf, Montez, Clueso, ELIF, Kontra K, SANTOS, Querbeat",DE;AT;US;DO
 "10am, Ufo361",GB;DE
 "Aymen, Ché Salah",DE
@@ -3176,7 +3176,7 @@ Ozzy Osbourne,GB
 Gregor Hägele,DE
 oskar med k,NO
 "RAF Camora, Ufo361",AT;DE
-"Luciano, THIZZY52",IT
+"Luciano, THIZZY52",DE
 "reezy, AJ Tracey",DE;GB
 "Sefo, Demet Akalın, Amo, Aymen",DE;TR;JP
 "Dardan, Jamin",DE;AT
@@ -3187,12 +3187,12 @@ oskar med k,NO
 "HUGEL, Dawty, Preston Harris",FR
 "MK, Chrystal",US;GB
 "Nina Chuba, makko",DE
-"Luciano, Sosa La M",IT
+"Luciano, Sosa La M",DE
 "01099, CRO, Paul, Gustav",DE;GB;AT
-"Luciano, La Mano 1.9",IT;FR
-"Luciano, Yc",IT;US
-"Luciano, Bobbyezz",IT
-"Luciano, Mali",IT;NZ
+"Luciano, La Mano 1.9",FR;DE
+"Luciano, Yc",US;DE
+"Luciano, Bobbyezz",DE
+"Luciano, Mali",NZ;DE
 "Ian Asher, Olly Alexander (Years & Years)",US
 BLOK3,TR
 "Nizi19, Yuyu19, KALIM, CANEY030",DE
@@ -3227,12 +3227,12 @@ Metallica,US
 "BIBIZA, Ikkimel",AT;DE
 "Ché Salah, Aymen",DE
 "Olexesh, Nimo, $hirak",DE;NL
-"Tkandz, CXSPER",
+"Tkandz, CXSPER",DE
 Unheilig,DE
 "Haaland936, Aymen, Amo",DE;JP
 "Kraftklub, Domiziana",DE
 "Lucio101, Zackavelli",DE
-"Afshin Momadi, Luciano",IT
+"Afshin Momadi, Luciano",DE
 "Delil, Kurdo",DE
 "SSIO, K.I.Z",DE
 "01099, Zachi, Trettmann",DE
@@ -3245,9 +3245,9 @@ Unheilig,DE
 "Aaron, Zartmann",US;DE
 "David Guetta, Teddy Swims, Tones And I",FR;US;AU
 "ScubaPro, Doktormethoden & Doktormithoden, Flocas",DE
-"Jazeek, Luciano",DE;IT
+"Jazeek, Luciano",DE
 "SSIO, XATAR",DE
-"Ché Salah, Amo",JP
+"Ché Salah, Amo",JP;DE
 DYSTINCT,BE
 Kid Cudi,US
 "SSIO, Schwesta Ewa, SAMY",DE
@@ -3260,11 +3260,11 @@ Evanescence,US
 "Bobby Vandamme, Azet",DE
 "Zuna, Kurdo",DE
 "PA69, Ikkimel",DE
-"Loredana, Schwesta Ewa",IT;DE
+"Loredana, Schwesta Ewa",DE;CH
 "Dave, Tems",US;NG
 Haftbefehl,DE
 Reinhard Mey,DE
-"Luciano, Tayc",IT;FR
+"Luciano, Tayc",FR;DE
 "Haftbefehl, Shirin David, Bazzazian",DE
 "Haftbefehl, Marteria",DE
 "Ikkimel, The Cratez",DE
@@ -3273,7 +3273,7 @@ Reinhard Mey,DE
 "ZAH1DE, benno!",DE;DK
 "Vega, Kontra K",US;DE
 Lūcadelic,
-Nalya,
+Nalya,DE
 "Dardan, Lvbel C5",DE;TR
 "PA Sports, Jaimy",DE
 NESS,AT
@@ -3287,7 +3287,7 @@ NESS,AT
 RnBoi,FR
 "NF, mgk",US
 "NF, James Arthur",US;GB
-"ZXKAI, slxughter",
+"ZXKAI, slxughter",US
 "Ski Aggu, GDA",DE
 "JAŸ-Z, Alicia Keys",US
 "Paula Hartmann, Berq",DE
@@ -3299,7 +3299,7 @@ RnBoi,FR
 "Eno, KARDO",GB;DE
 "Kraftklub, Nina Chuba",DE
 "Kraftklub, Faber",DE;SE
-"Luciano, DYSTINCT",IT;BE
+"Luciano, DYSTINCT",BE;DE
 "SSIO, COLORS",DE;US
 Rea Garvey,DE
 "Kraftklub, Deichkind",DE
@@ -3313,7 +3313,7 @@ Toujour,DE
 "Kato, Jon",DK;GB
 "Justin Bieber, Mariah Carey",CA;US
 DJ Ötzi,AT
-Men At Work,NZ;AU
+Men At Work,AU
 t.A.T.u.,RU
 "LACAZETTE, GWENDO",DE
 "Michael Bublé, Shania Twain",CA
@@ -3323,13 +3323,13 @@ Laufey,IS
 "Eno, Soufian",GB;DE
 Wizzard,GB
 "Idina Menzel, Michael Bublé",US;CA
-Seso,
-Breitner,
+Seso,DE
+Breitner,DE
 Diana Ross,US
 The Clash,GB
 Ace of Base,SE
 "Mätropolis, Dj Aaron",DE
-Tears For Fears,GB;US
+Tears For Fears,GB
 Billy Joel,US
 "Mickie Krause, Lorenz Büffel, Kings of Günter, Immer Hansi",DE;AT;NL
 "Icona Pop, Charli xcx",SE;GB
@@ -3345,7 +3345,7 @@ Tiffany,US
 "Disney, Shakira",US;CO
 Chris Grey,US
 "EsDeeKid, fakemink, Rico Ace",GB
-Cutting Crew,GB;CA
+Cutting Crew,GB
 "KC Rebell, Sido, AK AUSSERKONTROLLE",DE
 SIENNA SPIRO,GB
 "NOAH, Eno, CANEY030, Samra",ID;GB;DE
@@ -3378,7 +3378,7 @@ Red Hot Chili Peppers,US
 "Don Toliver, Yeat",US
 Druckluft,DE
 "Don Toliver, Travis Scott",US
-Sean Ok,
+Sean Ok,DE
 "Druckluft, Nancy Franck",DE
 "KALIM, Nimo",DE
 "QMIIR, SALIMA CHICA",RU
@@ -3392,7 +3392,7 @@ Sean Ok,
 "Schürze, Der Partycrasher",DE
 "Ché Salah, Amo, AVIE",JP;DE
 "$OHO BANI, Provinz, Ericson",DE;SE
-HWZ,
+HWZ,DE
 Akon,SN
 Ghost61,IT
 Coldyaa,
@@ -3417,7 +3417,7 @@ Bella Kay,US
 "badmómzjay, Boki",DE;RS
 JORIS,NL
 Olga Myko,SE
-"Apsilon, Summer Cem",DE;TR
+"Apsilon, Summer Cem",DE
 "Bebe Rexha, Faithless",US;GB
 Temper City,IL
 "RAF Camora, Dardan",AT;DE
@@ -3451,16 +3451,16 @@ LENNSKO,
 "Tyla, Zara Larsson",GB;SE
 "Lune, Morpheuz",DE
 Madonna,US
-"Summer Cem, CANEY030, JURI",TR;DE
+"Summer Cem, CANEY030, JURI",DE
 "Bonez MC, LAYÉ, Kwam.E, JUGGLERZ",DE;CA
-"BOJAN, Loredana",DE;IT
+"BOJAN, Loredana",DE;CH
 "Marc Eggers, Aditotoro, Paul Frege",CH
 "Ikkimel, nocashfromparents, Florida Juicy, Barré",DE;US
 The Second Voice,ZM
 "YUNG SAINT PAUL, anaïs",DE;FR
 "ANOTR, 54 Ultra",NL
 "RAF Camora, Lvbel C5",AT;TR
-"RIN, reezy",JP;DE
+"RIN, reezy",DE
 Plain White T's,US
 MGMT,US
 F3miii,IE
@@ -3520,21 +3520,21 @@ Mogéline,
 "Kolja Goldstein, 3robi",NL
 "Luca-Dante Spadafora, Julian Sommer, Andre Schnura",DE
 "Pitbull, Jennifer Lopez, Claudia Leitte",US;BR
-Margot Huber,
+Margot Huber,DE
 "Aya Nakamura, La Rvfleuze",FR
 Bonnie Tyler,GB
 "FiNCH, Bausa",GB;DE
 Aya Nakamura,FR
 "SIRA, Aymen, NiklasWilson",DE
-BearyTunes,
+BearyTunes,DE
 "LACAZETTE, GANGSTA RALPH, Sido, DJ Desue",DE
 DopeNation,GH
 Josh Fawaz,AU
 DJ Goja,RO
-"RIN, Schmyt",JP;DE
+"RIN, Schmyt",DE
 "Bonez MC, Gzuz, JUGGLERZ",DE
-"6PM RECORDS, Sosa La M",
-"Juju, RAF Camora",JP;AT
+"6PM RECORDS, Sosa La M",DE
+"Juju, RAF Camora",AT;DE
 "HUGEL, Imael Angel, Ultra Naté",FR;US
 "Bonez MC, Gzuz, JUGGLERZ, Negitiv",DE
 "STOSLIV, LOVIXX",
@@ -3546,7 +3546,7 @@ Robyn,SE
 Ian Asher,US
 "Samra, Capital Bra",DE
 "Bonez MC, Ufo361, Lucry & Suena",DE
-"Summer Cem, BILLA JOE, Philemon",TR;DE;FR
+"Summer Cem, BILLA JOE, Philemon",DE;FR
 "Bausa, Philipp Dittberner",DE
 pupsies,US
 "Kolja Goldstein, Jumpa",NL;DE
@@ -3554,10 +3554,10 @@ pupsies,US
 Capital Cities,US
 "Fat Papi, prodshushy",
 "SHABAB, RAF Camora",AT
-Die Toten Hosen,DE;GB
+Die Toten Hosen,DE
 "Aymen, 3robi",DE;NL
 Alyssa Grace,US
-"Mauvais djo, Kano Choir",
+"Mauvais djo, Kano Choir",FR
 "Fenix Flexin, Purps On The Beat",US
 System Of A Down,US
 "HoodBlaq, Gzuz",DE
@@ -3582,7 +3582,7 @@ Aitch,GB
 "LOKIMITDERMASKE, DJ TÖRKE, Lil Texas",US
 "Icelandian Trumpets, Sword of Vikings",
 Liquido,DE
-"Summer Cem, Shirin David",TR;DE
+"Summer Cem, Shirin David",DE
 "Ski Aggu, Ericson",DE;SE
 "Tream, Bausa",DE
 "Marteria, Yasha, Miss Platnum",DE
@@ -3606,16 +3606,16 @@ Dolly Parton,US
 TLC,US
 The Cranberries,IE
 Wiz Khalifa,US
-HARDWICK,
+HARDWICK,DE
 "Ego, CANEY030, Undacava, Lord Jko",DE
 "Nemzzz, Travis Scott",GB;US
-LISA,JP
-Wxoda,
+LISA,TH
+Wxoda,US
 "Ufo361, Souly, Blumengarten",DE
 "Cave, Amo, Soufian",AU;GB;DE;CH;US;JP
 "SadiQ, KALIM",DE
 "badmómzjay, Ikkimel",DE
-"Summer Cem, Shirin David, KIARABABA, Celo & Abdi, Kolja Goldstein",TR;DE;NL
+"Summer Cem, Shirin David, KIARABABA, Celo & Abdi, Kolja Goldstein",DE;NL
 "Sa4, Gzuz",DE
 "Yuyu19, LACAZETTE",DE
 PAPKE,DE
@@ -3626,13 +3626,13 @@ PAPKE,DE
 "THIZZY52, COLORS",US
 "Aymen, CAPO",DE
 Faouzia,CA
-Mazzy Star,US;IE
+Mazzy Star,US
 Ashe,US
 "Samra, Capital Bra, FINJA",DE
 "Berq, KITSCHKRIEG",DE
 "GENER8ION, Yung Lean",FR;SE
 "Yuyu19, Pashanim",DE
-"Justin Pollnik, Ajo Felix, ArniMakeItDrop",
+"Justin Pollnik, Ajo Felix, ArniMakeItDrop",DE
 Chris Isaak,US
 Levant,
 "Ghost61, VOLO",IT
@@ -3640,7 +3640,7 @@ Levant,
 "Ufo361, 10am",DE;GB
 "HWZ, SOTT, Dosh",DE;US
 "VOLO, Ghost61",IT
-bôa,KR
+bôa,GB
 "Ufo361, Souly",DE
 "Cairokee, Marwan Pablo",EG
 "Wegz, Ash",EG;GB
@@ -3677,7 +3677,7 @@ Mahmoud El Esseily,EG
 Mohammed Saeed,EG
 "Akram Hosny, Ayten Amer, Hanady Mehanna",EG
 Shahyn,EG
-ريفو شو,
+ريفو شو,SY
 "Wegz, Disco Misr",EG
 "Molotof, Marwan Pablo",EG
 Ali Loka,EG
@@ -3691,7 +3691,7 @@ Farid,DE
 Muhabspam,
 "Wegz, LZHYMR",EG
 Yonyo,EG
-Abu,CH
+Abu,EG
 Tamer Ashour,EG
 "Essam Sasa, Mostafa Elgen",EG
 Amr Diab,EG
@@ -3709,13 +3709,13 @@ Ahmed Kamel,EG
 Shehab,EG
 Abyusif,EG
 Ruby,US
-احمد الدوجري,
+احمد الدوجري,SY
 "Lil Nas X, Jack Harlow",US
 "Essam Sasa, Hamo ElTikha",EG
 Wael Jassar,LB
 "DizzyTooSkinny, Omar Keif",EG
 "Charlie Puth, Jung Kook, BTS",US;KR
-"Teha, Hamada Abu El Saoud",
+"Teha, Hamada Abu El Saoud",EG
 "Double Zuksh, 3enba, Abo El Anwar",EG
 Fujii Kaze,JP
 "Shehab, Dj Totti",EG;FR
@@ -3733,21 +3733,21 @@ Alec Benjamin,US
 "3enba, Lil baba",EG
 Ahmed Santa,EG
 Hamza Namira,EG
-E Evil,
+E Evil,EG
 Abd El Basset Hamouda,EG
 "Zap Tharwat, Sary Hany, Muslim - مُسلِم",EG
 3enba,EG
-"3enba, Ordne",
-Sherine,ID
+"3enba, Ordne",EG
+Sherine,EG
 "Don Bigg, Marwan Moussa",MA
-"Shehab, Mello Music",
+"Shehab, Mello Music",EG
 Amr Mostafa,EG
 "Houda, Sultan Elshan",EG;MA
 "Houda, Muslim, Sultan Elshan",MA
 AD Music Proudction,
 Mohamed Fouad,EG
 Hamo ElTikha,EG
-"Slyver PV, G. Oka",
+"Slyver PV, G. Oka",EG
 "Abo El Anwar, Lil Baba",EG
 Hamo Bika,EG
 "3enba, Essam Sasa",EG
@@ -3755,29 +3755,29 @@ Nabil,MA
 "Abyusif, Ismail Nosrat, Lella Fadda",EG
 "Nicki Minaj, Maluma, Myriam Fares, FIFA Sound",US;CO
 "ZIAD ZAZA, 5mstashr",EG
-"Resha Costa, Samara Now",
-Slyver PV,
+"Resha Costa, Samara Now",EG;LY
+Slyver PV,ES
 مسلم,MA
 "Ahmed Abdo, Eslam El Malah",EG
 "RM, Youjeen",KR
 George Wassouf,SY
-Mohamed Ahmed,
+Mohamed Ahmed,EG
 Conan Gray,US
 Ramy Gamal,EG
 "Metro Boomin, A$AP Rocky, Takeoff",US
-ازعرينا,
+ازعرينا,EG
 "Omega Production, Ahmed Eid",PS
 "Muslim, Abd El Basset Hamouda",MA
 "احمد موزه, Essam Sasa",EG
-torwada,
+torwada,MA
 "FL EX, Wingii",EG
-Kimo Elfanan,
+Kimo Elfanan,EG
 "Wingii, FL EX, Husayn, Tommy Gun",US
 "Abo El Anwar, Dr. Mo3geza, Coolpix",EG
 "El Waili, ZIAD ZAZA",EG
 "Ahmed Saad, Ahmed Zaeem, NORDO",TN
 Mohamed Chahine,EG
-"Marwan Moussa, Stormy",IT
+"Marwan Moussa, Stormy",MA
 "Cairokee, Umm Kulthum",EG
 "Shabjdeed, Al Nather",PS
 "TAEYANG, Jimin",KR
@@ -3786,12 +3786,12 @@ Sharmoofers,EG
 Ramy Essam,EG
 "Abyusif, Dr. Mo3geza",EG
 Arsenik,FR
-هناء يسري,
-"Youssef Kajo, Seif Magdy, Abdelsalam, Shalsha",
+هناء يسري,EG
+"Youssef Kajo, Seif Magdy, Abdelsalam, Shalsha",SY
 "Mahmoud El Esseily, Banque Misr, Medhat Saleh, Diab",EG
 "FL EX, Ramez Naguib",EG
 "مودي امين, Hamo ElTikha",EG
-"مروان الزعيم, حمو دوبار",
+"مروان الزعيم, حمو دوبار",SY;MA
 "Shehab, Omar Keif",EG
 "El Sawareekh, Abo El Anwar",EG
 "Husayn, Ahmed Santa, Abyusif, FL EX, Abo El Anwar",US;EG
@@ -3800,7 +3800,7 @@ Arsenik,FR
 "Abo El Anwar, Lil Baba, Ahmed Santa",EG
 Husayn,US
 "Hr-Muisc1, احمد كامل",EG
-"Seif Magdy, محمد عبسلام, شئلشة",
+"Seif Magdy, محمد عبسلام, شئلشة",EG
 "Abyusif, Abo El Anwar",EG
 "Abo El Anwar, Husayn",EG;US
 "Abo El Anwar, Lil Baba, Abyusif, Desso, Ahmed Ahmed Santa",EG;RU
@@ -3809,7 +3809,7 @@ Hr-Muisc1,EG
 amadio,
 ZIAD ZAZA,EG
 عطار,IR
-El Mahrgan,
+El Mahrgan,EG
 Ahmed Mekky,EG
 "Xander Ghost, Marwan Pablo",EG
 "j-hope, J. Cole",KR;US
@@ -3817,19 +3817,19 @@ Ahmed Mekky,EG
 Hussain Aljassmi,AE
 "Mahmoud El Esseily, Mohamed Adaweya",EG
 "Ahmed Saad, Hesham El Gakh",EG
-"amadio, Khadra Mohamed Khedr",
+"amadio, Khadra Mohamed Khedr",EG
 Hakim,US
 Abd El Aziz Mahmoud,EG
 Mohamed Abdel Mottaleb,EG
 Telecom Egypt,EG
 Morshedy Group,LB
 "FL EX, Husayn, Wingii",US
-Za3abeez,
-D1M1K,
+Za3abeez,SY
+D1M1K,EG
 "Begad, Wingii",EG
 VLI WEEZY,EG
 "Morshedy Group, Mahmoud El Esseily, Razane Jammal",LB
-Marwan Pablo Archive,
+Marwan Pablo Archive,EG
 "Samar Tarik, El Waili",EG
 JISOO,KR
 "Angham, Mahmoud El Esseily",EG
@@ -3839,7 +3839,7 @@ fir$tOff,
 "Mohamed Ramadan, Skales",EG;NG
 "Angham, Cairokee",EG
 "Yousef Osha, Karim Cristiano",EG
-الفنان محمد الذهبي,
+الفنان محمد الذهبي,EG
 Double Zuksh,EG
 "Essam Sasa, 3enba",EG
 Maha Ftouni,LB
@@ -3848,7 +3848,7 @@ Maha Ftouni,LB
 Karim Cristiano,EG
 "Marwan Moussa, Afroto",EG
 "Pepsi Egypt, Wegz",EG
-3ab3az,
+3ab3az,SA
 "Wezza Montaser, Afroto",EG
 siilawy,JO
 Angham,EG
@@ -3861,9 +3861,9 @@ Nawal,KM
 "Mahmoud El Esseily, Karim Abdelaziz, Karim Mahmoud Abdelaziz",EG
 Dish Dash,SA
 Reda El Bahrawy,EG
-Hamada El Asmar,
-الشيخ عمر الباسط,
-3askalany,
+Hamada El Asmar,EG
+الشيخ عمر الباسط,SY
+3askalany,EG
 "Mohamed Ramadan, GIMS",FR
 Dzel Uzi,EG
 "Reda El Bahrawy, Muslim",MA
@@ -3887,10 +3887,10 @@ Badrya Elsayed,EG
 "Mahmoud El Leithy, Eslam Saso",EG
 Elissa,CA
 Camila Cabello,US
-"Eslam Kabonga, Kalosha",
-"Mahmoud El Esseily, Aly Fathalla",
+"Eslam Kabonga, Kalosha",EG
+"Mahmoud El Esseily, Aly Fathalla",EG
 Mostafa Elnesr,EG
-MINA_KHALIL,
+MINA_KHALIL,EG
 Tameem Youness,EG
 "Daboor, Shabjdeed, Al Nather",PS
 "Mahmoud El Leithy, Essam Sasa",EG
@@ -3899,7 +3899,7 @@ Mahmoud El Lithy,EG
 "Mond, EVO",JP
 "Omar Meme, Essam Sasa",EG
 "Amer Mounib, Mariam Amer Mounib",EG
-TalkinToys,
+TalkinToys,US
 Eslam Kabonga,EG
 G. Oka,EG
 "Rajieen, Saif safadi, Dana Salah, Ghaliaa, Afroto, NORDO, Shroof, Akhras, Issam Alnajjar, Balti, Amir Eid, Wessam Qutob, Dina El Wedidi, Bataineh, Omar Rammal, Alyoung, Randar, Vortex, Smallx, A.L.A, Fuad Gritli, Donia Wael, zeyne, Marwan Moussa, Marwan Pablo, Dafencii",JO;AE;EG;TN;PS;SA;NL;LY
@@ -3911,61 +3911,61 @@ Youssif Elashry,EG
 "Marwan Pablo, A.L.A",EG
 "Eslam Kabonga, Miso misara",EG
 Abeer Nehme,LB
-"Eslam Kabonga, كلوشه",
-"Nelly, Sherine",US;ID
+"Eslam Kabonga, كلوشه",EG
+"Nelly, Sherine",US;EG
 "Lege-Cy, POLYYY",EG
 "Ahmed Saad, Bahaa Sultan, Esaad Younes",EG
-"Eslam Kabonga, Hoda Boda",
-"3ab3az, Begad",
+"Eslam Kabonga, Hoda Boda",EG
+"3ab3az, Begad",EG
 "Kimo El Deeb, Essam Sasa",EG
-"كلوشه, Eslam Kabonga",
+"كلوشه, Eslam Kabonga",EG
 "Farid, Muslim - مُسلِم",DE
 "Mostafa El Gen, Hady El Saghier",EG
-"حوده بوده, Eslam Kabonga",
+"حوده بوده, Eslam Kabonga",EG
 Haifa Wehbe,LB
 "Magdy El Zahar, Eslam Kabonga",EG
 "ZIAD ZAZA, Ismail Nosrat",EG
 "Hamada El Leithy, Amr Salama",EG
-"Ramy Gamal, Nariman",
+"Ramy Gamal, Nariman",EG
 "Essam Sasa, Moustafa Hagag",EG
 "Farid, Ramy Gamal",DE
 "Afroto, Moaaz Hamed",EG
-Fares Sokar - فارس سكر,
+Fares Sokar - فارس سكر,SY
 Mayada El Hennawy,SY
 Kozbara,EG
 Ferqet El Masryeen,EG
 Al Massrieen,EG
 "Karim Osama, Sulisizer",EG
-Rashad ComBal,
+Rashad ComBal,SY
 "Assala, Ahmed Saad",SY;BH;EG
 "Ahmed Santa, Abyusif",EG
 "Zoë Badwi, Dan Slater",AU
 Yazan Haifawi,JO
 AL SHAMI,SY
-"ميسو ميسره, Eslam Kabonga",
+"ميسو ميسره, Eslam Kabonga",EG
 Ahmed Amer,EG
 Maher Zain,SE
-Ali Roshdii,
+Ali Roshdii,IR
 Sabah,EG
 "Kimo El Deep, Essam Sasa",EG
-Omar Id,
+Omar Id,EG
 El Tholathy El Mareh,EG
-"Ameer Dana, The Global Nasheeds",
-"Fares Zezo, Shwaha, 7l2olo",
+"Ameer Dana, The Global Nasheeds",EG;SA
+"Fares Zezo, Shwaha, 7l2olo",EG
 "Hussain Aljassmi, Orange",JP
-"Fares Sokar - فارس سكر, Omar Id",
+"Fares Sokar - فارس سكر, Omar Id",EG
 "TURK, Ärsenik, ZIAD ZAZA",US;FR
-Team Omda,
+Team Omda,EG
 "TURK, ZIAD ZAZA, Dabl De",US
 Ahmed Moza,EG
 "Hamo Bika, Eslam Kabonga",EG
-"حمادة مجدي, Hassan Shakosh",
+"حمادة مجدي, Hassan Shakosh",EG
 Umm Kulthum,EG
 Safaa Abu El Saod,EG
 Aziz Maraka,JO
 "Essam Sasa, Kimo Eldeeb",EG
 "Hassan Shakosh, Omar Kamal, Hamo Bika",EG
-"محمود معتمد, عبدالله كايزر",
+"محمود معتمد, عبدالله كايزر",EG
 Mahmoud El Leithy,EG
 Teefo,EG
 "Hassan Shakosh, Hamo Bika",EG
@@ -3978,9 +3978,9 @@ TUL8TE,EG
 "Ameen Khattab, Essam Sasa",EG
 "Karim Cristiano, Eslam Kabonga",EG
 Eslam Shendy,EG
-"Mohamed El Fannan, Eslam El Abyad",
+"Mohamed El Fannan, Eslam El Abyad",EG
 Felo,CL
-"Hamo Bika, ايفا الايراني, مودي امين",
+"Hamo Bika, ايفا الايراني, مودي امين",EG
 "Mostafa Elgen, Hady El Soghir",EG
 "Amir Eid, Donia Wael, Galaleo",EG
 Tito W Bondok El Qema,EG
@@ -3994,34 +3994,34 @@ Nourine,EG
 زاد,LB
 "Mostafa Elgen, Hady El Saghier",EG
 "Afroto, ZIAD ZAZA",EG
-"Ahmed Amer, Mohamed Beka",
+"Ahmed Amer, Mohamed Beka",EG
 Sara Haytham,EG
 "Marwan Pablo, Xander Ghost",EG
 Ahmed Sheba,EG
-"Sir Henry Rawlinson, Katie Malcomson, Alex Nova",
+"Sir Henry Rawlinson, Katie Malcomson, Alex Nova",GB
 "3enba, Dou, Issa & Assouad",CN
-Moamen Moaa,
+Moamen Moaa,EG
 "Shahyn, Big Moe",EG;US
 "Afroto, ONUY",EG
-ميدو مزيكا,
+ميدو مزيكا,EG
 "Pousi, Muslim",MA
 "redi, aspectinge",AL
 "Abyusif, Dou",CN
 "Amr Salama, عدوية شعبان عبدالرحيم",EG
-"yousef mohamed, TUL8TE",
-"جودي الليبيه, حمدين",
+"yousef mohamed, TUL8TE",EG
+"جودي الليبيه, حمدين",LY
 Ayed,CA
-COPY RIGHT | MUSIC,
-Said Fatla,
-Amr Gaber,
+COPY RIGHT | MUSIC,EG
+Said Fatla,MA
+Amr Gaber,EG
 "HADY MOAMER, Marwan Pablo",EG
-"Shawaha, 7l2olo",
+"Shawaha, 7l2olo",LB
 "Disco Misr, TUL8TE",EG
 "Marwan Pablo, Molotof",EG
 "Mostafa Elgen, Hady El Soghayar",EG
-Hamza Al Mahmdawi,
+Hamza Al Mahmdawi,IQ
 "Lege-Cy, Akhras",EG;JO
-محمد البصيلي,
+محمد البصيلي,EG
 "Hady El Soghayar, Mostafa Elgen",EG
 "Wegz, Madinet Masr",EG
 "Ahmed Moza, Hasan El Prince",EG
@@ -4038,37 +4038,37 @@ Lella Fadda,EG
 "Tommyy, Rally",EG;SE
 "مصطفي الجن و هادي الصغير - تيم الابداع, Mostafa Elgen, Hady El Soghayar",EG
 "Tamer Hosny, Ramy Sabry",EG
-"حمو رانجو, الصافي رايزو",
+"حمو رانجو, الصافي رايزو",EG
 "Marwan Moussa, Eslam Kabonga",EG
 "Karim Osama, Tarek El Sheikh, Coolpix",EG
-"Abdulrahman Mohammed, Mohab Omer",
+"Abdulrahman Mohammed, Mohab Omer",SD
 "Zaid Khaled, El Waili",JO
 "Dj Totti, Shehab",FR;EG
-Maryam Shehab,
-ليل المحمدي,
+Maryam Shehab,SY
+ليل المحمدي,EG
 "Nagham Saleh, Sulisizer",EG
 Karim Osama,EG
-"Abdulrahman Mohammed, Khalid Barzanji",
+"Abdulrahman Mohammed, Khalid Barzanji",IQ
 مصطفي الجن و هادي الصغير - تيم الابداع,EG
 "Oualid, Zeina",NL;CA
-Kurapica,
-عبدالرحمن مسعد,
-"مهرجان, حوده بندق, تيتو بندق",
+Kurapica,EG
+عبدالرحمن مسعد,SA
+"مهرجان, حوده بندق, تيتو بندق",EG
 "Ahmed Moza, 7l2olo",EG
 e& Egypt,EG
 "Hassan El Shafei, Elissa, Al Ahly Sabbour Developments",EG;CA
-"Hassan Shakosh, حمادة مجدي",
-ستوديو حازم علي - Studio Hazem Ali,
+"Hassan Shakosh, حمادة مجدي",EG
+ستوديو حازم علي - Studio Hazem Ali,EG
 Rahma Mohsen,TN
 "Dj Guuga, Mc Livinho",BR
 "Hassan El Shafei, Amir Eid, Bahaa Sultan, Inertia",EG;GB
 "مصطفي الجن و هادي الصغير - تيم الابداع, Karim Cristiano",EG
-"ايهاب البوب, مصطفى الجن, هادى الصغير",
+"ايهاب البوب, مصطفى الجن, هادى الصغير",EG
 "Eslam Saso, مصطفى ابو سريع",EG
 "Saint Levant, Marwan Moussa",US
-"Houda, Tito Bondok",
-"Eslam Kabonga, Figo El Dakhlawy",
-Versus Music,
+"Houda, Tito Bondok",EG
+"Eslam Kabonga, Figo El Dakhlawy",EG
+Versus Music,LB
 "Mustafa El Gen, Hady Elsoghier",EG
 "Wegz, Tayc",EG;FR
 "Marwan Moussa, Lege-Cy",EG
@@ -4094,23 +4094,23 @@ Fadel Chaker,LB;PS
 "Saint Levant, Fares Sokar",US
 Jadal,JO
 "Wegz, ZIAD ZAZA",EG
-"Eslam Kabonga, ايفا الايراني, Figo El Dakhlawy",
+"Eslam Kabonga, ايفا الايراني, Figo El Dakhlawy",EG
 "Tommyy, Galaleo",EG
-"Eslam Kabonga, حوده بوده",
+"Eslam Kabonga, حوده بوده",EG
 "ZIAD ZAZA, Omar Keif",EG
 Tommyy,EG
 "Karim Cristiano, Mostafa El Gen, Hady Elsoghier",EG
-Samer Elmedany,
+Samer Elmedany,EG
 "Nasser, Kay",FR;US
-الحاجة نبيلة,
+الحاجة نبيلة,EG
 Nancy Ajram,LB
 "Tommyy, Houda, Red Bull Sika",EG
 Amer Mounib,EG
-"Hamo Bika, مودي امين, Ali Adora",
+"Hamo Bika, مودي امين, Ali Adora",EG
 "Wegz, Mohamed Mounir",EG
 "Amr Mostafa, ZIAD ZAZA, Moataz Mady, Red Bull Sika",EG
 "Ameen Khattab, Felo",CL
-"Yasmina El-Abd, Aley Eldin Omar, WRST Studio",
+"Yasmina El-Abd, Aley Eldin Omar, WRST Studio",EG
 "Wegz, Nasser",EG;FR
 "Ahmed Bahaa, Lege-Cy",EG
 "Wegz, Dhom Altlasy",EG
@@ -4121,7 +4121,7 @@ Amer Mounib,EG
 حمو المرشدي,EG
 "Nasser, Bashmohannad",FR
 "Nassif Zeytoun, Abu Ward",SY
-"مينا عجميستا, احمد الكروان",
+"مينا عجميستا, احمد الكروان",EG
 "Donia Wael, WRST Studio",EG
 "Omar Keif, ZIAD ZAZA",EG
 "Lege-Cy, Ghaliaa",EG;AE
@@ -4136,12 +4136,12 @@ Orange,JP
 "Ahmed Sheba, Essam Sasa",EG
 "Bahaa Sultan, Al Ahly Sabbour Developments",EG
 "Hamo ElTikha, مودي امين",EG
-"Mahmoud El Esseily, Sabren Elnegily",
+"Mahmoud El Esseily, Sabren Elnegily",EG
 "Tamer Ashour, TAJ MISR",EG
 "Hamo Bika, Mody Amin",EG
 "7l2olo, Mody Amin",EG
-Hamo El Morshedy,
-مروان الزعيم,
+Hamo El Morshedy,EG
+مروان الزعيم,SY
 "Marwan Pablo, HADY MOAMER",EG
 "Marwan Pablo, Xander Ghost, HADY MOAMER",EG
 "Assala, Ramy Sabry",SY;BH;EG
@@ -4151,27 +4151,27 @@ tarik kaim NEXUS,
 "Omar Keif, Mousv",EG
 Dr Alfons,EG
 "Hamo Bika, Nour El Tot",EG
-Al Sheikh Hashem Al Saqaf,
+Al Sheikh Hashem Al Saqaf,SA
 "Omar Keif, Lege-Cy",EG
-"Sufism Home الحضرة الصوفية, ABED ALHALIM BENSHI",
+"Sufism Home الحضرة الصوفية, ABED ALHALIM BENSHI",EG
 Lian Noor,
 Mishaal Tamer,SA
-"Mohamed Hamaki, Sherine",ID
+"Mohamed Hamaki, Sherine",EG
 "ZIAD ZAZA, TURK, KUKII",US
 "Rahma Mohsen, NORDO",TN
 "TUL8TE, Saint Levant",US
 "Lege-Cy, HatemBas",EG
-ايهاب البوب,
+ايهاب البوب,EG
 DizzyTooSkinny,EG
-"Hasnaa, Aley Eldin Omar",
+"Hasnaa, Aley Eldin Omar",EG
 "TAG, HatemBas",JP
 "Afroto, Wezza Montaser",EG
 "Mahmoud El Esseily, Essam Sasa",EG
 Adam,GB
-"ZIAD ZAZA, Amjad Jomaa, Ismail Nosrat, Sleiman Damien",
+"ZIAD ZAZA, Amjad Jomaa, Ismail Nosrat, Sleiman Damien",EG
 "TUL8TE, COLORS",US
 "Tawsen, Fares Sokar",BE
-"ABDOOO, Marwann pablo, Lege-cyy",
+"ABDOOO, Marwann pablo, Lege-cyy",EG
 "TUL8TE, Vodafone",NZ
 "Marwan Pablo, Lege-Cy, HatemBas",EG
 Donia Wael,EG
@@ -4185,7 +4185,7 @@ Mohamed Ramadan,EG
 MARVLINO,
 "ZIAD ZAZA, Zeina",CA
 Ahmed Batshan,EG
-"HAMO ELGALAD, الخال El khal",
+"HAMO ELGALAD, الخال El khal",EG
 "Amr Mostafa, Wezza Montaser, حمو المرشدي, Red Bull Sika",EG
 "Amr Mostafa, حمو المرشدي, Wezza Montaser",EG
 abulhawa,
@@ -4204,7 +4204,7 @@ Beendo Z,FR
 "PEDRO SAMPAIO, Anitta, Dadju, Mc Pedrinho, Nicky Jam",BR;FR;PR
 Pierre de Maere,BE
 Jul,FR
-"Fresh, Nouvelle École",DE
+"Fresh, Nouvelle École",BE
 "Tiakola, Rsko",FR
 Damso,BE
 "Kalash, Damso",FR;BE
@@ -4217,7 +4217,7 @@ Ninho,FR
 Lucenzo,FR
 "Bigflo & Oli, Julien Doré",FR
 "Timal, Gazo",FR
-"Fresh, Niska",DE;FR
+"Fresh, Niska",FR;BE
 "Naps, Gazo",FR
 Vincè la petite culotte,FR
 "disiz, Damso",FR;BE
@@ -4257,7 +4257,7 @@ Ziak,FR
 "PLK, OBOY",FR
 "SDM, Tiakola",FR
 Djadja & Dinaz,FR
-Fresh,DE
+Fresh,BE
 "Calema, Dj Youcef",ST
 Angèle,BE
 "Nekfeu, Nemir",FR
@@ -4279,7 +4279,7 @@ Ashh,FR
 Kungs,FR
 "Soolking, Kendji Girac",DZ;FR
 Kendji Girac,FR
-Adé,IT
+Adé,FR
 "Aya Nakamura, Damso",FR;BE
 "Hornet La Frappe, Ninho",FR
 "Angèle, Damso",BE
@@ -4309,7 +4309,7 @@ Eva,US
 "Orelsan, Skread",FR
 "No Limit, Orelsan, Ninho",DE;FR
 Aime Simone,DE
-Demszer,
+Demszer,HU
 "Yaro, Ninho",FR
 "REDVOLUTION, Ninho",FR
 Luv Resval,FR
@@ -4323,8 +4323,8 @@ SCH,FR
 "Angèle, Orelsan",BE;FR
 "Lorenzo, Tony Corrida",GB
 "Franglish, Ninho",FR
-"Fresh, SCH",DE;FR
-"Fresh, Shay",DE;BE
+"Fresh, SCH",FR;BE
+"Fresh, Shay",BE
 "ASHE 22, Hamza",FR;BE
 "Zed, Tiakola",DE;FR
 Sound Of Legend,FR
@@ -4346,7 +4346,7 @@ Maes,FR
 Nour,ES
 SDM,FR
 "Leto, Guy2Bezbar, SDM",FR
-"Black Eyed Peas, Anitta, El Alfa",US;PH;BR;DO
+"Black Eyed Peas, Anitta, El Alfa",BR;DO;US
 Dadju,FR
 "Stavo, Alpha Wann",FR
 Christophe Willem,FR
@@ -4427,12 +4427,12 @@ Smeels,FR
 "Maes, Tiakola, Zed",FR;DE
 "MALTY 2BZ, Kerchak",FR
 Livaï,FR
-Pirate,
+Pirate,AU
 "Sadek, COLORS",FR;US
 Benab,FR
 "Damso, Angèle",BE
-Johny Smile,
-Oussama,
+Johny Smile,BG
+Oussama,MA
 Kaza,FR
 "Zkr, SDM",FR
 "Fresh laDouille, Maes",FR
@@ -4484,7 +4484,7 @@ Claudio Capéo,FR
 "Josman, Sofiane Pamart",FR
 "Kaaris, Kerchak",FR
 "Landy, Leto, Rsko",IE;FR
-"Black Eyed Peas, Daddy Yankee",US;PH;PR
+"Black Eyed Peas, Daddy Yankee",PR;US
 "Landy, Ronisia",IE;FR
 Shay,BE
 "SenSey', Joé Dwèt Filé",FR
@@ -4586,7 +4586,7 @@ Lartiste,FR
 "Heuss L'enfoiré, Ninho, ZEG P",FR
 "Jason Derulo, Dido",US;GB
 Moha La Squale,FR
-Malto,
+Malto,FR
 "Trinix, Fafá de Belém",FR;BR
 Boris Way,FR
 Niaks,FR
@@ -4611,7 +4611,7 @@ Sexion d'Assaut,FR
 "Burna Boy, Dave",NG;US
 "Gnarls Barkley, CeeLo Green, Danger Mouse",US
 "Zokush, RK",FR
-SANTA,US;FR
+SANTA,FR
 KeBlack,FR
 "Leto, Koba LaD",FR
 "Favé, Gazo",FR
@@ -4685,7 +4685,7 @@ Yseult,FR
 "La Fève, Yung L.A.",FR;US
 Gaspard Royant,FR
 The Tesca Country Clan,US
-Petit Papa Noël,
+Petit Papa Noël,FR
 "La Fève, Zequin",FR
 "Madeleine Peyroux, Michel Legrand",US;FR
 Aliocha Schneider,FR;CA
@@ -4779,7 +4779,7 @@ VEN1,FR
 "KeBlack, Franglish",FR
 Timal,FR
 "Booba, Snight B, SDM",FR
-A2sia,
+A2sia,FR
 L2B,US
 "Kima, Gazo",FR
 "Trinix, Blvk H3ro",FR
@@ -4829,7 +4829,7 @@ France Gall,FR
 "UZI, JKSN",US;FR
 Soprano,FR
 "Dj Sad, La Traine, Ninocess, pitroipa",FR
-K2S,
+K2S,US
 "Gazo, Tiakola, Angèle",FR;BE
 Jérémy Frerot,FR
 "Yorssy, Nouvelle École",FR
@@ -4900,7 +4900,7 @@ Braak's,NL
 Joé Dwèt Filé,FR
 "Gazo, La Mano 1.9",FR
 Billy Idol,GB
-Youka,
+Youka,JP
 "Theodora, Jeez Suave",FR
 "Soolking, SDM",DZ;FR
 "Damso, Kalash",BE;FR
@@ -4940,7 +4940,7 @@ Linh,CA
 "GIMS, Vacra",FR
 "Tyler, The Creator, Lola Young",GB;US
 "Cher, Stevie Wonder",US
-"Loris Cerri, Il Coro di San Clemente",
+"Loris Cerri, Il Coro di San Clemente",IT
 "Jaden Bojsen, David Guetta, Sami Brielle",DE;FR
 "Gaspard Royant, Aurélie Saada",FR
 "TIF, Vacra",FR
@@ -4965,7 +4965,7 @@ La Chine,FR
 "Alonzo, GIMS",FR
 "R3HAB, Mufasa & Hypeman, Mufasa, RANI",NL;US
 "Youssoupha, Noémie",FR
-"Robin Schulz, CYRIL, Sam Martin",DE;FR;US
+"Robin Schulz, CYRIL, Sam Martin",DE;US;AU
 "Booska-P, Saïf",BD
 "DA Uzi, Ninho",FR
 Youssoupha,FR
@@ -4977,7 +4977,7 @@ Ebony,BR
 "Timal, SDM",FR
 "77 degrés, Ninho",FR
 "Alonzo, Gazo",FR
-Le Crime,
+Le Crime,FR
 Naâman,FR
 "Dadju, GIMS",FR
 "DJ Kawest, Attachingboy",FR
@@ -5011,7 +5011,7 @@ La Hasba22,FR
 TKS 2G,FR
 "Joé Dwèt Filé, Burna Boy",FR;NG
 Josas,FR
-Dexe243,
+Dexe243,AR
 "La Fouine, L2B",FR;US
 "Dj Leska, Shannon, Taliixo Beatz",FR;US
 "L2B, KLN",US
@@ -5063,7 +5063,7 @@ La Rvfleuze,FR
 "L2B, iDS, La Mano 1.9",US;FR
 "Naza, SDM",FR
 "Niska, Rako, Brigi, Trafiquinte, Madrane",FR;DE
-"VEN1, 2ZES",
+"VEN1, 2ZES",FR
 Barth,FR
 "Theodora, brazy",FR
 "L2B, iDS, SDM",US;FR
@@ -5109,17 +5109,17 @@ TK,JP
 "Asake, Tiakola",NG;FR
 "Soolking, L2B",DZ;US
 "Guy2Bezbar, Joé Dwèt Filé",FR
-Bormin’,
+Bormin’,GB
 "GIMS, La Mano 1.9",FR
 "Gradur, L2B",FR;US
 "Himra, Minz",NG
 "Alfa, Manu Chao",IT;FR
 Bello&Dallas,FR
-Kamelon Officiel,
+Kamelon Officiel,FR
 Marou Chenko,FR
 "Naza, Gazo",FR
 "GIMS, Damso",FR;BE
-BSF,
+BSF,FR
 "Superbus, RORI",FR;BE
 "DJ Kawest, L2B",FR;US
 "Paul Kalkbrenner, Stromae",DE;BE
@@ -5127,7 +5127,7 @@ Timar,FR
 "Bamby, Kerchak",DE;FR
 "Rim'K, L2B",FR;US
 "Jul, MC Menor JP, The Ironix",FR;BR;DE
-Bilouki,
+Bilouki,FR
 "Vitaa, Julien Doré",FR
 "GP Explorer, GIMS, La Mano 1.9, SCH",FR
 "JRK 19, Freeze corleone",FR
@@ -5195,7 +5195,7 @@ Lushe,FR
 "Meryl, Theodora",FR
 "Meryl, Eva",FR;US
 "Genezio, Niska",FR
-miki,DE
+miki,FR
 Ronisia,FR
 "Jul, Naza, SALIMA CHICA",FR
 "Jul, Akon",FR;SN
@@ -5204,10 +5204,10 @@ Chily,FR
 "Rsko, Timar",FR
 Claude François,FR
 Garou,CA
-"Ashvma, PDS",
-Ashvma,
+"Ashvma, PDS",FR
+Ashvma,FR
 Rambo goyard,FR
-K2_sp,
+K2_sp,FR
 a6el,CH
 "Ninho, Tiakola",FR
 "Ninho, Freeze corleone",FR
@@ -5230,12 +5230,12 @@ Black Cat,DE
 "GIMS, Maes",FR
 "La Rvfleuze, COLORS",FR;US
 "PLK, Theodora",FR
-MINUISKI,
+MINUISKI,FR
 "La Mano 1.9, XVI",FR
 "Lacrim, Nina Zilli",FR;IT
 "Angèle, Justice",BE;FR
 "Jolagreen23, Tiakola",FR
-RDN,
+RDN,FR
 Naïka,US;FR;HT
 "Zaho, MC Solaar",CA;FR
 Suzane,FR
@@ -5274,12 +5274,12 @@ Lagui,FR
 "Mous-K, PLK",FR
 "GLK, La Fouine, WIXO & LA2S, Heuss L'enfoiré, D2",FR;BR
 "Tayc, Aya Nakamura",FR
-Djaksparo,
+Djaksparo,FR
 La Famax,FR
 "Timal, Genezio",FR
 OG Plugging,FR
 "Tayc, RnBoi",FR
-Balvclava,
+Balvclava,FR
 "Iss, TK",US;JP
 "HOUDI, Anyme023",FR
 "So La Lune, Ninho",FR
@@ -5317,7 +5317,7 @@ SAF,FR
 Moha MMZ,FR
 "Tove Lo, Stromae",SE;BE
 "TK, GIMS",JP;FR
-BORO700,
+BORO700,FR
 "Franglish, KeBlack, Mauvais djo",FR
 "TRIANGLE DES BERMUDES, Francis Mercier, MC YOSHI, Mauvais djo, Kokosvoice",US
 "Niska, litleboy lsbeats767, Miimii KDS",FR
@@ -5327,11 +5327,11 @@ BORO700,
 Lawskie,FR
 Kanay,CH
 "ANS, Nouvelle École",US
-"Badara, Nayte, Nouvelle École",
+"Badara, Nayte, Nouvelle École",FR
 "Ninho, SativaMusic",FR
 "Typhee, Nouvelle École",FR
 "BEN plg, MATHILDE",FR;NL
-Azrane,
+Azrane,FR
 "Vacra, La Rvfleuze",FR
 "Nouvelle École, OZZY, YANAMKO, ANS, Nayte, MISCHA, Typhee, Kynn, Base 221",GB;FR;US;LV
 ESTL,JP
@@ -5377,7 +5377,7 @@ SNIK,GR
 "Feisty, DJ.Silence, Mateos Nps, RICTA",GR
 "Saske, VIDO, Beyond",ES;HK
 Anastasia,DE
-"SNIK, Josephine",GR;FR
+"SNIK, Josephine",GR
 "TOQUEL, Sin Laurent",GR
 Aspa,HU
 "Eleni Foureira, Hawk",CA
@@ -5394,7 +5394,7 @@ Feisty,GR
 "VLOSPA, SNIK, Oge",GR
 "Bossikan, Hawk, ObieDaz",CA;GR
 "LEX, Dof Twogee",GR
-"Owner 101, Franco 101, Corle",
+"Owner 101, Franco 101, Corle",EE
 "Leaderbrain, RICTA",GR
 "SIDARTA, Saske",GR;ES
 "Light, Saske, Skive",ES
@@ -5410,14 +5410,14 @@ Giorgos Sabanis,GR
 "Hawk, Tsaki, Baghdad",GR
 "LEX, SOLID",SE
 "Mente Fuerte, SIDARTA, Evan Spikes",GR
-Josephine,FR
+Josephine,GR
 Dani Gambino,GR
 "SNIK, VLOSPA, Oge",GR
 "Kings, Trannos, Teo Tzimas",FR
 "ATC Nico, ATC Coco",GR
 "RACK, Saske",GR
 Light,GB;US
-"Bossikan, Chico Beatz",
+"Bossikan, Chico Beatz",GR
 "RICTA, DJ.Silence, City Center",GR;US
 "TOQUEL, RACK, ObieDaz",GR
 "Greg, Johnny King, Teo Tzimas",TT
@@ -5443,7 +5443,7 @@ Trannos,GR
 "Mad Clip, Immune",GR;FR
 "Dani Gambino, Dj The Boy",GR
 "Dirty Harry, Light, Bossikan, Fy",US;GB;GR
-Thug Slime,
+Thug Slime,US
 "Dirty Harry, Trannos, BeTaf Beats",US;GR
 Nikos Oikonomopoulos,GR
 "SNIK, TOQUEL, MG, GAMEBOY",GR;US;JP
@@ -5452,7 +5452,7 @@ Nikos Oikonomopoulos,GR
 Eleni Foureira,GR
 Mad Clip,GR
 "Konstantinos Argiros, Eleni Foureira",GR
-"Jitano, Trannos, Thug Slime",
+"Jitano, Trannos, Thug Slime",US;GR
 "Helena Paparizou, Marseaux, Joanne",US
 "RACK, LILA, Beyond",GR;MX;HK
 "Light, Stan",GB;US
@@ -5499,7 +5499,7 @@ FANN,US
 "Wang, Dani Gambino, Kazal",GB;GR;HU
 "SNIK, Ivan Greko, BeTaf Beats",GR
 VLOSPA,GR
-GMARK,
+GMARK,US
 "Block 93, Tr4cer, Tsabi",GR
 Lamanif,FR
 "Dof Twogee, LEX",GR
@@ -5514,9 +5514,9 @@ LEX,GR
 Daphne Lawrence,GR
 "Natasa Theodoridou, Foivos",GR
 "Mente Fuerte, Beyond, VIDO",HK;FR
-"Thug Slime, Silly Slime",
+"Thug Slime, Silly Slime",US
 "Dylan Toole, Devan Childs",US
-"Thug Slime, Silly Slime, Ska fuego",
+"Thug Slime, Silly Slime, Ska fuego",US
 "SIGMA, Mente Fuerte",GB
 "Jitano, Trannos, Fy, Light, Alitiz, FLY LO",GR;GB;US
 "Khay Be, Kidd",GB
@@ -5589,7 +5589,7 @@ Giorgos Mazonakis,GR
 Hawk,CA
 "Dof Twogee, HGEMONA$",GR
 "Light, Hawk",GB;US;CA
-"Corle, Bato 101, Tsabi",
+"Corle, Bato 101, Tsabi",EE
 "Melisses, TOQUEL",GR
 "Fy, Lil Barty",GR
 "Konstantinos Argiros, Sakis Rouvas",GR
@@ -5616,7 +5616,7 @@ Antzy Samiou,GR
 "Retro, Night Grind, Longlive",GR
 Apostolia Zoi,GR
 "Wang, Electabaz",GB;GR
-"AK 101, Corle",
+"AK 101, Corle",EE
 "Fy, Ricky Rich",GR;SE
 "SIDARTA, SIGMA",GR;GB
 Christina Salti,GR
@@ -5630,9 +5630,9 @@ Christina Salti,GR
 DDS,US
 Elai,AL
 "ATC Nico, Lil Riico",GR
-ARAWL,
+ARAWL,GR
 "Baby Gang, Bobo, Morad",IT;CH;ES
-Delta TBF,
+Delta TBF,GR
 "TAFF, Evan Spikes",US;GR
 "Sapranov, Hawk, Steezynicco",GR;CA
 "DJ Tune, Moose, Dogoloco",GB
@@ -5649,10 +5649,10 @@ SIGMA,GB
 "Fy, Light",GR;GB;US
 "Negros Tou Moria, RACK, ODYDOZE",GR
 Strat,GR
-"Negros Tou Moria, ODYDOZE",
+"Negros Tou Moria, ODYDOZE",GR
 "Khay Be, Kimi, Destiny",US
 "Negros Tou Moria, Masla.G, MUNEYLXRD, Nuki",GR
-"Ioulia Kallimani, Michael Touratzidis",
+"Ioulia Kallimani, Michael Touratzidis",GR
 "Negros Tou Moria, ODYDOZE, Demy",GR
 "Mikros Kleftis, Tsaki, LEX",GR
 "Mikros Kleftis, Tsaki",GR
@@ -5698,7 +5698,7 @@ Beats Pliz,GR
 "FLY LO, Stanley",GR;US
 "FLY LO, Nuki",GR
 "DON LEON, Strat, Teo Tzimas",AT
-"DJ Tune, Thug Slime, Silly Slime",
+"DJ Tune, Thug Slime, Silly Slime",US
 "Dof Twogee, SPLIT, Rkan, Jay 187",NZ;AU;GR
 "Novel 729, Eversor",GR;IT
 "SIGMA, Light",GB;US
@@ -5710,7 +5710,7 @@ ZAF,MY
 "VLOSPA, Oge",GR
 "VLOSPA, V9, SOLID",GR;GB;SE
 "VLOSPA, SOLID",GR;SE
-"Trannos, Thodoris Verlis",
+"Trannos, Thodoris Verlis",GR
 "RICTA, Hawk",GR;CA
 "RICTA, Kidd, DJ.Silence",GR;GB
 "RICTA, Night Grind",GR
@@ -5748,21 +5748,21 @@ Dirty Harry,US
 "Thug Slime, Fy, Tania Breazou",GR
 "Jitano, Light, Kidd",GB;US
 "SIGMA, SIDARTA",GB;GR
-"Alecc, Ggreco",
+"Alecc, Ggreco",ES
 "Savv, RICTA",GR
 "ZAF, Christos Mastoras",MY
 "Block 93, Sp93, Tanto, mi368",GR;BG
-"Melisses, DJ Kas",
+"Melisses, DJ Kas",GR
 "Immune, RACK, Chico Beatz",FR;GR
 "Antonis Remos, Mente Fuerte",GR
 "Saske, Ramoon",ES;MA
 Marina Satti,GR
 "Oge, SNIK, VLOSPA",GR
-"Sin Boy, Dj Stephan",
+"Sin Boy, Dj Stephan",AL
 "Eleni Foureira, DISPLAY",BR
 "Fumez The Engineer, FLY LO",GR
 "Sin Boy, ROPEX LATERIO",GR
-"Trannos, Josephine",FR
+"Trannos, Josephine",GR
 Sin Boy,AL
 "Sin Boy, N.O.E, Bvcovia, Yolte, Riskykidd",DE;RO;GR
 "Sin Boy, BretBeats",GR
@@ -5775,7 +5775,7 @@ Sin Boy,AL
 "RACK, BeTaf Beats, Beyond",GR;HK
 "Ypo, Grend Kid",FI
 "Kidd, Light, Skive, Destiny",GB;US
-Yung Megistan,
+Yung Megistan,US
 "Martha Frintzila, Orestis Ntantos",GR
 "Logos Timis, Koraki, Eleuthero Pneuma, Tokesick, Sativa",GR;AR
 "Block 93, Yanek",GR;GB
@@ -5784,7 +5784,7 @@ Yung Megistan,
 "Dirty Harry, Alecc, Ggreco, Echo",US;GB
 "DIFF, Roi 6/12, BeTaf Beats",GR
 "Lil PoP, Fy, Takinio Soul",US;GR
-"Nineb Youk, TOQUEL, Jo Lids",
+"Nineb Youk, TOQUEL, Jo Lids",GR
 "Mente Fuerte, Ramoon",MA
 Stelios Vamvakas,GR
 "Pan Pan, Kalliopi Mitropoulou",GR;GB
@@ -5801,14 +5801,14 @@ Anas,DK
 "Lobo, Giorgos Orfanidis",US
 "Diddy, The Weeknd, French Montana, 21 Savage",US;CA
 "Hawk, TOQUEL, Baghdad",CA
-"Thug Slime, DJ Tune, Silly Slime, Dogoloco",
+"Thug Slime, DJ Tune, Silly Slime, Dogoloco",US
 "DIFF, Greco Beats",NL;GR
 "Stan, Ivan Greko, BeTaf Beats",US;GR
 "Kako, Jessy Blue",GR
 "VLOSPA, Sadam, V9, Kareem Kalokoh",GR;GB
 "Tugan, Ortiz, Skoul",GR;US
 Sicario,FR
-"Sin Boy, Popayedi",
+"Sin Boy, Popayedi",AL
 Katerina Lioliou,GR
 "Vamva, Fy, Dimitris Yagoulis",GR
 Klavdia,GR
@@ -5825,12 +5825,12 @@ Nino Xypolitas,GR
 "Kidd, Lil Koni",GB
 "Evangelia, Negros Tou Moria",US
 "Ethismos, Negros Tou Moria, Melow",GR
-Kimi,
-"Josephine, Mad Clip",FR;GR
-duKYS,
+Kimi,JP
+"Josephine, Mad Clip",GR
+duKYS,GR
 "Kidd, Oge",GB;GR
 "SIDARTA, Yll Limani",GR;XK
-Onad,
+Onad,GR
 "Lava, ROPEX LATERIO",NO;GR
 "Immune, Dani Gambino, Misk",FR;GR;US
 FLY LO,GR
@@ -5869,7 +5869,7 @@ Vasilis Karras,GR
 "Vasilis Karras, Foivos",GR
 "Vasilis Karras, Pantelis Pantelidis",GR
 "Vasilis Karras, Pyx Lax",GR
-Paris Evaggelou,
+Paris Evaggelou,GR
 "Kidd, Onad",GB
 "TOQUEL, Light",GB;US
 "SNIK, TOQUEL, Voyage, Ivan Greko, BeTaf Beats",GR;FR;GB
@@ -5890,7 +5890,7 @@ Verde,IT;KR
 Christos,DE
 "Onad, MUNEYLXRD",GR
 "Jala Brat, Light, Pyrex",BA;GB;US
-The Dream X,
+The Dream X,MX
 "Oge, RACK, Kidd, Fy",GR;GB
 Immune,FR
 "TOQUEL, Ioannis",US
@@ -5910,7 +5910,7 @@ Billie Kark,GR
 Tzamal,GR
 Mente Fuerte,GR
 REC,GR
-"Thug Slime, DJ Tune, Kimi",
+"Thug Slime, DJ Tune, Kimi",US
 Yorgos Rous,GR
 "Bossikan, Aspa",HU
 "Saske, SIDARTA, Beyond",ES;GR;HK
@@ -5926,7 +5926,7 @@ Yorgos Rous,GR
 "FANN, Bloody Hawk, Greco Beats, Hades",US;GR
 "FANN, RACK, Tr4cer",US;GR
 "FANN, HGEMONA$, Mike G",US
-"Panos Kanatas, Danai Mamakou",
+"Panos Kanatas, Danai Mamakou",GR
 "Bloody Hawk, Dani Gambino, Wang",GR;GB
 "Logos Timis, Sumo Beats, Eleuthero Pneuma, Koraki, Sativa, Tokesick",GR;AR
 "Ellize, Saske",GR;ES
@@ -5955,11 +5955,11 @@ Marina Spanou,GR
 "Ethismos, GoldenChild",GR;US
 "Ethismos, SOLID",GR;SE
 "SIDARTA, Light, Sin Laurent",GR;GB;US
-Alecc,
+Alecc,US
 "Onad, Kest",BR
 "Mef, Lindo",NO;FR
 "Ivan Greko, BeTaf Beats, Saxpas",GR
-"Thug Slime, Lindo, Gosei",
+"Thug Slime, Lindo, Gosei",US;FR;JP
 "LILA, RACK, Sin Laurent, Beyond",MX;GR;HK
 "FANN, Dani Gambino, Th Mark",US;GR
 "Logos Timis, Eleuthero Pneuma, Koraki, Sativa, Tokesick",GR;AR
@@ -6001,7 +6001,7 @@ Nebulossa,ES
 "Kidd, Bexli, Destiny",GB;US
 "luffex, umutlopes, wonken",
 "Sp93, Block 93",BG;GR
-"HGEMONA$, Ggreco",
+"HGEMONA$, Ggreco",GR
 "SNIK, TOQUEL",GR
 "Natassa Bofiliou, Themis Karamouratidis, Gerasimos Evangelatos",GR
 "SNIK, Marseaux, 2nd Roof",GR;IT
@@ -6056,7 +6056,7 @@ Sokratis Malamas,GR
 "Arab, Tr4cer",GB;GR
 "DIFF, Ivan Greko, Spize, BeTaf Beats",NL;GR
 "Kings, Ivan Greko, Mc Daddy, Teo Tzimas",FR;GR
-Dippy,
+Dippy,GR
 "Trannos, SNIK",GR
 "Trannos, Arab",GB
 "Trannos, Kidd",GB
@@ -6065,7 +6065,7 @@ Dippy,
 "Trannos, YT K",GR
 "Trannos, Yolte, Roi 6/12",GR
 "Trannos, Matolale",GR;AL
-"Trannos, Marilena, Teo Tzimas",
+"Trannos, Marilena, Teo Tzimas",GR
 "Yanek, Block 93, Rampo",GB;GR
 "SIDARTA, MENJU",GR;DE
 "HGEMONA$, FLY LO, Bossikan",GR
@@ -6080,8 +6080,8 @@ Dippy,
 "Bossikan, FLY LO, Trannos",GR
 "Bossikan, DIFF",GR
 "Bossikan, Roi 6/12",GR
-"Bossikan, Lovd",
-"Bossikan, M3NOS",
+"Bossikan, Lovd",GR
+"Bossikan, M3NOS",GR
 "Ioulia Karapataki, Orestis Ntantos",GR
 "Saske, SIDARTA, VIDO",ES;GR
 "Saske, Eleni Foureira",ES
@@ -6110,8 +6110,8 @@ Dimitris Zervoudakis,GR
 "RACK, DJ.Silence",GR
 "FLY LO, Strat",GR
 "Arab, ASOK, 1Κ Chainz",GB
-"Marseaux, dPans",
-"XRS, KSF, Saxpas",
+"Marseaux, dPans",GR
+"XRS, KSF, Saxpas",BR
 "Ivan Greko, Trannos, BeTaf Beats",GR
 "Ivan Greko, SNIK, BeTaf Beats",GR
 "Ivan Greko, Sanko",GR;GB
@@ -6123,14 +6123,14 @@ Dimitris Zervoudakis,GR
 "Feisty, ROPEX LATERIO, Paris Kalpos",GR
 "Bres, Marzi, Megrel",GR;DE
 "Hawk, Kidd, Baghdad",CA;GB
-"Josephine, Ivan Greko, Stathis Xenos",FR;GR
+"Josephine, Ivan Greko, Stathis Xenos",GR
 "Trannos, Billy Sio",GR
 "Negros Tou Moria, Saske, ODYDOZE",ES
 "ATC Coco, Megrel",GR
 "Onad, Tr4cer",GR
 XRS,BR
 "Stryv, Camila Cabello, Malachiii, Adam Port, Keinemusik, Orso",US;DE
-"Negros Tou Moria, ODYDOZE, Evan SBK",
+"Negros Tou Moria, ODYDOZE, Evan SBK",GR
 "BandoleRo, Arab, Croco",FR;GB
 "Sicario, Beyond",FR;HK
 "Arab, ASOK, Tr4cer",GB;GR
@@ -6139,12 +6139,12 @@ XRS,BR
 "Evangelia, Marseaux",US
 "Rampa, Adam Port, &ME, chuala, Keinemusik",DE
 "Tsaki, Hawk",GR;CA
-"GAB, Onad, XRS",
+"GAB, Onad, XRS",GR;BR
 "Tsaki, DVMN BOI",GR
 "Vall, Luv Records",BG
 "Tsaki, Masla.G",GR
 "Mad Clip, Billy Sio",GR
-"Brief Talk, Onad, Joey Evans",
+"Brief Talk, Onad, Joey Evans",GR
 "Yolte, Lava, Paris Kalpos",NO
 "Corle, Takanuva, _OTS",EE
 YungKapa,GR
@@ -6154,7 +6154,7 @@ YungKapa,GR
 "LEX, Guè, Dof Twogee",IT
 "Mef, Lava, Lev",NO
 "Kendrick Lamar, Hitta J3, YoungThreat, Peysoh",US
-"Ioulia Kallimani, Michael Touratzidis, Sfera 102.2",
+"Ioulia Kallimani, Michael Touratzidis, Sfera 102.2",GR
 "TOQUEL, FLY LO, Beyond, Mike G, Ioannis",GR;HK;US
 "Light, K Koke",GB;US
 "Light, Saske",GB;US;ES
@@ -6175,7 +6175,7 @@ How,US
 "Yanek, Block 93, Tanto, Akidwithadream",GB;GR
 Lava,NO
 "Marzi, GMBeaTz",DE
-"King & Joker, Solven",
+"King & Joker, Solven",GR
 "Yanek, Block 93, Bossikan, Srcalex, Ank Beats",GB;GR
 "Ivan Greko, Strat, Arab, DIFF, BeTaf Beats, Sanko",GR;GB;NL
 "Sp93, Block 93, mi368",BG;GR
@@ -6192,7 +6192,7 @@ Nikos Apergis,GR
 "Ivan Greko, Arab, BeTaf Beats, Sanko",GR;GB
 "Ivan Greko, Arab, BeTaf Beats, ASOK",GR;GB
 "Ivan Greko, Arab, BeTaf Beats",GR;GB
-"Karnalh, Exus186",
+"Karnalh, Exus186",BR
 "Bres, Kidd, PAR1S",GR;GB
 "XRS, Night Grind, rigasbeats",GR
 "Lydia, Lava, Lev",US;NO
@@ -6276,7 +6276,7 @@ Mironas Stratis,GR
 "Oge, RACK",GR
 "Dani Gambino, Wang, Th Mark",GR;GB
 "Dani Gambino, Bloody Hawk, Th Mark",GR
-Lil Tcios,
+Lil Tcios,BR
 "Oge, Sicario",GR;FR
 "Oge, Ivan Greko, Sin Laurent",GR
 "Oge, APON",GR
@@ -6295,7 +6295,7 @@ Lil Tcios,
 "Light, Mel",US
 "Marzi, Onad, GMBeaTz",DE
 Peggy Zina,GR
-Χρήστος Βέργος,
+Χρήστος Βέργος,GR
 "Tayna, Marshmello, UKAY",XK;US
 "SIDARTA, Sin Laurent, Oge",GR
 "Lil PoP, DJ Stephan",US
@@ -6312,7 +6312,7 @@ Peggy Zina,GR
 Shkodra Elektronike,IT
 "DAIMA, Sound Dealer",GR;US
 "VLOSPA, Sadam, Dof Twogee",GR
-"DAIMA, Sound Dealer, xMas",
+"DAIMA, Sound Dealer, xMas",GR;US
 Claude,FR
 "Klavdia, Playmen, Valeron",GR
 "Mente Fuerte, SNIK",GR
@@ -6320,7 +6320,7 @@ Claude,FR
 "LILA, RACK, Beyond, Sin Laurent",MX;GR;HK
 "Kidd, Kest",GB;BR
 "LILA, Sicario, Beyond, Sin Laurent",MX;FR;HK;GR
-SKIADARESES,
+SKIADARESES,GR
 "Klavdia, Sin Laurent, Oge, Beyond, ARCADE",GR;HK;AU
 "Stavento, Daphne Lawrence",GR
 "Bloody Hawk, LEX",GR
@@ -6374,7 +6374,7 @@ DAIMA,GR
 "Stefany Loca, SNIK",GR
 "DIFF, Arab, BeTaf Beats",GR;GB
 "DIFF, BeTaf Beats, Sanko",NL;GR;GB
-Yung Drill3r,
+Yung Drill3r,BR
 "Alecc, Arab, Gaglia",GB;US
 Marten Lou,FR
 "DoubleN, Arab, BeTaf Beats",GR;GB
@@ -6400,7 +6400,7 @@ Michalis Hatzigiannis,CY;GR
 Finem,AU
 "Naarly, Daytona, LEWS, FIRSTCLASS, TIMID.",SE;FR;CH
 "Kidd, Arab, BLVD",GB;US
-"YungKapa, Generale",
+"YungKapa, Generale",GR
 "Maesic, Marshall Jefferson, Salomé Das",US;GB
 "SKEZ, DAIMA",GR
 "Verde, Kidd, Echo",IT;KR;GB
@@ -6412,7 +6412,7 @@ Finem,AU
 "Angelina, Arab, Likeboss, Paris Kalpos",US;GB;GR
 "RICTA, Bres, PAR1S",GR
 "RICTA, BLVD",GR;US
-HermesHermes,
+HermesHermes,JP
 "BAKV, GRINGO, ASOK",DE;GB
 "DIFF, XRS, Omar",NL;GB
 "FLY LO, TOQUEL, Mike G",GR;US
@@ -6460,7 +6460,7 @@ Likeboss,GR
 "YungKapa, Likeboss, BLVD",GR;US
 "Katohos, GXHAN, Stolou",GR
 "Light, DAIMA, Arab",GB;US
-"Dof Twogee, Zinon, Kaishen",
+"Dof Twogee, Zinon, Kaishen",JP
 "Raiser, XRS, Night Grind",ES;GR
 "Verde, Bres, PAR1S",IT;KR;GR
 "Donn, BLVD",US
@@ -6478,7 +6478,7 @@ Likeboss,GR
 "Ivan Greko, Trannos, BLVD",GR;US
 "Ivan Greko, Kidd, BeTaf Beats",GR;GB
 "Ivan Greko, Strat, BLVD",GR;US
-"SKEZ, HermesHermes, Sound Dealer",
+"SKEZ, HermesHermes, Sound Dealer",GR;US
 "Ivan Greko, BeTaf Beats, Sanko",GR;GB
 "SKEZ, Stanley",US
 "SKEZ, ACCARDO, Derv",IT;GB
@@ -6497,11 +6497,11 @@ Likeboss,GR
 "XRS, Night Grind, KSF",GR
 "HermesHermes, Ivan Greko, Arab",GR;GB
 "Negros Tou Moria, SIDARTA, ODYDOZE",GR
-"Ntosko 101, Babu 101, Bato 101",
-"orsalios, IKSANTHIA",
+"Ntosko 101, Babu 101, Bato 101",GR
+"orsalios, IKSANTHIA",GR
 "Mente Fuerte, Gamecue",GR
 "Stavento, Anastasia",GR;DE
-"Sosma, XRS",
+"Sosma, XRS",BR
 "FLY LO, SNIK, BLVD",GR;US
 "Light, Elai",GB;US;AL
 "Light, Ian",GB;US
@@ -6514,24 +6514,24 @@ Likeboss,GR
 "Dani Gambino, Nume, Kaist",GR;FI
 "Mel, GXHAN",US;GR
 "Taki Tsan, DJ Alx, Niko Tsan, RACK, PLUG BEATS",GR
-Χρυσηίδα Γκαγκούτη,
+Χρυσηίδα Γκαγκούτη,GR
 "Despina Vandi, Foivos",GR
 "RSK, RICTA, Stolou",GR
 "eros g, Likeboss, 4k Studio",GR
-YungMatrix,
-NLS FAMILIA,
+YungMatrix,GR
+NLS FAMILIA,GR
 Dimitris Mitropanos,GR
-"Xris775, Skez, Chekkis",
+"Xris775, Skez, Chekkis",GR
 Manos,GB
 "Dirty Harry, Trannos, Tr4cer",US;GR
 Motes,CA
-"Zafeiris Melas, Evita Sereti",
+"Zafeiris Melas, Evita Sereti",GR
 "Ivan Greko, Michalis Karagkounis, Sin Laurent",GR
 "Likeboss, Echo",GR;GB
 "Christos Mastoras, ARCADE",AU
 "Kid Young, RACK, Oge",GR
-Perfect Balance,
-Yung Kozak,
+Perfect Balance,GR
+Yung Kozak,GR
 "Sicario, Kid Young",FR
 "Trannos, SNIK, CHEKKIS",GR
 "Trannos, SKEZ, HermesHermes, LOSHA",CM
@@ -6553,7 +6553,7 @@ Yung Kozak,
 "Niko Malteze, AthensGoatMafia",GR
 "HGEMONA$, Sadam, BTK 187",GR
 "HGEMONA$, BTK 187",GR
-"YungKapa, Corteo",
+"YungKapa, Corteo",GR
 "Likeboss, ASOK",GR;GB
 "HGEMONA$, FANN, BTK 187",US;GR
 "12os Pithikos, Wang, Dani Gambino, BoyPanda",GB;GR
@@ -6581,14 +6581,14 @@ Glykeria,GR
 "Ethismos, Saske, Melow",GR;ES
 "Ethismos, Bloody Hawk, Melow",GR
 Stella Kalli,CY
-"YT K, Alecc",
+"YT K, Alecc",GR
 Panos Mouzourakis,GR
 "Natasha Kay, Fy",GR
 "Rina, Sin Boy",JP
 Young Corleon,GR
 "Arab, Light, Destiny, MUNEYLXRD",GB;US;GR
 "Arab, Likeboss, Paris Kalpos",GB;GR
-"Mariana Katsimicha, Dimitris Bakoulis, Dimitris Karras",
+"Mariana Katsimicha, Dimitris Bakoulis, Dimitris Karras",GR
 "Arab, Ivan Greko, ASOK, Sanko",GB;GR
 "Arab, Trannos, ASOK",GB
 "Arab, Kidd, ASOK",GB
@@ -6605,10 +6605,10 @@ Young Corleon,GR
 "Logos Timis, Eleuthero Pneuma, Koraki, Sativa",GR;AR
 "Light, Arab, Onad",GB;US
 "Thodoris Ferris, Sfera 102.2, George Theofanous",GR;CY
-"Big Kotsos, Chatzi",
+"Big Kotsos, Chatzi",GR
 "Thodoris Ferris, Sfera 102.2",GR
-lefak0s,
-"Yolte, Icelee",
+lefak0s,GR
+"Yolte, Icelee",GR
 "Kidd, Likeboss, Echo",GB;GR
 "Kidd, Ivan Greko, BLVD",GB;GR;US
 "Kidd, FLY LO, BLVD",GB;GR;US
@@ -6616,7 +6616,7 @@ lefak0s,
 "Kidd, Arab, ASOK",GB
 "Kidd, HermesHermes, BLVD",GB;US
 "Kidd, Donn, BLVD",GB;US
-"Nino Xypolitas, Josephine",FR
+"Nino Xypolitas, Josephine",GR
 "Kidd, Yunz, BLVD",GB;US
 "Mad Clip, DJ Stephan, BeTaf Beats",GR
 Marinella,GR
@@ -6626,16 +6626,16 @@ Marinella,GR
 "SNIK, Trannos, Oge",GR
 "SNIK, GAMEBOY",GR
 "Strat, Arab, BeTaf Beats",GB;GR
-"Alecc, Gosei",
+"Alecc, Gosei",JP
 "FANN, Dani Gambino, RACK, Th Mark",US;GR
 "Marzi, GMBeaTz, Gangshit",DE
-Xris777,
-"Trannos, SKEZ, HermesHermes",
+Xris777,GR
+"Trannos, SKEZ, HermesHermes",GR
 "SKEZ, CHEKKIS, HermesHermes, LOSHA",CM
 "SKEZ, HermesHermes, Stanley",US
 "Mente Fuerte, Giorgos Orfanidis",GR;US
 "Onad, DAIMA, Adams",CA
-"CHEKKIS, HermesHermes",
+"CHEKKIS, HermesHermes",CY
 "Trannos, Gucci.MPG, ACCARDO, AK 101, Stanley",IT;US
 "Mente Fuerte, Tr4cer",GR
 "Mente Fuerte, WhiteShadow",FR
@@ -6661,7 +6661,7 @@ OZIR,GR
 CHEKKIS,CY
 "Buzz, Wang, Dolos, DJ Marvel",SE;GB
 "Buzz, Dolos",SE;GB
-"EL PADRON, HermesHermes, prxdbysosa",
+"EL PADRON, HermesHermes, prxdbysosa",JP
 Stratos,US
 "JACK, Loco Franco, DPC",US
 "Buzz, Stixoima, Dolos, DJ Marvel",SE;GB
@@ -6669,18 +6669,18 @@ Stratos,US
 "Likeboss, Kidd, Echo",GR;GB
 "Likeboss, Arab, Echo",GR;GB
 "Likeboss, HermesHermes, Echo",GR;GB
-"Bossikan, Tanas Yos",
+"Bossikan, Tanas Yos",GR
 "Bossikan, Ortiz",US
-"Bossikan, Fuzy",
+"Bossikan, Fuzy",GR
 "Bossikan, Gojix",GR;NL
 "Bossikan, Argy W",GR;AR
 "Likeboss, Ivan Greko, Echo",GR;GB
 "Bossikan, DIFF, Gojix",NL
 "Bossikan, Kareem Kalokoh, Tony Fragment",GR
-"Bossikan, Tanas Yos, Loco Franco, duKYS",
+"Bossikan, Tanas Yos, Loco Franco, duKYS",GR;US
 "Bossikan, TSE, Argy W",AR
-"Bossikan, RSK, Fuzy",
-"Bossikan, Yolte, Icelee",
+"Bossikan, RSK, Fuzy",GR
+"Bossikan, Yolte, Icelee",GR
 "Bossikan, Giko",FR
 "Dani Gambino, SIDARTA, Th Mark, Grandbois",GR
 "Katohos, Saske, Nosfer",GR;ES
@@ -6698,7 +6698,7 @@ Stratos,US
 "Linda Lampenius, Pete Parkkonen",FI
 "Arab, DJ Stephan, BeTaf Beats",GB;GR
 "YT K, How",GR;US
-Satoshi,JP
+Satoshi,MD
 "Noam Bettan, כאן - תאגיד השידור הישראלי",IL
 "YT K, SNIK, GAMEBOY",GR
 Dimos Anastasiadis,GR
@@ -6714,32 +6714,32 @@ Dimos Anastasiadis,GR
 "Hawk, Taki Tsan",CA;GR
 "Nervous, Strat, BeTaf Beats",GB;GR
 "BORAC, Arab, ASOK",GB
-PakelDj,
+PakelDj,GR
 "Giorgos Livanis, Strat",GR
 "Hawk, Smuggler",CA;GR
 "Hawk, Moose",CA;GB
-"SARIGIAN, GLS",
+"SARIGIAN, GLS",GR
 "Marzi, Arab, GMBeaTz, ASOK",DE;GB
 "Shimza, AR/CO, Kasango",ZA;AU;GB
 "Thanos Petrelis, Foivos",GR
 "DIFF, Sanko, Spize",NL;GB
 "Yanek, Tanto, WHITECRXW",GB
-"CHEKKIS, HermesHermes, SKEZ",
+"CHEKKIS, HermesHermes, SKEZ",CY;GR
 "Kidd, Lil Koni, BLVD",GB;US
 "Khay Be, DAIMA, JACK",US
 "Kidd, Lil Koni, Echo",GB
 "zeyne, Marina Satti",PS;GR
-GKAN 70,
-"Ivan Greko, Josephine",GR;FR
+GKAN 70,GR
+"Ivan Greko, Josephine",GR
 "Katerina Lioliou, Foivos",GR
 "DJ Stephan, BeTaf Beats, Strat, Athena Manoukian",GR
-"Emmanouela, Roi 6/12",
+"Emmanouela, Roi 6/12",GR
 "Ivan Greko, Nucci",GR;RS
 "SNIK, Trannos, BretBeats",GR
 "SNIK, Trannos, CHEKKIS",GR
 "Likeboss, Arab, HermesHermes, GMBeaTz",GR;GB
 "Merko, DIFF, Sanko, Spize",FR;GR;GB
-"Ntosko 101, DAIMA, Bato 101",
+"Ntosko 101, DAIMA, Bato 101",GR
 "Marzi, M61, SANA",DE;JP
 Pyx Lax,GR
 "VAIO19, Ross",US
@@ -6747,23 +6747,23 @@ Pyx Lax,GR
 "Light, Kida",GB;US
 "Light, SIDARTA",GB;US;GR
 "Gucci.MPG, SKEZ, Derv",GB
-"2shots, Spooky808",
-Gr Plug,
+"2shots, Spooky808",GR
+Gr Plug,GR
 "Jonas Blue, Malive",GB
 "Stavento, Ivi Adamou",GR
 "Mente Fuerte, Otilia, Baghdad",RO
 "TOQUEL, Saske, Beyond",ES;HK
 "TOQUEL, Bloody Hawk, Beyond",GR;HK
-"TOQUEL, BoyPanda",
-Mr Pluto,
-"GLS, SARIGIAN",
+"TOQUEL, BoyPanda",GR
+Mr Pluto,GR
+"GLS, SARIGIAN",GR
 "Megrel, Likeboss, GMBeaTz",GR
-"Silly Slime, Marc Trillion",
+"Silly Slime, Marc Trillion",GR
 "Jazzy, KILIMANJARO",IE;GB
 "SNIK, CHEKKIS",GR
 "Merko, Spize, Sanko",FR;GB
 Kiko,FR
-"Thug Slime, DAIMA, Silly Slime, Onad, Quervo",
+"Thug Slime, DAIMA, Silly Slime, Onad, Quervo",US;GR
 "Strat, Arab, Trannos, BeTaf Beats",GB;GR
 "Strat, Arab, HermesHermes, BeTaf Beats",GB;GR
 "HermesHermes, Stanley",US
@@ -6804,7 +6804,7 @@ SKEZ,GR
 "Ivi Adamou, Giorgos Mazonakis",CY;GR
 "Despina Vandi, Giorgos Mazonakis, Foivos",GR
 "How, DAIMA, Ioannis, Darta",US;LV
-Valadis,
+Valadis,GR
 "DIFF, 2shots, Tr4cer, Spize",GR
 "Tsaki, Sadam, Dof Twogee, Base",GR;SE
 "Rafa, RICTA, mi368",ES;GR
@@ -6814,7 +6814,7 @@ Valadis,
 "Tsaki, Mikros Kleftis, Dof Twogee, Wanton",GR;FI
 "GAB, XRS",GR;BR
 "Hawk, Eleni Foureira, Baghdad",CA
-2shots,
+2shots,GR
 "DIFF, Spize",GR
 "DIFF, Merko, Sanko, Spize",NL;FR;GB
 "DIFF, Roi 6/12, BAKV",NL
@@ -6947,15 +6947,15 @@ TK from Ling tosite sigure,JP
 NiziU,JP
 Masanori Otoda,JP
 The Birthday,JP
-"ZUTOMAYO, Mori Calliope",
+"ZUTOMAYO, Mori Calliope",JP
 PEOPLE 1,JP
 BoA,KR
 "Minami, Chippoke Ohashi",JP
 Mariya Takeuchi,JP
-QUEEN BEE,DE
+QUEEN BEE,JP
 B'z,JP
 Suzukisuzuki,JP
-Tele,IT
+Tele,JP
 AI,JP
 &TEAM,JP
 上野大樹,JP
@@ -6971,7 +6971,7 @@ indigo la End,JP
 "LANA, Candee, ZOT on the WAVE",US;JP
 "BSS, Lee Young Ji",NL
 YU-KA,JP
-"MUKADE, INMAN",
+"MUKADE, INMAN",JP
 SOUTH BLUE,JP
 Remioromen,JP
 "KERENMI, asmi, imase",JP
@@ -7117,7 +7117,7 @@ AKASAKI,JP
 "KEIJU, Awich",JP
 "Tatsuya Kitani, natori",US
 Snow Man,JP
-issey,
+issey,JP
 "SEVENTEEN, DJ Khaled",KR;US
 "B小町, ルビー(CV:伊駒ゆりえ), 有馬かな(CV:潘めぐみ), MEMちょ(CV:大久保瑠美)",JP
 "G-DRAGON, TAEYANG, DAESUNG",KR
@@ -7141,7 +7141,7 @@ BSS,NL
 柊マグネタイト,JP
 HY,JP
 "yama, WurtS",JP
-HANA,CZ
+HANA,JP
 Ikimonogakari,JP
 sakanaction,JP
 "YZERR, LANA, JP THE WAVY, ¥ellow Bucks",JP;US
@@ -7151,7 +7151,7 @@ CANDY TUNE,JP
 =LOVE,US
 KinKi Kids,JP
 MEOVV,KR
-ARASHI,SE;NO;JP
+ARASHI,JP
 "STUTS, Kohjiya, Hana Hope",JP
 "Shota Shimizu, Taka",JP
 SixTONES,JP
@@ -7162,7 +7162,7 @@ Cho Tokimeki Sendenbu,JP
 "CHANMINA, No No Girls FINALISTS",JP
 Hearts2Hearts,KR
 AiNA THE END,JP
-Inessa Lee,
+Inessa Lee,US
 LiSA,JP
 "neguse., 汐れいら",JP
 TENBLANK,JP
@@ -7208,7 +7208,7 @@ M.Sasuke,
 T.M.Revolution,JP
 ATEEZ,KR
 ZONE,JP
-"ILLIT, HANA",KR;CZ
+"ILLIT, HANA",KR;JP
 "BE:FIRST, Flo Milli, ATL Jacob",JP;US
 Fujifabric,JP
 青木遥,JP
@@ -7225,7 +7225,7 @@ ITZY,KR
 Kim Seungmin,KR
 "BE'O, ZICO",KR
 10CM,KR
-"YOON MIRAE, BIBI",DE
+"YOON MIRAE, BIBI",KR
 Baek A,KR
 Sion,JP
 "Post Malone, Doja Cat",US
@@ -7240,10 +7240,10 @@ BIG Naughty,KR
 "BIG Naughty, CHANGMO, Jay Park",KR
 WSG WANNBE (Gaya-G),KR
 Red Velvet,KR
-"YENA, BIBI",KR;DE
+"YENA, BIBI",KR
 AJR,US
 Younha,KR
-BIBI,DE
+BIBI,KR
 Yoon Do Hyun,KR
 SEULGI,KR
 "PATEKO, ASH ISLAND, Skinny Brown",KR
@@ -7272,7 +7272,7 @@ BOL4,KR
 Dhruv,GB
 "Kim Seungmin, Punch",US;GB
 Anne-Marie,GB
-"88rising, BIBI",US;DE
+"88rising, BIBI",US;KR
 "Lee Young Ji, Jay Park",KR
 Lauv,US
 EXID,KR
@@ -7295,7 +7295,7 @@ Tophyun,KR
 "Marshmello, Jonas Brothers",US
 Tei,JP
 YOUNGTAK,KR
-"HOZIHO, Choi Sung Ho",
+"HOZIHO, Choi Sung Ho",KR
 MAMAMOO,KR
 1415,KR
 The 1975,GB
@@ -7309,7 +7309,7 @@ KANGDANIEL,KR
 "Christopher, CHUNG HA",US;KR
 DAY6,KR;US
 Jehwwn,KR
-Nilo,IT
+Nilo,KR
 Yerin Baek,KR
 "Leellamarz, Hannah",KR;US
 "KANGDANIEL, pH-1, WDBZ",KR
@@ -7372,7 +7372,7 @@ D-Hack,KR
 Paul Kim,KR
 JUNNY,KR
 DPR LIVE,KR
-JEY,
+JEY,US
 "toigo, GONEISBACK, NSW yoon, Roh Yun Ha, XINSAYNE",KR
 "TOMORROW X TOGETHER, Coi Leray",KR;US
 "BIG Naughty, Kim Min Seok (MeloMance)",KR
@@ -7388,7 +7388,7 @@ Jay Park,KR
 "Lizzo, SZA",US
 H1-KEY,KR
 "Dan + Shay, Justin Bieber",US;CA
-AJXACE [OLyMP$],
+AJXACE [OLyMP$],US
 THE BOYZ,KR
 Zior Park,KR
 SILKYBOIS,KR
@@ -7400,7 +7400,7 @@ Jang Beom June,KR
 "So!YoON!, RM",KR
 "CODE KUNST, Tabber, Jay Park",KR
 "BLASÉ, BlackNut, Jimmy Paige, DOK2, SMUGGLERS",KR;PL
-KAI,DE
+KAI,KR
 "CODE KUNST, Gaeko, mino",KR;FR
 "CODE KUNST, LEEHI",KR
 "CODE KUNST, Crush",KR
@@ -7425,7 +7425,7 @@ DAWN 던,KR
 "Agust D, j-hope",KR
 "Agust D, Ryuichi Sakamoto, WOOSUNG",KR;DE;JP
 LEE CHAEYEON,KR
-"TAEYANG, LISA",KR;JP
+"TAEYANG, LISA",KR;TH
 "aespa, nævis",KR
 TAEYANG,KR
 Lim Jae Hyun,KR
@@ -7469,12 +7469,12 @@ E SENS,KR
 "E SENS, DOK2",KR
 "E SENS, Jibin",KR
 "Dynamicduo, DJ Premier",US
-ESEGYE,
+ESEGYE,GH
 달의하루,KR
 "JUNNY, Gaeko",KR
 DPR IAN,KR
 "Leellamarz, ASH ISLAND",KR
-"Silica Gel, So!YoON!",ES;KR
+"Silica Gel, So!YoON!",KR
 "Jung Kook, Latto, Alesso",KR;US;SE
 "V, Peakboy",US;KR
 NCT U,KR;CN
@@ -7482,9 +7482,9 @@ PLAVE,KR
 "Crush, Paul Blanco",KR
 Paul Blanco,KR
 "Dynamicduo, Lee Young Ji",KR
-D.O.,JP
+D.O.,KR
 HWASA,KR
-"D.O., Wonstein",JP;KR
+"D.O., Wonstein",KR
 "SZA, Justin Bieber",US;CA
 "TOMORROW X TOGETHER, Anitta",KR;BR
 "Leellamarz, meenoi",KR
@@ -7520,10 +7520,10 @@ Frank Ocean,US
 Zion.T,KR
 "Zion.T, Benny Benack III",KR;US
 "Zion.T, Yun Seokcheol",KR
-Silica Gel,ES
+Silica Gel,KR
 "ASH ISLAND, Skinny Brown",KR
 YANGHONGWON,KR
-KingLee,
+KingLee,US
 "BIG Naughty, B.I, BANG YEDAM",KR;DK
 BTOB,KR
 J.Tajor,AU
@@ -7563,7 +7563,7 @@ LET ME KNOW,JP
 DOYOUNG,KR
 "Lil Moshpit, Paul Blanco, Okasian",KR
 "Daniel Caesar, H.E.R.",CA;US
-"BIBI, Jackson Wang",DE;KR
+"BIBI, Jackson Wang",KR
 ECLIPSE,SE
 Andy Grammer,US
 MINNIE,US
@@ -7580,7 +7580,7 @@ Tinashe,US
 "TimeFeveR, 차진혁, MOYO, Yyeon, Kang hankook, 담영, XIN, PiLO, KOONTA, Blue.D",KR;US
 Hotel Ugly,US
 wave to earth,KR
-"Lee Young Ji, D.O.",JP
+"Lee Young Ji, D.O.",KR
 "Lee Young Ji,  jambino",KR
 JxW,KR
 "Post Malone, Blake Shelton",US
@@ -7602,7 +7602,7 @@ Dynamicduo,KR
 BAEKHYUN,KR
 "LE SSERAFIM, PinkPantheress",KR;JP;GB
 "Primary, Dynamicduo",KR
-Geeks,JP
+Geeks,KR
 HOMIES,KR
 "Car, the garden",KR
 Block B,KR
@@ -7626,7 +7626,7 @@ Kim Min Seok (MeloMance),KR
 "HAON, GISELLE",KR;AU
 "Cynthia Erivo, Ariana Grande",GB;US
 "DEAN, FKJ",US;FR
-고추잠자리,
+고추잠자리,KR
 "Loopy, OSUN, justinforthis",KR;US
 "BIG Naughty, Sion",KR;JP
 "Shyboiitobii, Foggyatthebottom, BIG Naughty",KR
@@ -7647,10 +7647,10 @@ BUZZ,SE
 Molly Yam,KR
 "Molly Yam, Sik-K, GGM LIL DRAGON",KR
 "G-DRAGON, Anderson .Paak",KR;US
-hunnie gz,
+hunnie gz,US
 ZO ZAZZ,KR
 "Kendrick Lamar, Zacari",US
-"LISA, Future",JP;US
+"LISA, Future",US;TH
 "JENNIE, Childish Gambino, Kali Uchis",KR;US
 "JENNIE, FKJ",KR;FR
 5 Seconds of Summer,AU
@@ -7661,14 +7661,14 @@ Song Sohee,KR
 OVAN,KR
 Hebi,KR
 Ai Higuchi,JP
-izna,JP
+izna,KR
 Martin Smith,GB
 HYUN SEO,KR
 C JAMM,KR
 "G-DRAGON, 황정민, Defconn, Hong Jinkyung, Jung Hyungdon, 조세호, Kian84, ANH SUNG JAE, TAEYANG, Jung Hae In, Hwang Kwang Hee, Yim Siwan, LEE SOO HYUK, DAESUNG, CODE KUNST, CL, KIM GO EUN, DAY6, BSS, aespa",KR;US;NL
 HANRORO,KR
 "PSY, Lena Park",KR
-"Maroon 5, LISA",US;JP
+"Maroon 5, LISA",US;TH
 "TABLO, RM",KR
 "JANNABI, KARINA",AR
 "ROSÉ, F1 The Album",US
@@ -7693,15 +7693,15 @@ AHOF,KR
 "Ed Sheeran, F1 The Album",GB
 COOL,US
 "Justin Bieber, Gunna",CA;US
-"Silica Gel, Japanese Breakfast",ES;US
+"Silica Gel, Japanese Breakfast",US;KR
 NOWZ,KR
 "Tyler, The Creator, Pharrell Williams",GB;US
 "JVKE, TOMORROW X TOGETHER, LE SSERAFIM, TAEHYUN, KIM CHAEWON",US;KR;JP
 "HUNTR/X, EJAE, AUDREY NUNA, REI AMI, KPop Demon Hunters Cast, David Guetta",US;FR
 "Leellamarz, TOIL",KR
-GongGongGoo009,
+GongGongGoo009,CN
 OHHYUK,KR
-SHAUN,JO
+SHAUN,KR
 "Way Ched, TRADE L, Leellamarz",KR
 "Park Da Hye, MAKTUB",US
 "Vince, G-DRAGON",US;KR
@@ -7760,7 +7760,7 @@ SS501,KR
 "Lil Moshpit, DKAY, Tray B, ZENE THE ZILLA, Flowsik, Jeffrey White, Jay Park",KR;CA
 HANZ,NO
 "HAON, GroovyRoom, Sik-K",KR
-freestyle,PH
+freestyle,KR
 "Seo In Guk, JEONG EUN JI",KR
 "NOWIMYOUNG, Royal 44, SUNWOO",KR;JP
 "OSUN, MASON HOME, BOBBY",US;KR;GB
@@ -7787,7 +7787,7 @@ NOWIMYOUNG,KR
 can't be blue,KR
 "ksmartboi, GGM Kimbo, Rich Iggy",KR
 "ZENE THE ZILLA, Hash Swan, Nosun",KR
-CurlyBand,
+CurlyBand,KR
 Baby DONT Cry,KR
 "Han Yo Han, NO:EL",KR
 Kim Na Young,KR
@@ -7796,12 +7796,12 @@ I.O.I,KR
 RESCENE,KR
 "Yorch, Sik-K, Bryan Chase",ES;KR;US
 Turtles,US
-CHOIJUNSEONG (Jun S),
+CHOIJUNSEONG (Jun S),KR
 "aespa, Becky G",KR;US
 NELL,KR
 "aespa, Ty Dolla $ign",KR;US
 "dress, Raf Sandou, JUNNY",BE;KR
-Park pippi,
+Park pippi,KR
 BewhY,KR
 "YANGHONGWON, Skinny Brown, Homeboy",KR;US
 Kaution,
@@ -7827,23 +7827,23 @@ Girls' Generation-HRS,KR
 Shane,US
 Yoon Jong Shin,KR
 "SOYEON, Kian84",KR
-머무르,
+머무르,KR
 "VALORANT, Grabbitz, Oli Sykes, Courtney LaPlante",US;CA
-야다,
+야다,KR
 "Catch! Teenieping, PLAVE",KR
 "YENA, NOWIMYOUNG",KR
 "Loco, Colde",FR;KR
 ElGrandeToto,MA
 "ElGrandeToto, Ayra Starr",MA;NG
 Kouz1,MA
-Stormy,IT
+Stormy,MA
 MA3IZ,MA
 Draganov,MA
 Mons,US
 "Demi Portion, ElGrandeToto",FR;MA
-Manal,AR
+Manal,MA
 "CKay, ElGrandeToto",NG;MA
-"Tagne, Manal",AR
+"Tagne, Manal",MA
 "Marwa Loud, Moha K",FR
 Mehdi Mozayine,MA
 Raste,MA
@@ -7860,9 +7860,9 @@ Raid,JP
 "Vargas, Abduh",MX
 "Kouz1, Tagne",MA;CM
 Inkonnu,MA
-"Stormy, Tagne, ElGrandeToto",IT;MA
+"Stormy, Tagne, ElGrandeToto",MA
 "DYSTINCT, Kouz1",BE
-"ElGrandeToto, Tagne, Draganov, Stormy, Khtek, Abduh, 7liwa, Vargas, OUENZA, Figoshin, Dollypran, Smallx",MA;IT;MX
+"ElGrandeToto, Tagne, Draganov, Stormy, Khtek, Abduh, 7liwa, Vargas, OUENZA, Figoshin, Dollypran, Smallx",MA;MX
 Djalil Palermo,DZ
 RYM,ES
 "Skizo Beats, Moro, ElGrandeToto",JP;MA
@@ -7874,11 +7874,11 @@ Madd,US
 Mocci,MA
 Zouhair Bahaoui,MA
 Abdeelgha4,MA
-"Stormy, Tagne, Smallx",IT
+"Stormy, Tagne, Smallx",MA
 1da Banton,NG
 Balti,TN
 "Nej, Tagne",FR
-"Stormy, Tagne, Snor",IT;MA
+"Stormy, Tagne, Snor",MA
 Maestro,IT
 "Liamsi, Kikimoteleba, Kouz1",MA;CI
 Cheb Hasni,DZ
@@ -7890,22 +7890,22 @@ Tagne,MA;CM
 "Saad Lamjarred, Calema",ST
 Saad Lamjarred,MA
 7-Toun,MA
-"Anys, Stormy",IT
+"Anys, Stormy",MA
 "Mok Saib, Zaho",GB;CA
 "Hassa1, Flack",US
 "ElGrandeToto, Lefa",MA;FR
-"Snor, Tagne, Stormy",MA;IT
-"Stormy, Inkonnu",IT
+"Snor, Tagne, Stormy",MA
+"Stormy, Inkonnu",MA
 DJ Snake,FR
-"Naar, Madd, Laylow, Shobee",US;FR
+"Naar, Madd, Laylow, Shobee",US;FR;MA
 Smaug,US
 "Maestro, ElGrandeToto",IT;MA
 7ari,MA
 "Alok, Alan Walker, KIDDO",BR;NO;SE
 Uzishettan,MA
-Abdou Goumbita,
+Abdou Goumbita,CM
 Dada,SE
-"Vargas, Stormy",MX;IT
+"Vargas, Stormy",MX;MA
 "Shayfeen, Xcep",MA
 Mouh Milano,DZ
 "Saad Lamjarred, Zouhair Bahaoui",MA
@@ -7913,18 +7913,18 @@ Hatim Ammor,MA
 "Ricky Rich, Dardan, DJ Gimi-O",SE;DE
 "Lil Baby, Gunna",US
 "Dj Souhil, Cheb Bello",DZ
-"YEAH HUSS!, Stormy",MA;IT
+"YEAH HUSS!, Stormy",MA
 "Eljoee, Nadirben, Lakero",FR
 Diib,MA
 Shayfeen,MA
 "Draganov, Tagne",MA
-"Tagne, Stormy, Khtek",IT
+"Tagne, Stormy, Khtek",MA
 "Don Bigg, Reda Taliani",MA;DZ
 Bilel Tacchini,DZ
-Kowkow,
+Kowkow,MA
 "DJ Sem, Kouz1",FR
 "Rubio, Abduh, Vargas",MX
-"Marouane, Dollypran",
+"Marouane, Dollypran",MA
 "Central Cee, Rondodasosa, Freeze corleone, Baby Gang, A2ANTI, Morad, Beny Jr, ASHE 22",GB;IT;FR;ES
 "Victony, Tempoe",NG
 "Drizzy, Furelise",CA;US;MA
@@ -7938,7 +7938,7 @@ Smallx,MA
 Nessyou,MA
 SCOOL BOY,US
 Dizzy DROS,MA
-"Lemhllwess, Dollypran",
+"Lemhllwess, Dollypran",MA
 "Don Bigg, Skales",MA
 Lbenj,MA
 Joe Mesmar,CA
@@ -7957,14 +7957,14 @@ Flenn,DZ
 Fat Mizzo,MA
 "Dame Civile, Madd",US
 "Ayed, Nasser Al Kubaisi, Haneen Hussain, FIFA Sound",CA
-"Nora Fatehi, Rahma Riad, Balqees, RedOne, FIFA Sound, Manal",SE;AR
+"Nora Fatehi, Rahma Riad, Balqees, RedOne, FIFA Sound, Manal",SE;MA
 "Trinidad Cardona, Davido, Aisha, FIFA Sound",US;NG;GB
 Rubio,MX
 Bilal Tacchini,DZ
 Asma Lmnawar,MA
 "Mister You, Balti",FR;TN
 "Jul, Abduh",FR
-"Momo Ryuk, Ksser Essouق, Salah Hammadi",
+"Momo Ryuk, Ksser Essouق, Salah Hammadi",MA
 Douzi,MA
 "Ismo, Biwai, Yoni, Riffi, Mr. Crazy, DJ Nassi",FI;FR;NL;MA
 Hamid Bouchnak,MA
@@ -7974,18 +7974,18 @@ Cheb Bilal,DZ
 "Don Bigg, Saïd Senhaji, Abdelaziz Stati",MA
 "Don Bigg, Teni, Hamid El Kasri",MA;NG
 "Tagne, Raymonde",FR
-"Stormy, Leil, Ramoon",IT;MA
+"Stormy, Leil, Ramoon",MA
 "Raste, Leil",MA
 Furelise,MA
 "Maher Zain, Humood AlKhudher",SE
-Roffo,
-GOGOXBEAT,
+Roffo,MA
+GOGOXBEAT,SY
 "Assala, Asma Lmnawar",SY;BH;MA
-"D33pSoul, CHAAMA",
+"D33pSoul, CHAAMA",MA
 Bo9al,MA
 "7ari, Lartiste",FR
 "Raste, Furelise",MA
-D33pSoul,
+D33pSoul,ZA
 "DKB, Amine SEMMA",KR
 "ASHE 22, ElGrandeToto",FR;MA
 "Anas, Soolking",DK;DZ
@@ -7999,35 +7999,35 @@ Milfaya,MA
 "Anys, Dizzy DROS",MA
 "PAUSE, Natimal",
 "Pause, Bermuda",US
-Ta Ha,
+Ta Ha,SY
 "Pause, Soukaina fahsi",MA
 "Drea Dury, ElGrandeToto",CO;MA
 "Oualid, F1rstman",NL
-Saint Bandz,
+Saint Bandz,US
 "Flomine, Miraa May, Smallx, Ard Adz, YP, BLESSED, Sybka",GB;CA
 Cheba Warda,DZ
-Shobee,FR
+Shobee,MA
 OMAH LAY,NG
 TIF & Flenn,FR;DZ
 Salim Cravata,MA
 "Nassi, Tawsen",FR;BE
-Dz Prod,
+Dz Prod,DZ
 Liamsi,MA
-XLG OFFICIAL,
+XLG OFFICIAL,PH
 "Juice WRLD, SUGA, BTS",US;KR
-"Bezza, DINASTICA",
-El Ayo,
+"Bezza, DINASTICA",DZ
+El Ayo,MA
 Ayoub Anbaoui,MA
 "Ice Spice, Nicki Minaj",US
-"Bo9al, Clemando, X7kira",
+"Bo9al, Clemando, X7kira",MA
 "Cheb Bello, DJ Moulay",DZ
-"Cheb Adoula, Cheb Djalil",
+"Cheb Adoula, Cheb Djalil",DZ
 "Salma Rachid, Dizzy DROS",MA
 "Yvzid, Figoshin",MA
-Thats So Mariana,
+Thats So Mariana,US
 Salma Rachid,MA
 Duke,US
-Aiman Qusailah,
+Aiman Qusailah,SY
 "Madd, Qaayel",US;MA
 "OUENZA, Amine K",MA
 "Oualid, Salim Cravata",NL
@@ -8058,22 +8058,22 @@ Aezaddy,MA
 Hind Ziadi,MA
 Iniko,US
 "DYSTINCT, Hatim Ammor",BE;MA
-"Houssainy, Mocci, Kouz1",
+"Houssainy, Mocci, Kouz1",MA
 "Nahir, ElGrandeToto",FR;MA
 "unxbected, Ayparia, Chappo",US
 Mehdi Fadili,MA
-"Shobee, Madd",FR;US
-"Shobee, Snor",FR;MA
-"Shobee, Laylow",FR
+"Shobee, Madd",US;MA
+"Shobee, Snor",MA
+"Shobee, Laylow",FR;MA
 "Tagne, ElGrandeToto, Draganov",MA
-"Shobee, Lala &ce",FR;GB
+"Shobee, Lala &ce",GB;MA
 "Tagne, Abduh",MA;CM
 "Tagne, Nej",FR
 "Dollypran, Moro",JP
 "Tagne, Kaaris",FR
 S3BZS,BR
 "Tagne, Niro",FR
-"Tagne, Fares LÜNN",
+"Tagne, Fares LÜNN",MA;CM
 Moha K,FR
 "Zouhair Bahaoui, Hind Ziadi",MA
 "DENNIS, MC Kevin o Chris",JM
@@ -8091,7 +8091,7 @@ Riffi,NL
 "Moha K, Kouz1",FR
 "Tiiwtiiw, Morad",ES
 Cheb Momo,DZ
-GIHED,
+GIHED,CO
 "Ali471, DYSTINCT",DE;BE
 L7or,MA
 "LHAJ, Ramoon",MA
@@ -8112,8 +8112,8 @@ Tflow,MA
 A.L.A,TN
 JenJoon,TN
 "SativaMusic, Morad, Naps",ES;FR
-jilali boumelah,
-Ridouane.officiel1,
+jilali boumelah,MA
+Ridouane.officiel1,MA
 ONZY,MA
 Ghita Lahmamssi,MA
 DOLLYPRAN,MA
@@ -8121,18 +8121,18 @@ Hassa1,MA
 "Baby Gang, Morad",IT;ES
 Kira7,MA
 Musta Beats,MA
-"ZWE1HVNDXR, yatashigang",
+"ZWE1HVNDXR, yatashigang",JP
 "Moha K, Lyna Mahyem",FR
 Cheb Zizou,DZ
 Clemando,MA
-"Cheba Manel, Kader Zakzouk",
+"Cheba Manel, Kader Zakzouk",DZ
 Flack,US
-Faycel cholé,
+Faycel cholé,TN
 "Nitefreak, Emmanuel Jal",ZW;SS
 "Furelise, Raid",JP
 "Furelise, Grelmos",MA;IT
 "Yehezkel Raz, Sivan Talmor",IL
-"Manal, Ghali",AR;IT
+"Manal, Ghali",IT;MA
 "Shayfeen, OUENZA, ElGrandeToto, Madd, West",MA;US;JP
 "ElGrandeToto, Morad",MA;ES
 "ElGrandeToto, Oxlade",MA;NG
@@ -8142,14 +8142,14 @@ Faycel cholé,
 "Ghali, Draganov",IT;MA
 "Inkonnu, Sipo",DE
 Cheb Hichem TGV,DZ
-DJ 8K,
+DJ 8K,TN
 "Madd, VALEN",US;ES
 "ONZY, Draganov",MA
-"Stormy, Kartman",IT
+"Stormy, Kartman",MA
 "Dada, Don Bigg",SE;MA
-"Shobee, Fetah",FR;MA
+"Shobee, Fetah",MA
 "AKOA, Snor",MA
-"Cheba Chinou, Oussama Torkish",
+"Cheba Chinou, Oussama Torkish",MA;DZ
 Houcine Lbaz,MA
 "Tawsen, YAM",BE;US
 "PLYLIST, MA3IZ",MA
@@ -8158,19 +8158,19 @@ Houcine Lbaz,MA
 "DELLAFUENTE, Morad",ES
 "Dada, Rita Kamale, NAB FAKE",SE;MA
 "Oualid, Norel, YAM",NL;US
-"Cheb Hichem TGV, Cheb Mirou",
+"Cheb Hichem TGV, Cheb Mirou",DZ
 "Figoshin, Norfafrica",MA
-Ali S,
+Ali S,SY
 "Cheb Nassim, Tchikou 22",DZ
-"Cheb Mourad, Dj No Disc",
+"Cheb Mourad, Dj No Disc",DZ
 "Francis Mercier, Nitefreak, Idd Aziz",US;ZW;NO
 "Cheba Warda, Manini Sahar",DZ
 "7liwa, ElGrandeToto",MA
 Kawtar,MA
-"Stormy, Dizzy DROS",IT;MA
-"Stormy, Abduh",IT
-"Stormy, Draganov",IT;MA
-"Stormy, Miraa May",IT;GB
+"Stormy, Dizzy DROS",MA
+"Stormy, Abduh",MA
+"Stormy, Draganov",MA
+"Stormy, Miraa May",GB;MA
 "Doria, ElGrandeToto",IT;MA
 "Lyna Mahyem, Numidia Lezoul",FR;DZ
 "7ari, Ramoon",MA
@@ -8182,12 +8182,12 @@ Tawsen,BE
 "Bo9al, Ghost Killer Track",FR
 Muhammad Al Muqit,SA
 J. Cole,US
-khalil guenich,
-AbdbtZ,
+khalil guenich,TN
+AbdbtZ,MA
 Cheb Hamidou,DZ
 "vtze archive, Mc Ster",BR
 "Yo Asel, Draganov, Abduh",MA
-"Saad Lamjarred, Enesse",
+"Saad Lamjarred, Enesse",MA
 "Liamsi, Tawsen",BE
 Ouidad,MA
 Didine Canon 16,DZ
@@ -8207,10 +8207,10 @@ Cheb Nadir 22,DZ
 "Smaug, Dj Mourad",US;SE
 Tchubi,MA
 "Tawsen, Ayoub Anbaoui",BE
-ViraCocha,
+ViraCocha,AR
 "Kouz1, Smallx",MA
 "Saad Lamjarred, Hatim Ammor",MA
-Smurxa,
+Smurxa,PT
 "Kaaris, ElGrandeToto",FR;MA
 "7liwa, Inkonnu",MA
 "OUENZA, Abduh",MA
@@ -8225,40 +8225,40 @@ Nouamane Belaiachi,MA
 "Dollypran, Abduh",MA
 "RYM, Kouz1",ES
 "L'Algérino, Soolking",FR;DZ
-"farid kalamity, Moosive",
+"farid kalamity, Moosive",MA
 LAZARO,MA
 Douaa Lahyaoui,MA
 "Tiiwtiiw, Zouhair Bahaoui, Chk",ES
-studio ghazi,
+studio ghazi,MA
 "Dafina Zeqiri, DYSTINCT",SE;BE
 "Morad, Beny Jr, Rvfv",ES
-"Joe Prod, Egtoto",
-"Stormy, ElGrandeToto",IT;MA
-Tahir Salami,
+"Joe Prod, Egtoto",MA
+"Stormy, ElGrandeToto",MA
+Tahir Salami,IQ
 Vali,RO
-Sofiane Asla,
+Sofiane Asla,DZ
 Cheb Fatah Sghir,DZ
-"Bo9al, Tony Gang",
+"Bo9al, Tony Gang",MA
 Bilal Assarguini,MA
 "Dada, Abduh",SE
 "Central Cee, RAYE",GB
-Probador,
+Probador,SY
 "SKY, ElGrandeToto",GB;AU;MA
-"Manal, Tagne",AR
-"Manal, Zamdane",AR;MA
+"Manal, Tagne",MA
+"Manal, Zamdane",MA
 "Djamel Milano, Tchikou 22",DZ
 "Ashafar, ElGrandeToto",MA
 "ElGrandeToto, Lennis Rodriguez",MA;ES
 "ElGrandeToto, LFERDA",MA
-"Fethi Manar, Kader Zakzouk",
+"Fethi Manar, Kader Zakzouk",TN;DZ
 Sistek,CL
 "Jam Aunni, Abduh",MA
 "7-Toun, LFERDA",MA
 "ILAL, ElGrandeToto",MA
 "OUENZA, Vargas",MX
 "Ruby, Cheba Malak",US
-"OUENZA, Chaos333",
-phvrien,
+"OUENZA, Chaos333",MA
+phvrien,US
 "OUENZA, Nessyou, Nawfel",MA;FR
 "OUENZA, 3robi, YassineBeats",NL
 "OUENZA, Tawsen",BE
@@ -8267,18 +8267,18 @@ Shaw,US
 "ElGrandeToto, Baby Gang",MA;IT
 Cheb Zaki,DZ
 "Madd, Xcep, Smallx",US
-"Madd, Shobee",US;FR
+"Madd, Shobee",US;MA
 "Madd, Khali",US;FR
 "Madd, Snor",US;MA
 "Madd, Zamdane",US;MA
 "A.L.A, Neima Ezza, Draganov",IT;MA
-KALIL,
+KALIL,DJ
 "Duke, Kawtar",US;MA
 "Diib, 7liwa",MA
 "La Fouine, ElGrandeToto",FR;MA
 "Diib, 7-Toun",MA
 ASSIA,CH
-Ohl Boga,
+Ohl Boga,ES
 "ElGrandeToto, Leto",MA;FR
 "ElGrandeToto, Oli",MA;RU
 "ElGrandeToto, Lacrim",MA;FR
@@ -8293,7 +8293,7 @@ East Duo,GE
 "Najm, Fetah",MA
 Cheb Adjel,DZ
 "Kore, Alonzo, ElGrandeToto",FR;MA
-"Damost, Shobee",FR
+"Damost, Shobee",MA
 "Cheba Warda, Yousri Oscar",DZ
 "Baby Gang, Omega, Higashi, Roberto Ferrante",IT;HU
 "Hackler, Figoshin",MA
@@ -8301,13 +8301,13 @@ Cheb Adjel,DZ
 "Najm, Jbiina",MA
 "Tchubi, Lina Guessoussi",MA
 777YM,MA
-"Kartman, Stormy",IT
+"Kartman, Stormy",MA
 "Nouvo, LFERDA",MA
 "Abdou Gambetta, Raouf Samourai",DZ
 "Inkonnu, Nouvo",MA
 "Valerieblud, Furelise",MA
 "STOOR, lferda",GB;MA
-Quatrehuit,
+Quatrehuit,FR
 "Tha Trickaz, ElGrandeToto",FR;MA
 "Maher Zain, Harris J",SE;GB
 "Shaw, Hassa1, NAYRA",US
@@ -8315,11 +8315,11 @@ Quatrehuit,
 "Baby Gang, ElGrandeToto, Chahid",IT;MA;DE
 "Omar Montes, Zouhair Bahaoui",ES
 Valerieblud,MA
-Mirv48,
+Mirv48,US
 "DYSTINCT, French Montana",BE;US
 "Shaw, Kira7",US;MA
 "ZAKLOOW, Tagne, Shaw",US
-Aujiss,
+Aujiss,MA
 "Lbenj, Mounim Slimani",MA
 "DYSTINCT, Morad",BE;ES
 Chella,NG
@@ -8327,12 +8327,12 @@ Chella,NG
 "Anas, ElGrandeToto",DK;MA
 "JamShow, Lakamura",US;MA
 "JamShow, Shinigami",US
-"JamShow, Zoubir",
+"JamShow, Zoubir",US
 "Zaynab, LAZARO",UZ
 "Smallx, Saib",MA
 "7ari, Ramoon, Vacra",MA;FR
 "OldyGotTheSound, Anys, Shaw",US
-"Inkonnu, Asmae",
+"Inkonnu, Asmae",MA
 "salvh, Kira7",MA
 "Shinigami, Furelise",US
 "Valerieblud, Kira7",MA
@@ -8352,24 +8352,24 @@ Bayzii,MA
 "7ari, Ramoon, Draganov",MA
 "7ari, Ramoon, Leil",MA
 "7ari, Ramoon, Light",MA;GB;US
-"7ari, Ramoon, Teto",MA;JP
+"7ari, Ramoon, Teto",MA;BR
 "Clemando, L'morphine",MA
 "Najm, Zamdane",MA
-"Najm, Manal",MA;AR
+"Najm, Manal",MA
 "Najm, Tchubi",MA
-"Ashafar, Stormy, Chahid",IT;DE
+"Ashafar, Stormy, Chahid",DE;MA
 "Jmilton, MC Xangai",BR
 "TIF, ElGrandeToto",FR;MA
 Shinigami,US
 "Nassif Zeytoun, Zouhair Bahaoui",SY
 "3robi, Simba La Rue, YassineBeats",NL;IT
 "DJ Charaf, Laila Chakir, Bartofso, IliassOpDeBeat",NL
-Chaos333,
+Chaos333,US
 "Fatah, Lijpe",NL
 "Lijpe, Leblanco",NL;BE
 "Damost, Don Bigg",MA
-Damost,
-"Mounim Slimani, badr ouabi",
+Damost,PH
+"Mounim Slimani, badr ouabi",MA
 "Damost, Fetah",MA
 "Baby Gang, El Alfa, Omega, Roberto Ferrante",IT;DO;HU
 "Francis Mercier, ElGrandeToto, Faul & Wad, African Children's Choir",US;MA;FR
@@ -8380,13 +8380,13 @@ Samira l'Oranaise,DZ
 "L'morphine, Valerieblud",MA
 "L'morphine, DEIMI",MA;LT
 "L'morphine, Shinigami",US
-"L'morphine, Aboy26",
+"L'morphine, Aboy26",MA
 "L'morphine, Mehdi Lekok",MA
-"L'morphine, Netro",
+"L'morphine, Netro",MA
 "Benny Adam, Lartiste",FR
 Cheb Rami,DZ
 Loun,US
-Unknown M,
+Unknown M,ES
 "DYSTINCT, Mustafa Al-Abdullah",BE
 The Marías,US
 Didou Parisien,DZ
@@ -8396,11 +8396,11 @@ Lakamura,MA
 "Hassa1, Shaw",US
 "Moro, Skizo Beats",JP
 Aminux,MA
-"Amine Farsi, Stormy",FR;IT
-"Bayadis, Manal, Shaw",MA;AR;US
+"Amine Farsi, Stormy",FR;MA
+"Bayadis, Manal, Shaw",MA;US
 "SALIMA CHICA, RYM",ES
 Abdou Gambetta,DZ
-RED TAPE MUSIC,
+RED TAPE MUSIC,MA
 "Duke, Salma Rachid",US
 Khaled,DZ
 "LFERDA, SPOO",MA
@@ -8418,7 +8418,7 @@ khadhraoui ghaith,TN
 "Lartiste, Benny Adam, Nej, khadija taayalt",FR
 "FIFA Sound, RedOne, Hamad Al Khazinah",SE
 "Valerieblud, Yo Asel",MA
-Gustavo 51,
+Gustavo 51,MA
 "RedOne, Saad Lamjarred, Inkonnu, Atif Zinachi",SE
 "Ayra Starr, Davido, French Montana",NG;US
 "S13, Obito.Triple3, DEIMI",LT
@@ -8430,8 +8430,8 @@ Reda Taliani,DZ
 "Kerchak, ElGrandeToto",FR;MA
 "Fouzi Torino, Mc Artisan",DZ
 "ONZY, 7ari",MA
-ELHAFIDY,
-"LMLTM, Furelise",
+ELHAFIDY,MA
+"LMLTM, Furelise",MA
 "Abduh, Najm",MA
 "TIG, Niro, ElGrandeToto",AU;FR;MA
 "MG Remixs, Amine Matlo, Cheba Maria, Cheb Faycal",MA
@@ -8440,20 +8440,20 @@ Khtek,MA
 "Didine Canon 16, Flashy OTR",DZ
 "DJ Malvado, DODDY",AO;RO
 Saintemin,MA
-"Zaki Shr, Yasser Sghayer",
+"Zaki Shr, Yasser Sghayer",MA
 "Palm Monkey, RUSSI, The Palm Tree Boy",ES
 Cheba Djanet,DZ
-"Inkonnu, Manal",AR
+"Inkonnu, Manal",MA
 "Bo9al, Dollypran",MA
 "Inkonnu, Draganov",MA
 "Inkonnu, Marwan Moussa",MA;EG
 "Inkonnu, Shinigami, Zamdane",US;MA
 "21 Tach, LFERDA, salvh",MA
 ISSAM,MA
-"ONZY, Valerieblud, Gustavo 51",
+"ONZY, Valerieblud, Gustavo 51",MA
 "ONZY, Furelise",MA
 "ONZY, Tchubi",MA
-"Manal, Stormy",AR;IT
+"Manal, Stormy",MA
 "Bo9al, Shaw",US
 "Snor, Najm",MA
 "Bo9al, Valerieblud",MA
@@ -8467,7 +8467,7 @@ MEDU,ES
 "Snor, Madd",MA;US
 "Snor, Wegz",MA;EG
 "Snor, 7liwa",MA
-"Cheba Souad, Hichem Smati",
+"Cheba Souad, Hichem Smati",DZ
 "Snor, Xcep",MA
 "Aymane Haqqi, L'morphine",MA
 "Mensa, 3robi, SRNO",US;NL;GB
@@ -8475,11 +8475,11 @@ MEDU,ES
 "Veintiuno, Caspr",ES
 "Dizzy DROS, Inkonnu",MA
 "Dizzy DROS, ElGrandeToto",MA
-"Stormy, TIF",IT;FR
-"Stormy, Manal",IT;AR
-"Stormy, JRK 19",IT;FR
-"Stormy, MC PH",IT;BR
-"Stormy, M Huncho",IT;GB
+"Stormy, TIF",FR;MA
+"Stormy, Manal",MA
+"Stormy, JRK 19",FR;MA
+"Stormy, MC PH",BR;MA
+"Stormy, M Huncho",GB;MA
 "Dizzy DROS, Moro",MA;JP
 "Dizzy DROS, Nada",MA;IT
 "Dizzy DROS, Sofiane Pamart",MA;FR
@@ -8499,7 +8499,7 @@ MEDU,ES
 "Dollypran, BackRoad Gee",GB
 "Mohamed Chaker, Saad Lamjarred",LB;MA
 "Dollypran, Wezza Montaser",EG
-Studio Naghma,
+Studio Naghma,MA
 "ElGrandeToto, GIMS",MA;FR
 "ElGrandeToto, Oumay",MA
 "ElGrandeToto, Lola Indigo",MA;ES
@@ -8525,7 +8525,7 @@ Kader Japonais,FR
 "Bayadis, 3robi, Tawsen",MA;NL;BE
 "Zouhair Bahaoui, LAZARO",MA
 Cheb Houssem,DZ
-"Gustavo 51, Valerieblud",
+"Gustavo 51, Valerieblud",MA
 "MEDU, Amine Matlo",ES
 "Cheb Momo, Yousri Oscar",DZ
 "Marouane, Shaw",US
@@ -8539,14 +8539,14 @@ Youness,MA
 "YV, Kira7",PL;MA
 "Draganov, TIF",MA;FR
 "ElGrandeToto, SativaMusic",MA
-"Stormy, Tagne",IT
+"Stormy, Tagne",MA
 "Izi, 7ari",IT
 "777YM, Abidat Rma",MA
-"Abduh, Stormy",IT
+"Abduh, Stormy",MA
 "Abduh, ElGrandeToto",MA
 "Nouvo, Inkonnu",MA
 Yvzid,MA
-"Yacine Tigre, Amine La Colombe",
+"Yacine Tigre, Amine La Colombe",DZ
 "Houari Dauphin, Tchikou 22",DZ
 "Raste, L'morphine",MA
 "Bárbara Bandeira, Ivandro",PT
@@ -8556,7 +8556,7 @@ Ivandro,PT
 "Mc Paiva ZS, MC Ryan SP, Kotim",BR
 Juliette,FR
 Matias Damásio,AO
-"Mizzy Miles, Deejay Telio, Teto, Gson",PT;JP;AO
+"Mizzy Miles, Deejay Telio, Teto, Gson",PT;AO;BR
 "MC Tairon, Mc Vitin Da Igrejinha, Dj Win, life song",BR
 "Ana Castela, Melody, Dj Chris No Beat",BR;US
 "Calema, Zé Felipe",ST;BR
@@ -8570,7 +8570,7 @@ Bárbara Tinoco,PT
 Luan Santana,BR
 "Mc Gabzin, DJ TAK VADIÃO, dj sv",BR
 Jovem Dionisio,BR
-"Matuê, WIU, Teto",BR;JP
+"Matuê, WIU, Teto",BR
 "Xamã, Gustah, Neo Beats, Bagua Records",BR
 "PEDRO SAMPAIO, Mc Danflin",BR
 "Kweller, Enzo Cello, Thomie, prodbyeros",US;BR
@@ -8579,7 +8579,7 @@ Richie Campbell,PT
 "Mc Gabzin, DJ Marcus Vinicius",BR
 "MC Braz, MC Tairon, Dj Win",BR
 Gama WNTD,PT
-Teto,JP
+Teto,BR
 "Luan Santana, Luísa Sonza",BR
 "Mc Kitinho, Mc guizinho niazi, DJ DEIVÃO, Silva Mc",BR
 "Deejay Telio, Julinho Ksd",PT
@@ -8592,7 +8592,7 @@ Calema,ST
 Luísa Sonza,BR
 "Davi Kneip, Mc Frog, Dj Gabriel do Borel, Luísa Sonza",BR
 Domingues,PT
-"Filipe Ret, Caio Luccas, BIN, BUDAH, Borges, Marina Sena, Teto, Luiz Lins, Pineapple StormTv",BR;JP
+"Filipe Ret, Caio Luccas, BIN, BUDAH, Borges, Marina Sena, Teto, Luiz Lins, Pineapple StormTv",BR
 "Mc Paiva ZS, Kotim",BR
 "Anitta, PEDRO SAMPAIO",BR
 "Bispo, Ivandro",PT
@@ -8608,7 +8608,7 @@ Carolina de Deus,BR
 "Mike11, Bárbara Bandeira",PT
 "MC Zaquin, MC Rick",BR
 GIULIA BE,BR
-"Mario Mc, Menor Adr, Talentos 086",
+"Mario Mc, Menor Adr, Talentos 086",BR
 Dillaz,PT
 "Luan Santana, Mc Don Juan",BR
 "MC Cabelinho, Dallass",BR
@@ -8625,7 +8625,7 @@ Chico da Tina,PT
 Os Quatro e Meia,PT
 "Alok, Ella Eyre, Kenny Dope, Never Dull",BR;GB;US
 James Arthur,GB
-"FRANKIEONTHEGUITAR, T-Rex, LON3R JOHNY, Bispo",PT;GB;US
+"FRANKIEONTHEGUITAR, T-Rex, LON3R JOHNY, Bispo",PT;GB
 Paloma Faith,GB
 L7NNON,BR
 "Malu, DJ Lucas Beat",ES
@@ -8635,10 +8635,10 @@ Jaymes Young,US
 sxmmerx,
 "Dua Lipa, DaBaby",GB;US
 "Os Quebradeiras, DJ Zullu, Machadez, Mousik, Thamirys",BR
-T-Rex,GB;US
+T-Rex,GB
 "MC CH da Z.O, MC Myres, Danado do Recife, eoo kendy, Deyvinho PL",BR
 "L7NNON, Os Hawaianos, DJ Bel da CDD, DJ Biel do Furduncinho",BR
-"Teto, Mateca",JP
+"Teto, Mateca",BR
 Mc Jaovittin,BR
 Omar Apollo,US
 "DJ Matt D, Menor MC, MC GP, Vulgo FK",BR
@@ -8674,7 +8674,7 @@ Slow J,PT
 "Oruam, Mainstreet",BR;AT
 "Bad Bunny, ROSALÍA",PR;ES
 WIU,BR
-"WIU, Matuê, Teto",BR;JP
+"WIU, Matuê, Teto",BR
 Piruka,PT
 "Os Quebradeiras, Machadez, Mousik",BR
 "MC Ryan SP, Mc Daniel, Kotim",BR
@@ -8693,19 +8693,19 @@ Marília Mendonça,BR
 "DJ Jeeh FDC, MC Menor MT, Yuri Redicopa, Mc Pelé",BR
 LEO2745,PT
 "MC Braz, MC Gabluca, DJ 2w",BR
-"T-Rex, Slow J",GB;US;PT
-"T-Rex, Mafia73, DEMME, PiMP WiLLIAM, Dvk, Kush",GB;US;PT;CO;DE
-"T-Rex, DCOKY",GB;US
-"T-Rex, Mkmike",GB;US
+"T-Rex, Slow J",PT;GB
+"T-Rex, Mafia73, DEMME, PiMP WiLLIAM, Dvk, Kush",PT;CO;DE;GB
+"T-Rex, DCOKY",US;GB
+"T-Rex, Mkmike",US;GB
 "MC Cabelinho, Ajaxx, Galdino",BR;JP
 "Mc Paiva ZS, Gabb MC, Dj Aladin GDB, Love Funk",BR
 "MC MENOR HR, DJ Cayoo, A2M PRODUTORA",BR
-"Teto, WIU, Matuê",JP;BR
-"DJ Cayoo, DJ ESCOBAR, Nilo, MC Myres",BR;IT
+"Teto, WIU, Matuê",BR
+"DJ Cayoo, DJ ESCOBAR, Nilo, MC Myres",BR;KR
 "Sony no Beat, Felupe, Mc Danny",BR
 Léo Santana,BR
-"Leekthough, Soca Jones",
-Melairn,
+"Leekthough, Soca Jones",US
+Melairn,US
 "MC Pipokinha, DJ Pablo RB, Noguera DJ, DJ FELYPINHO 013",BR
 "Mc Don Juan, DJ Yuri Martins",BR
 "Veigh, Toledo, Supernova Ent, Bvga Beatz",BR;US
@@ -8780,7 +8780,7 @@ Dyamante DJ,PT
 "Melody, Naldo Benny, CANETARIA, MATHEUS ALVES",US;BR
 "MC Menor MT, DJ DEIVÃO, DJ Gouveia",BR
 "Marshmello, Farruko",US;PR
-"Mizzy Miles, T-Rex, Zara G",PT;GB;US
+"Mizzy Miles, T-Rex, Zara G",PT;GB
 "Kura, Bia Caboz",PT
 "Ivandro, Bispo",PT
 "Vulgo FK, MC PH, Veigh, Pedro Lotto, Fepache",BR
@@ -8800,7 +8800,7 @@ Felipe Amorim,BR
 "Buba Espinho, Bárbara Tinoco",PT
 "Mc IG, DJ WN",BR
 "Julinho Ksd, Soraia Ramos",PT
-GBoss,
+GBoss,BR
 "Dj GBR, Mc IG, MC Ryan SP, MC PH, Mc Davi, Mc Luki, Mc Don Juan, Mc Kadu, TrapLaudo, MC GP, MC GH do 7",BR
 Bispo,PT
 "David Carreira, Djodje",PT;CV
@@ -8831,14 +8831,14 @@ D.A.M.A,PT
 "Slow J, Sara Tavares",PT
 Sara Tavares,PT
 "Mc Ws da leste, MC Cothiê, Dj Chadin do C",BR
-"Teto, Matuê",JP;BR
+"Teto, Matuê",BR
 "Guilherme & Benuto, Simone Mendes",BR
 "Mc Daniel, Kotim, Ribb",BR
 "Chefin, Mainstreet, LB Único",BR;AT
 "Slow J, Gson",PT;AO
 "Slow J, Teresa Salgueiro",PT
 "Van Zee, Carolina Deslandes",PT
-phari(en),
+phari(en),US
 "Van Zee, Julinho Ksd",PT
 "Van Zee, Yuri NR5",PT
 "Van Zee, pikika",PT
@@ -8917,7 +8917,7 @@ King Bigs,AO
 "MC PH, Vulgo FK, Veigh, Pedro Lotto, prodbyeros",BR
 "Dillaz, Lhast",PT
 "ProfJam, Lhast",PT
-"WIU, Teto",BR;JP
+"WIU, Teto",BR
 Thullio Milionário,BR
 Emmanuel Kelly,AU
 "Mc Paiva ZS, DJ Ak beats, Love Funk",BR
@@ -8925,7 +8925,7 @@ José Afonso,PT
 "Nuno Ribeiro, CONAN OSIRIS",PT
 "PTM, LON3R JOHNY, Richie Campbell, Plutonio, Van Zee, ProfJam, Lhast",PT
 "Nagalli, KayBlack, Veigh, Supernova Ent",BR
-"Ryu, The Runner, Yunk Vino, Teto",JP;US;BR
+"Ryu, The Runner, Yunk Vino, Teto",US;BR
 Key-Key,HN
 "Matuê, MC Ryan SP",BR
 "L7NNON, MC Cabelinho, Palma, HHR",BR;PT
@@ -8940,10 +8940,10 @@ IOLANDA,PT
 "Luan Pereira, Murilo Huff",BR
 "Zé Neto & Cristiano, Ana Castela",BR
 The White Stripes,US
-"Mizzy Miles, Teto, MC PH",PT;JP;BR
+"Mizzy Miles, Teto, MC PH",PT;BR
 Rubby,DO
 "Mc IG, Murillo e LT no Beat, DJ Glenner",BR
-"Dj Luan Gomes, Tropa da W&S",
+"Dj Luan Gomes, Tropa da W&S",BR
 "Luísa Sonza, KayBlack",BR
 Gilsons,BR
 "Mc guizinho niazi, Dj Luizinho MPC",BR
@@ -8983,7 +8983,7 @@ MC G DS,BR
 "Mc IG, MC Ryan SP, Orochi, DJ Glenner, DJ Negret",BR;JP
 "Kaique e Felipe, Luan Pereira",BR
 "Matuê, Veigh",BR
-"Matuê, Teto",BR;JP
+"Matuê, Teto",BR
 "Matuê, Brandão85",BR
 "MC Cebezinho, DJ Oreia, MC Tuto, Love Funk, Kako",BR
 Grupo Menos É Mais,BR
@@ -9010,15 +9010,15 @@ Miguel Luz,PT
 "MC LUUKY, DJ JB Mix",BR
 "MC Tuto, Oldilla",BR
 "Léo Foguete, Acertei",BR
-Kyle Rich,
+Kyle Rich,US
 "Kappa Jotta, Bispo",PT
 "Veigh, Supernova Ent, Nemzzz",BR;GB
 "ANAVITÓRIA, Lenine",BR
-MousingMousedd,
-Criss Calisto,
+MousingMousedd,TN
+Criss Calisto,BR
 "Mickael Carreira, SYRO",PT
 "Mc IG, MC Ryan SP, Mc Luki, MC PH, Mc Don Juan, Mc Poze do Rodo, MC Marks, MC GP, MC Tuto, TrapLaudo, MC LUUKY, Mc Kadu, Ja Rule",BR;US
-"Nilo, Mc Paiva ZS, DJ Di Marques, Tropa da W&S, FamousKyo",IT
+"Nilo, Mc Paiva ZS, DJ Di Marques, Tropa da W&S, FamousKyo",KR
 "Mc Rodrigo do CN, DJ JOAO DA INESTAN",BR
 "MC Tuto, Grelo",BR
 "J. Eskine, Alef Donk",BR
@@ -9049,7 +9049,7 @@ NAPA,PT
 "Mizzy Miles, Slow J, ProfJam",PT
 "Mizzy Miles, Wet Bed Gang",PT;AO
 "Mizzy Miles, Ivandro, WIU",PT;BR
-"Mizzy Miles, Slow J, Teto",PT;JP
+"Mizzy Miles, Slow J, Teto",PT;BR
 "Mizzy Miles, Deejay Telio, Julinho Ksd",PT
 "Mizzy Miles, Nenny, MC PH",PT;BR
 "MC Dricka, DJ S2K",BR
@@ -9089,15 +9089,15 @@ Vizinhos,PT
 "1Kilo, Baviera, Knust, Pablo Martins",BR
 "Shakira, Maluma",CO
 "Notnice, Richie Campbell",PT
-"Nego Trufa, Dj TC, DJ Japa NK",
+"Nego Trufa, Dj TC, DJ Japa NK",BR
 Master Jake,AO
 "MC Jvila, Mc Negão Original, DJ Dael, DJ Guh Mix",BR
 "Bispo, Gama WNTD",PT
 "Luan Pereira, MC Tuto, Grelo",BR
 Aka Rasta,BR
-Dire Straits,GB;US
+Dire Straits,GB
 "Bispo, Chyna",PT;US
-"tarisiix, fire hair, WenHard",
+"tarisiix, fire hair, WenHard",AU;US
 "Mc Jacaré, DJ JHOW BEATS",BR
 "Dj Aguilar, Dj Tchouzen, MC Marlon PH",BR
 "Deejay Telio, Wet Bed Gang",PT;AO
@@ -9123,7 +9123,7 @@ Dire Straits,GB;US
 "ÁTOA, Luís Trigacheiro, Buba Espinho",PT
 "Soraia Ramos, Calema",PT;ST
 "DJ Biel Divulga, DJ Dozabri, Mc Lekão",BR
-"bapcat, Joint One",
+"bapcat, Joint One",BR
 "THE BOX, Oruam, Real Fuba, Didi, Luanzin, Neo Beats, Victor WAO, Maurin, Elow",US;BR;RU;IL;ZA
 "Orochi, Filipe Ret, Portugal No Beat",JP;BR
 "Kew, MC Marks, Dj LK da Escócia",BR
@@ -9141,14 +9141,14 @@ Bandidos do Cante,PT
 "Os Feras do Pizeiro, Mc J Mito",BR
 "Orochi, PL Quest, BIN, Kizzy, Mainstreet",JP;NL;AT
 Nuno Ribeiro,PT
-"Nilo, Luísa Sonza, DJ Di Marques, Galdino",IT;BR
+"Nilo, Luísa Sonza, DJ Di Marques, Galdino",BR;KR
 "Turma do Pagode, Grupo Menos É Mais",BR
 "Mc IG, Dj Victor",BR
 "Grupo Menos É Mais, NATTAN",BR
 "YeezYuri, Wet Bed Gang",AO;PT
-MC Petite Abelha,
+MC Petite Abelha,PT
 "PEDRO SAMPAIO, Mc Gw, Mc Jhey, Mc Rodrigo do CN, MC Nito",BR
-"Mizzy Miles, Teto, Ryu, The Runner",PT;JP;US
+"Mizzy Miles, Teto, Ryu, The Runner",PT;US;BR
 "MC Guh SR, Detagaz, Dj Pikeno Mpc, DJ Silvério",BR
 Rui Veloso,PT
 "Clayton & Romário, Zé Felipe",BR
@@ -9177,7 +9177,7 @@ Tiago Bettencourt,PT
 "ZARKO, Latte",IT
 Vitinho Imperador,BR
 "Mc Jacaré, Mc Negão Original, DJ Japa NK",BR
-"Dj Gustomares, MC Flavinho, Iraqui ZL",
+"Dj Gustomares, MC Flavinho, Iraqui ZL",BR
 "ROSALÍA, Carminho",ES;PT
 "DJ DUARTE, DJ ORBITAL, Dj Rs",BR;JP
 "cjnobeat, Mc Morena, Mc Gw",BR
@@ -9202,12 +9202,12 @@ Vitinho Imperador,BR
 "DJ Japa NK, MC Meno K",BR
 "John Legend, Stevie Wonder",US
 Fall Out Boy,US
-Vince Guaraldi Trio,US;CA
+Vince Guaraldi Trio,US
 "Léo Santana, Melody",BR;US
 "Mc Lele JP, DJ Guh Mix",BR
 Yasmin Sensação,BR
 "Mc Negão Original, MC Jvila, MC Willian, DJ Japa NK, MC Meno K, DJ Guh Mix",BR
-"Dj Yuri Pedrada, Nilo, MC Meno K, Mc Livinho, Mc Negão Original, MC Jvila, MC Ryan SP, Mc Paiva ZS, MC GDL",IT;BR
+"Dj Yuri Pedrada, Nilo, MC Meno K, Mc Livinho, Mc Negão Original, MC Jvila, MC Ryan SP, Mc Paiva ZS, MC GDL",BR;KR
 "Mc Lele JP, MC Leozinho ZS, MC GH Original, MC Menor ZL, DJ GORDINHO DA VF, MC Meno K, MC PR",BR
 "Drake, Chris Brown",CA;US
 "DJ Japa NK, MC Meno K, MC Ryan SP, Mc Brinquedo, MC LUUKY",BR
@@ -9224,8 +9224,8 @@ Men0 K,BR
 "Vizinhos, ÁTOA, Atitude 67",PT;BR
 "Kew, DJGILCASTRO",
 "Slow J, Prodígio",PT
-"Dj Luan Gomes, Mc Ws da leste, Delleon, Tropa da W&S",
-3 Doors Down,US;CA
+"Dj Luan Gomes, Mc Ws da leste, Delleon, Tropa da W&S",BR
+3 Doors Down,US
 "DJ TOPO, Natiruts, Yuri Redicopa, Ryuchi",BR
 "Mc Jacaré, Mc Lele JP, Mc Negão Original, DJ Japa NK",BR
 "Marina Sena, Psirico",BR
@@ -9249,7 +9249,7 @@ Ferrugem,BR
 "Mc Livinho, Mc Pedrinho, Perera DJ, DJ JB Mix",BR
 "LON3R JOHNY, CRIPTA",PT;ES
 "Anitta, Shakira",BR;CO
-"Gordinho Bolado, CACAU CHUU",
+"Gordinho Bolado, CACAU CHUU",BR
 "ProfJam, Plutonio",PT
 "ProfJam, LON3R JOHNY, Mizzy Miles",PT
 "ProfJam, Sippinpurpp",PT
@@ -9268,7 +9268,7 @@ Ferrugem,BR
 "dj andreoli, Mc Jacaré, MC Ryan SP, ZANOLINI, Mc Lele JP, MC LUUKY",BR
 "G.A, Veigh, Mc Morena, Supernova Ent",PL;BR
 Soraia Ramos,PT
-"DJ EXE, CACAU CHUU",
+"DJ EXE, CACAU CHUU",BR
 Némanus,PT
 "Oldilla, Mc Iguinho Ct, MC Willian, Aaron Modesto, Mc Negão Original, DU'L, Dj Aladin GDB",BR
 "Zara G, Progvid",PT
@@ -9288,7 +9288,7 @@ Joint One,
 "Mc Iguinho Ct, Dj Aladin GDB, MC Willian, MC GP, MC LUUKY, DU'L",BR
 "Virgul, LUDMILLA",PT;BR
 Os Alentons,PT
-"MC Kauan PV, Coral das Quebradas, DJ Yago",
+"MC Kauan PV, Coral das Quebradas, DJ Yago",BR
 "MC Ryan SP, MC Meno K, MC GP, DJ Glenner, MC Jvila, Mc Lele JP, Mc Leozin, Mc Bruninho da Praia, Dj Daltin no Beat",BR
 "MC Jvila, KayBlack, Veigh, Vulgo FK, Honaiser, Nagalli, Stick, Toledo",BR;FR
 Thiago Navarro Music,
@@ -9302,10 +9302,10 @@ Bluay,PT
 "Dj GM, Mc Paiva ZS, Triz, MC Paulin da Capital, Mc Lipi, Mc Lele JP, MC Ryan SP, Gabb MC, Mc Daniel, MC Cebezinho, MC GH do 7, MC Marks, Mc Negão Original, GREGO",BR
 "Drake, Don Toliver",CA;US
 anomaly,
-"Basílio Teles, Zigarro",
+"Basílio Teles, Zigarro",PT
 "YEW, LANDOKMAI",BE;TH
 Dept,KR
-THEMOONWILLALWAYSBEWITHME,
+THEMOONWILLALWAYSBEWITHME,TH
 PROXIE,TH
 BOWKYLION,TH
 YourMOOD,TH
@@ -9317,7 +9317,7 @@ Three Man Down,TH
 Jeff Satur,TH
 NuNew,TH
 JOEY PHUWASIT,TH
-KJ,
+KJ,KR
 Mirrr,TH
 "Lipta, GUYGEEGEE",TH
 Alyn Wee,TH
@@ -9328,7 +9328,7 @@ D Gerrard,TH
 TheChanisara,TH
 Tilly Birds,TH
 Only Monday,TH
-No One Else,RU
+No One Else,TH
 Patrickananda,TH
 Blackbeans,TH
 "Tattoo Colour, D Gerrard",TH
@@ -9336,7 +9336,7 @@ Blackbeans,TH
 "Stamp, Violette Wautier",GB;TH
 "Waii, Koen",NL
 "Palmy, Singto Numchok",TH
-Polycat,GR
+Polycat,TH
 Anatomy Rabbit,TH
 Tattoo Colour,TH
 Indigo,US
@@ -9356,8 +9356,8 @@ PiXXiE,TH
 bamm,TH
 Safeplanet,TH
 Musketeers,TH
-SAMBLACK,
-"YENTED, ARARYOZI, Chocolate - t",
+SAMBLACK,TH
+"YENTED, ARARYOZI, Chocolate - t",TH
 "PiXXiE, Zom Marie",TH
 PUNYARB,TH
 Slapkiss,TH
@@ -9390,7 +9390,7 @@ Denise Julia,US
 Mark Tuan,US
 Pearpilincys,TH
 "Kinkaworn, bamm",TH
-Basketband,
+Basketband,TH
 Basher,GB
 NINEW,TH
 "K6Y, Lazyloxy, Jayrun",TH
@@ -9403,7 +9403,7 @@ VELIKA,CS;YU;RS
 Two Popetorn,TH
 JETSET'ER,TH
 "Saran, MaiMhon",TH
-MEYOU,JP
+MEYOU,TH
 GOT7,KR
 Paper Planes,TH
 LAZYLOXY,TH
@@ -9415,7 +9415,7 @@ Mai Davika,TH
 "OG BOBBY, VannDa",KH
 PP KRIT,TH
 "Percy, naphat",US
-"Dane Amar, MEYOU",JP
+"Dane Amar, MEYOU",TH
 "Bruno Mars, Anderson .Paak, Silk Sonic, Thundercat, Bootsy Collins",US
 "YENTED, Minchang, Gomen.",DE
 Bodyslam,TH
@@ -9425,9 +9425,9 @@ Chilling Sunday,TH
 "Praesun, GUYGEEGEE",TH
 เรนิษรา,TH
 "Three Man Down, URBOYTJ",TH
-AYLA's,DE
+AYLA's,TH
 "F.HERO, Twopee Southside, YUGYEOM",TH
-"BamBam, SEULGI",KR
+"BamBam, SEULGI",KR;TH
 "Three Man Down, ออม TELEx TELEXs",TH
 Zack Tabudlo,PH
 "Hwang Chang young, Door",GB
@@ -9451,15 +9451,15 @@ Rifle,SE
 First Anuwat,TH
 FLUKIE,TH
 Maiyarap,TH
-"DJ Snake, Ozuna, Megan Thee Stallion, LISA",FR;PR;US;JP
+"DJ Snake, Ozuna, Megan Thee Stallion, LISA",FR;PR;US;TH
 MONICA,US
 GAVIN:D,TH;GB
 Season Five,TH
 "YOUNGOHM, SONOFO",TH
 "HYBS, slchld, asiatic.wav",TH
 "BRIGHT, D Gerrard",US
-"ปอน นิพนธ์, โต๋เหน่อ",
-Cocktail,IT
+"ปอน นิพนธ์, โต๋เหน่อ",TH
+Cocktail,TH
 Timethai,TH
 "F.HERO, Tilly Birds",TH
 "Zom Marie, BILLKIN, Triumphs Kingdom",TH
@@ -9474,28 +9474,28 @@ BRIGHT,US
 SHERRY,GB
 "Musketeers, PUN",US
 1LIFE,US
-Arert,
-Lower Mansion,
-BamBam,KR
+Arert,TH
+Lower Mansion,TH
+BamBam,TH
 "BABYBIGBOY, THAOWANZ, P6ICK, 1LIFE",TH;US
 DIDIxDADA,TH
 ฮันเตอร์,KR
 QLER,TH
 JAOKHUN,TH
-"Kennocha, Naphat",
+"Kennocha, Naphat",TH
 "Lipta, F.HERO",TH
 "Room 39, โป่ง หินเหล็กไฟ",TH
-"GUZT, YUNGTARR",
+"GUZT, YUNGTARR",TH
 Nené,BR
 "MEAN Band, sarah salola",TH
 "Saran, Simon",DE
 Room 39,TH
-sped up 8282,
+sped up 8282,KR
 "First Anuwat, Saran",TH
-"Saran, DXRIW",
+"Saran, DXRIW",TH
 "TIGGER (ทิกเกอร์), Aheye of 4EVE",TH
 "Elephante, BEAUZ, Mark Tuan",US
-"Saran, THAOWANZ",
+"Saran, THAOWANZ",TH
 บูม สหรัฐ,TH
 "YOUNGOHM, GAVIN:D",TH
 "Bow Maylada, GUYGEEGEE",TH
@@ -9516,26 +9516,26 @@ YUGYEOM,KR
 lostbeans,TH
 "Ariana Grande, Future",US
 LANDOKMAI,TH
-JHIN,
+JHIN,US
 "Rifle, Saran",SE
 "NONT TANONT, Lipta",TH
 fellow fellow,TH
-ดิด คิตตี้,
+ดิด คิตตี้,TH
 New & Jiew,TH
 "Saran, 2K",IN
 "PONCHET, VARINZ",TH
 Kakagoesbackhome,US
 "fellow fellow, guncharlie",TH
 Bird Thongchai,TH
-วสันต์17,
-Parkmalody,
+วสันต์17,TH
+Parkmalody,TH
 ทิดแอม,TH
 BADMIXY,TH
 ปรีชา ปัดภัย,TH
 คณะขวัญใจ,TH
 "K-OTIC, Girly Berry",NL;TH
 "BOWKYLION, THE TOYS",TH;US
-WIMY,
+WIMY,US
 WayV,KR;CN
 "URBOYTJ, GAVIN:D",TH;GB
 Palmy,TH
@@ -9552,43 +9552,43 @@ LHAM SOMPHOL ,TH
 25 hours,TH
 "Saran, GTK",FR
 "PUN, Percy, Trilogy",US
-manutsawee,
+manutsawee,TH
 PUN,US
 "CHRRISSA, 1LIFE",US
-"Vrach, Secret Boy",
+"Vrach, Secret Boy",KR
 USHER,US
-pY-1,
+pY-1,TH
 SPF,TH
 Bedroom Audio,TH
 Slot Machine,TH
 "WIN METAWIN, Badmixy",TH
 FOURTH,TH
 มีนตรา อินทิรา,TH
-"MEYOU, PUN",JP;US
+"MEYOU, PUN",US;TH
 ATLAS,GB
 "YENTED, BLVCKHEART, Williams",TH;US
 Muni Long,US
 guncharlie,TH
-"Trumsey, K-Yu",
+"Trumsey, K-Yu",TH
 โต๋เหน่อ,TH
 DICE,TH
-Lula,AT
+Lula,TH
 deasy,IE
 "ZENTYARB, PUNYARB, Minchang",TH;DE
 TaitosmitH,TH
 JustmineNika,TH
 ZENTYARB,TH
-Highhot,
+Highhot,TH
 "Juepak, จ๊ะ นงผณี, GUNNER",AR
-"บุ๊ค ศุภกาญจน์, ทิดแอม, มอส คำหมากบิน",
+"บุ๊ค ศุภกาญจน์, ทิดแอม, มอส คำหมากบิน",TH
 "MILLI, อาภาพร นครสวรรค์",DE;US;FR
-เบนซ์ ปรีชา,
+เบนซ์ ปรีชา,TH
 Goy Arachaporn,TH
-JODAI,
+JODAI,TH
 "Bodyslam, Jeff Satur",TH
 "GAVIN:D, URBOYTJ, Poppy Chatchaya",TH;GB
 "Saran, BLVCKHEART, DAVIDBOII",TH
-Gift My Project,
+Gift My Project,TH
 "ZENTYARB, K.AGLET",TH
 Lipta,TH
 "DREAMGALS, MILLI, Flower.far, GALCHANIE",TH;DE;US;FR
@@ -9600,7 +9600,7 @@ The Parkinson,TH
 WANYAi,TH
 "GEMINI, FOURTH",US;TH
 Rangga Jones,SG
-เมนทอล,
+เมนทอล,TH
 "PUN, URBOYTJ",US
 "YOUNGOHM, DIAMOND MQT",TH
 "Lipta, Mirrr",TH
@@ -9613,20 +9613,20 @@ WIM,BE
 ASIA7,TH
 ALIE BLACKCOBRA,TH
 "Paper Planes, JOEY PHUWASIT",TH
-Mild,JP
-Zeal,CH
+Mild,TH
+Zeal,TH
 Tobii,DK
-เล็กสเร็น,
-"Cocktail, Q Flure",IT
-เอ็กซ์ ศุภกฤต,
-"marr team, mintchyy",
+เล็กสเร็น,TH
+"Cocktail, Q Flure",TH
+เอ็กซ์ ศุภกฤต,TH
+"marr team, mintchyy",TH
 Kantong Tungngern,TH
-"Cocktail, ตูน BODYSLAM, ปั๊บ Potato",IT
+"Cocktail, ตูน BODYSLAM, ปั๊บ Potato",TH
 Pop Pongkool,TH
 RISA NARISA,TH
 "Saran, 2T FLOW, BLVCKHEART",TH
 Diamond Narakorn,TH
-"marr team, Soundtiss",
+"marr team, Soundtiss",TH
 "The BESTS, Saran, BLVCKHEART, SLOWVXNZ, -",TH
 "Saran, BLVCKHEART, Rifle",TH;SE
 เล็ก รัชเมศฐ์,TH
@@ -9634,26 +9634,26 @@ HANGMAN,FR
 2T FLOW,TH
 "Mark Lee, Lee Young Ji",CA;KR
 "Saran, BLVCKHEART, DIAMOND MQT",TH
-WanMai,
+WanMai,TH
 "ALIE BLACKCOBRA, เบบี้โจลี่สตาร์",TH
 "CDGuntee, NARA THEPNUPA, GUYGEEGEE",TH
-"Tilly Birds, Polycat",TH;GR
+"Tilly Birds, Polycat",TH
 Loso,TH
 "Z9, 2K, Saran",TH;IN
 "Three Man Down, Nap The Nap",TH
 "MINNIE, TEN",US;GB
 Pang Nakarin,TH
 Dr.Fuu,TH
-"Saran, THAOWAN",
+"Saran, THAOWAN",TH
 "Saran, Z9, SIMON",TH;DE
 "BLVCKHEART, K6Y",TH
 Saran,TH
 PRAE CHANAA,TH
 ไหมไทย หัวใจศิลป์,TH
 "F.HERO, Kantong Tungngern, Saran",TH
-ไทยตรง,
-"LISA, Tyla",JP;GB
-"LISA, Megan Thee Stallion",JP;US
+ไทยตรง,TH
+"LISA, Tyla",GB;TH
+"LISA, Megan Thee Stallion",US;TH
 "PP KRIT, MILLI",DE;US;FR
 GALCHANIE,TH
 "SPRITE, YOUNGOHM",US;TH
@@ -9664,7 +9664,7 @@ I-Zax,TH
 ปราง ปรางทิพย์,TH
 "เรนิษรา, สยาโม",TH
 "Saran, Z9",TH
-"Cocktail, นิว นภัสสร",IT;TH
+"Cocktail, นิว นภัสสร",TH
 "JRBUBBLEGUM, BIZCUITBEER, GUNNER",AR
 "Younggu, GUNNER",AR
 "2Ectasy, Z9",TH
@@ -9675,33 +9675,33 @@ WINTER,US
 "BOWKYLION, NONT TANONT",TH
 "Emotional Oranges, JAEHYUN",US;KR
 T!NE,TH
-the ge,
+the ge,US
 Clockwork Motionless,TH
 2Ectasy,TH
 กล้วย อาร์ สยาม,TH
 LBI利比,CN
-"Cxpy, APE FREDDA",
+"Cxpy, APE FREDDA",US
 Clash,GB
 "BOYdPOD, BILLKIN",TH
 AirBorne,US
 BLVCKHEART,TH
 "fellow fellow, PUN",TH;US
-โก๊ะ นิพนธ์,
+โก๊ะ นิพนธ์,TH
 Pancake,DE
 "Jigsaw Story, MONICA",US
 "Tattoo Colour, F.HERO",TH
 "Z9, The BESTS",TH
 "Rifle, Z9, Sexski",SE;TH
-"Cocktail, พงศ์ พัทลุง, ปู่จ๋าน ลองไมค์, Lamyai Haitongkam",IT
+"Cocktail, พงศ์ พัทลุง, ปู่จ๋าน ลองไมค์, Lamyai Haitongkam",TH
 "PUN, 1MILL",US
 "P6ICK, SURIYA MQT",TH
 "9tokyo, 2K",TH;IN
 YUNGTARR,TH
 FULL,GB
 "URBOYTJ, เล็ก รัชเมศฐ์",TH
-"Cxpy, YUNGTARR",
+"Cxpy, YUNGTARR",TH
 "P6ICK, Z9",TH
-iluvujayjay,
+iluvujayjay,TH
 "BOWKYLION, Jeff Satur",TH
 "ETC., The Parkinson",US;TH
 Yes'sir Days,TH
@@ -9713,11 +9713,11 @@ Kehlani,US
 HAECHAN,KR
 Boat Dr.Fuu,TH
 "KRK, N/A",TH;FR
-"BamBam, Timethai",KR;TH
+"BamBam, Timethai",TH
 fin,US
 SURIYA MQT,TH
 "NONT TANONT, Jeff Satur",TH
-โชเล่ย์ ชคัทพล,
+โชเล่ย์ ชคัทพล,TH
 "WANYAi, ปู่จ๋าน ลองไมค์",TH
 "SEA., Sexski",JP;TH
 "FOURTH, MABELZ",TH
@@ -9734,32 +9734,32 @@ FirstOne,TH
 Txrbo,TH
 "JayQ, BLVCKHEART, SIMON",US;TH;DE
 The 38 Years Ago,TH
-"Season Five, No One Else",RU
+"Season Five, No One Else",TH
 Helmetheads,TH
 "TEMI, KiRANA",NZ
-PORZAX,
+PORZAX,TH
 "Yes'sir Days, Fymme Bongkot",TH
 Hugo,AT
-"Fieldddd, YUNGTARR",
-"AYLA's, Anatomy Rabbit",DE;TH
+"Fieldddd, YUNGTARR",TH
+"AYLA's, Anatomy Rabbit",TH
 "Saran, Pearpilincys",TH
 "BADMIXY, ปอยฝ้าย มาลัยพร",TH
 "K.AGLET, GUNNER, DIAMOND MQT",AR;TH
-HACKR,
+HACKR,TH
 "Young J, DASHIE",GB
 "2Ectasy, jeffy, Kakagoesbackhome",US
-L.กฮ.,
+L.กฮ.,TH
 "P6ICK, SURIYA MQT, Sexski",TH
 วิด ไฮเปอร์,TH
 Labanoon,TH
-"Cocktail, ตั๊ก ศิริพร",IT
+"Cocktail, ตั๊ก ศิริพร",TH
 "ASIA7, ปลาย กนกพร",TH
 "Sexski, 2T FLOW",TH
 getsunova,TH
 The Richman Toy,TH
-"โต๋เหน่อ, ราเชียร์, จ๊อบจี้",
+"โต๋เหน่อ, ราเชียร์, จ๊อบจี้",TH
 Sexski,TH
-Yonia,
+Yonia,TH
 พริกไทย,TH
 THE RUBE,GB
 "Three Man Down, PEEMWASU OF BUS",TH
@@ -9767,45 +9767,45 @@ THE RUBE,GB
 P9d,TH
 Paradox,GB
 "Carabao, Center Stage",US
-"spingy, Stickyrice Killah, YUNGTARR",
+"spingy, Stickyrice Killah, YUNGTARR",TH
 Lomosonic,TH
-Potato,ES
+Potato,TH
 "BLUE PONGTIWAT, TEN",TH;GB
 "Z9, 1ST, 2K, 2T FLOW",GB;IN;TH
-LUMMUN,
+LUMMUN,TH
 "PP KRIT, GALCHANIE",TH
 NCT JNJM,KR
 "Maiyarap, Z9",TH
-"Cocktail, พงษ์สิทธิ์ คำภีร์",IT;TH
+"Cocktail, พงษ์สิทธิ์ คำภีร์",TH
 "Labanoon, Paowalee Pornpimon",TH
-NeoX,
+NeoX,TH
 "aespa, Anderson .Paak",KR;US
 "Ab Normal, Mariam B5",TH
 Pramote Vilepana,TH
 "JOEY PHUWASIT, Kong Huayrai",TH
 "SEA., Z9",JP;TH
-"Anyma, LISA",DE;JP
+"Anyma, LISA",DE;TH
 "PURPEECH, Saran",TH
 ณเดชน์ คูกิมิยะ,TH
 "GAVIN:D, BLVCKHEART",TH
-"MaxMillor, PORZAX",
+"MaxMillor, PORZAX",TH
 Sukrit Wisetkaew,TH
 "P6ICK, SURIYA MQT, YUNGTARR",TH
 "YENTED, WIN SQWEEZ ANIMAL",TH
 "BILLKIN, Ink Waruntorn",TH
-Mr' พระจันทร์,
-"KRK, N/A, Sakarin",
+Mr' พระจันทร์,TH
+"KRK, N/A, Sakarin",TH;FR
 "Z9, BLVCKHEART",TH
 "KRK, N/A, HK",FR
 Moderndog,TH
 "PUN, MUON",US;SG
-"LISA, Anitta, Rema, FIFA Sound",JP;BR;NG
-"IRONBOY, Justmine JMNK",
-อูโน่ หลาวทอง,
-Jh4y,
+"LISA, Anitta, Rema, FIFA Sound",BR;NG;TH
+"IRONBOY, Justmine JMNK",TH
+อูโน่ หลาวทอง,TH
+Jh4y,TH
 "9tokyo, BLVCKHEART",TH
 เอ๊ะ จิรากร,TH
-เก่ง นิยุต,
+เก่ง นิยุต,TH
 "ZENTYARB, Saran",TH
 RENJUN,CN
 Sek Loso,TH
@@ -9817,28 +9817,28 @@ Instinct,TH
 60Miles,TH
 "MASKETEER, 2T FLOW",TH
 "Saran, The BESTS, P6ICK, 1ST, 2TFLOW",TH;GB
-"Zeal, Buachompoo Ford",CH
-"MaxMillor, PORZAX, ize so cold.",
+"Zeal, Buachompoo Ford",TH
+"MaxMillor, PORZAX, ize so cold.",TH
 "BLVCKHEART, PUN",TH;US
 "SEA., Saran",JP
 "BOWKYLION, JOEY PHUWASIT",TH
 "Younggu, YUNGTARR, SURIYA MQT, P6ICK",TH
 Dax Rock Rider,TH
-Bovini,
+Bovini,TH
 "BLVCKHEART, 2T FLOW, K6Y",TH
-"ธีร์ ทีเร็กซ์, หยุด สาละวัน",
+"ธีร์ ทีเร็กซ์, หยุด สาละวัน",TH
 YENTED,TH
 "PROXIE, 2Ectasy, jeffy, Kakagoesbackhome",TH;US
 "NONT TANONT, Singto Numchok",TH
-BADI Z,
+BADI Z,TH
 Singto Numchok,TH
-อะตอม ตาปีมิวสิคกรุ๊ป,
+อะตอม ตาปีมิวสิคกรุ๊ป,TH
 "Pop Pongkool, Wonderframe",TH
 "MaxMillor, SURIYA MQT",TH
-Aun Feeble Heart,
+Aun Feeble Heart,TH
 "GAVIN:D, Violette Wautier",TH
 "PP KRIT, Girly Berry",TH
 "BENZKHAOKHWAN, HYE",TH
-GH,
+GH,TH
 FRIDAY NIGHT to SUNDAY,TH
 "YOUNGOHM, KT KRATAE",TH
