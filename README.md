@@ -70,85 +70,21 @@ L'étude est **purement descriptive** : elle décrit des écarts entre pays et n
 
 ## 3. Structure du dépôt
 
-> Arborescence à adapter à l'état réel du dépôt.
-
 ```text
 .
 ├── README.md                      Présentation du projet (ce fichier)
 ├── requirements.txt               Dépendances Python
 ├── notebooks/
-│   └── Fichier_Final.ipynb        Notebook principal : analyse complète, de l'introduction à la conclusion
+│   ├── Travail Final.ipynb        Notebook principal : analyse complète, de l'introduction à la conclusion
+│   ├── Récupération des données.ipynb        Notebook de récupération de données sur MusicBrainz et fusion avec la base principales
 ├── data/
-│   ├── base_complete.csv          Classements enrichis (nationalité et langue)
 │   ├── QUOTAS.xlsx                Présence d'un quota de diffusion par pays
 │   └── enrichissement/
 │       ├── artistes_nationalites.csv   Nationalité par artiste
-│       ├── chansons_langues.csv        Langue par titre
-│       └── remplissages_manuels.csv    Valeurs complétées à la main, avec leur fondement
-├── scripts/
-│   └── langue_chant.py            Langue d'un morceau via l'API MusicBrainz
-└── docs/
-    └── plan_detaille.md           Plan détaillé du projet
+└──     └── chansons_langues.csv        Langue par titre
 ```
 
-## 4. Installation et utilisation
-
-### Prérequis
-
-- Python 3.10 ou plus récent
-- Jupyter (JupyterLab ou Jupyter Notebook)
-
-### Installation
-
-```bash
-git clone https://github.com/<organisation-ou-compte>/<nom-du-depot>.git
-cd <nom-du-depot>
-python -m venv .venv
-source .venv/bin/activate        # Windows : .venv\Scripts\activate
-pip install -r requirements.txt
-```
-
-Contenu de `requirements.txt` :
-
-```text
-numpy
-pandas
-matplotlib
-scipy
-openpyxl
-jupyter
-requests        # uniquement pour scripts/langue_chant.py
-```
-
-### Lancer l'analyse
-
-1. Placer `base_complete.csv` et `QUOTAS.xlsx` à l'emplacement attendu (dossier `data/`).
-2. **Adapter les deux chemins de la cellule « Importation de la base données »** du notebook. Ils pointent par défaut vers l'ordinateur d'un contributeur :
-
-   ```python
-   base = pd.read_csv("data/base_complete.csv")
-   quotas = pd.read_excel("data/QUOTAS.xlsx", engine="openpyxl")
-   ```
-
-3. Ouvrir le notebook et exécuter toutes les cellules (`Kernel`, `Restart & Run All`). L'exécution complète prend quelques minutes, à cause des graphiques.
-4. Le **plan du travail** en tête du notebook permet de naviguer entre les parties par des liens cliquables.
-
-> Dans JupyterLab 4, si certains liens du plan restent muets, désactiver le chargement partiel des cellules : `Settings`, `Settings Editor`, `Notebook`, `Windowing mode` à `none`. Le sommaire intégré (`Table of Contents`) reconnaît les mêmes titres.
-
-### Exporter en PDF
-
-L'export direct par LaTeX perd la mise en forme. Le plus simple : `File`, `Save and Export Notebook As`, `HTML`, puis ouvrir le fichier dans Chrome ou Edge, `Ctrl + P`, **Enregistrer au format PDF** avec l'option **Graphiques d'arrière-plan** cochée.
-
-### Retrouver la langue d'un morceau (facultatif)
-
-```bash
-python scripts/langue_chant.py "Stromae" "Alors on danse"
-python scripts/langue_chant.py "Stromae" "Alors on danse" --json
-```
-
-Le script interroge l'API publique de MusicBrainz (environ une requête par seconde) et lit la langue des paroles sur l'œuvre liée ; à défaut, il se replie sur la langue déclarée de l'album, source plus indicative. Remplacer l'adresse de contact dans `HEADERS` avant usage : MusicBrainz impose un `User-Agent` identifiant l'application.
-
-## 5. Méthode et plan du notebook
+## 4 . Méthode et plan du notebook
 
 | Partie | Contenu |
 |---|---|
@@ -167,7 +103,7 @@ Quelques définitions utiles :
 - **Similarité de Jaccard** : part de titres communs à deux classements (titres communs divisés par titres des deux classements réunis).
 - **Rapport des médianes** : écoute médiane d'un titre d'une catégorie divisée par celle d'un titre hors de la catégorie, la même semaine.
 
-## 6. Résultats principaux
+## 5. Résultats principaux
 
 - **Pas d'effet visible des quotas.** Pour les quotas de langue (France, Portugal), la part de langue locale est de 61,1 % en moyenne, contre 70,0 % dans les cinq pays sans quota. Pour le quota de nationalité (Argentine), la part nationale est de 55,6 %, contre 70,2 %.
 - **Le Portugal avant et après le quota.** Le rétablissement du quota de 30 % en septembre 2023 ne s'accompagne d'aucune rupture de la part de langue locale (62,4 % avant, 61,3 % après).
@@ -175,7 +111,7 @@ Quelques définitions utiles :
 - **Ce poids vient du nombre de titres.** Par titre, l'avantage national reste faible dans la plupart des pays (écoute médiane de 4 à 7 % supérieure dans six pays sur dix).
 - **Des classements très différents.** Deux pays n'ont en moyenne que 3,5 % de titres en commun, avec des ressemblances régionales.
 
-## 7. Limites
+## 6. Limites
 
 - Les quotas concernent la radio, alors que les données sont des écoutes Spotify.
 - La plupart des quotas existaient avant le début des données ; seuls deux mouvements ont lieu pendant la période (rétablissement du quota portugais en 2023, loi grecque de 2024).
@@ -183,18 +119,16 @@ Quelques définitions utiles :
 - Le Top 200 ne représente que les titres les plus visibles, et les playlists de la plateforme influencent les classements.
 - Le classement du Portugal en quota de langue repose sur la définition légale (langue ou patrimoine culturel, quelle que soit la nationalité des artistes) ; il se modifie dans le dictionnaire `nature_quota` du notebook.
 
-## 8. Contributeurs
+## 7. Contributeurs
 
 | Contributeur | Rôle | Profil GitHub |
 |---|---|---|
-| **Mohamed AMISI LOHATA** | Construction et enrichissement de la base (partie 2), renouvellement des classements (3.2), refonte et harmonisation du notebook | [@mohamed-github](https://github.com/mohamed-github) |
-| **[Prénom NOM]** | [Rôle, par exemple : concentration des écoutes (4.1)] | [@pseudo-2](https://github.com/pseudo-2) |
-| **[Prénom NOM]** | [Rôle, par exemple : ressemblance entre classements (4.2)] | [@pseudo-3](https://github.com/pseudo-3) |
-| **[Prénom NOM]** | [Rôle, par exemple : préférence nationale et quotas (5)] | [@pseudo-4](https://github.com/pseudo-4) |
+| **Henri Mariel KEBAMKEU TCHAKOUNTEU** |  (https://github.com/kt-henrimariel) |
+| **Pierrette MATCHIM KOUOKAM** | (https://github.com/MATCHIM2004) |
+| **Tony MAGYAR** | (https://github.com/tonymagyar69) |
 
-> Chaque lien pointe vers la page de profil GitHub du contributeur : `https://github.com/<pseudo>`. Pour afficher les avatars de tous les contributeurs, GitHub propose aussi la page `https://github.com/<organisation-ou-compte>/<nom-du-depot>/graphs/contributors`.
 
-## 9. Sources et références
+## 8. Sources et références
 
 **Données et outils**
 
@@ -219,4 +153,4 @@ Quelques définitions utiles :
 
 ---
 
-*Projet réalisé dans un cadre pédagogique. Licence : [à préciser, par exemple MIT pour le code, usage pédagogique pour les données].*
+*Projet réalisé dans un cadre pédagogique. 
