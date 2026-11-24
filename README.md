@@ -84,47 +84,7 @@ L'étude est **purement descriptive** : elle décrit des écarts entre pays et n
 └──     └── chansons_langues.csv        Langue par titre
 ```
 
-## 4. Installation et utilisation
-
-
-### Installation
-
-```bash
-git clone https://github.com/<organisation-ou-compte>/<nom-du-depot>.git
-cd <nom-du-depot>
-python -m venv .venv
-source .venv/bin/activate        # Windows : .venv\Scripts\activate
-pip install -r requirements.txt
-```
-### Lancer l'analyse
-
-1. Placer `base_complete.csv` et `QUOTAS.xlsx` à l'emplacement attendu (dossier `data/`).
-2. **Adapter les deux chemins de la cellule « Importation de la base données »** du notebook. Ils pointent par défaut vers l'ordinateur d'un contributeur :
-
-   ```python
-   base = pd.read_csv("data/base_complete.csv")
-   quotas = pd.read_excel("data/QUOTAS.xlsx", engine="openpyxl")
-   ```
-
-3. Ouvrir le notebook et exécuter toutes les cellules (`Kernel`, `Restart & Run All`). L'exécution complète prend quelques minutes, à cause des graphiques.
-4. Le **plan du travail** en tête du notebook permet de naviguer entre les parties par des liens cliquables.
-
-> Dans JupyterLab 4, si certains liens du plan restent muets, désactiver le chargement partiel des cellules : `Settings`, `Settings Editor`, `Notebook`, `Windowing mode` à `none`. Le sommaire intégré (`Table of Contents`) reconnaît les mêmes titres.
-
-### Exporter en PDF
-
-L'export direct par LaTeX perd la mise en forme. Le plus simple : `File`, `Save and Export Notebook As`, `HTML`, puis ouvrir le fichier dans Chrome ou Edge, `Ctrl + P`, **Enregistrer au format PDF** avec l'option **Graphiques d'arrière-plan** cochée.
-
-### Retrouver la langue d'un morceau (facultatif)
-
-```bash
-python scripts/langue_chant.py "Stromae" "Alors on danse"
-python scripts/langue_chant.py "Stromae" "Alors on danse" --json
-```
-
-Le script interroge l'API publique de MusicBrainz (environ une requête par seconde) et lit la langue des paroles sur l'œuvre liée ; à défaut, il se replie sur la langue déclarée de l'album, source plus indicative. Remplacer l'adresse de contact dans `HEADERS` avant usage : MusicBrainz impose un `User-Agent` identifiant l'application.
-
-## 5. Méthode et plan du notebook
+## 4 . Méthode et plan du notebook
 
 | Partie | Contenu |
 |---|---|
@@ -163,12 +123,10 @@ Quelques définitions utiles :
 
 | Contributeur | Rôle | Profil GitHub |
 |---|---|---|
-| **Mohamed AMISI LOHATA** | Construction et enrichissement de la base (partie 2), renouvellement des classements (3.2), refonte et harmonisation du notebook | [@mohamed-github](https://github.com/mohamed-github) |
-| **[Prénom NOM]** | [Rôle, par exemple : concentration des écoutes (4.1)] | [@pseudo-2](https://github.com/pseudo-2) |
-| **[Prénom NOM]** | [Rôle, par exemple : ressemblance entre classements (4.2)] | [@pseudo-3](https://github.com/pseudo-3) |
-| **[Prénom NOM]** | [Rôle, par exemple : préférence nationale et quotas (5)] | [@pseudo-4](https://github.com/pseudo-4) |
+| **Henri Mariel KEBAMKEU TCHAKOUNTEU** |  (https://github.com/kt-henrimariel) |
+| **Pierrette MATCHIM KOUOKAM** | (https://github.com/MATCHIM2004) |
+| **Tony MAGYAR** | (https://github.com/tonymagyar69) |
 
-> Chaque lien pointe vers la page de profil GitHub du contributeur : `https://github.com/<pseudo>`. Pour afficher les avatars de tous les contributeurs, GitHub propose aussi la page `https://github.com/<organisation-ou-compte>/<nom-du-depot>/graphs/contributors`.
 
 ## 9. Sources et références
 
@@ -195,4 +153,4 @@ Quelques définitions utiles :
 
 ---
 
-*Projet réalisé dans un cadre pédagogique. Licence : [à préciser, par exemple MIT pour le code, usage pédagogique pour les données].*
+*Projet réalisé dans un cadre pédagogique. 
