@@ -7,7 +7,7 @@
 ![Analyse](https://img.shields.io/badge/Analyse-descriptive-1f4e79)
 ![Données](https://img.shields.io/badge/Donn%C3%A9es-420%20000%20lignes-eb6834)
 
-Projet de groupe de statistique appliquée : analyse descriptive des classements hebdomadaires Spotify Top 200 de dix pays, enrichis de la nationalité des artistes et de la langue des chansons.
+Projet de groupe en Python pour la data science : analyse descriptive des classements hebdomadaires du Top 200 Spotify de dix pays, enrichie de la nationalité des artistes et de la langue des chansons.
 
 ---
 
