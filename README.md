@@ -103,7 +103,7 @@ Quelques définitions utiles :
 - **Similarité de Jaccard** : part de titres communs à deux classements (titres communs divisés par titres des deux classements réunis).
 - **Rapport des médianes** : écoute médiane d'un titre d'une catégorie divisée par celle d'un titre hors de la catégorie, la même semaine.
 
-## 6. Résultats principaux
+## 5. Résultats principaux
 
 - **Pas d'effet visible des quotas.** Pour les quotas de langue (France, Portugal), la part de langue locale est de 61,1 % en moyenne, contre 70,0 % dans les cinq pays sans quota. Pour le quota de nationalité (Argentine), la part nationale est de 55,6 %, contre 70,2 %.
 - **Le Portugal avant et après le quota.** Le rétablissement du quota de 30 % en septembre 2023 ne s'accompagne d'aucune rupture de la part de langue locale (62,4 % avant, 61,3 % après).
@@ -111,7 +111,7 @@ Quelques définitions utiles :
 - **Ce poids vient du nombre de titres.** Par titre, l'avantage national reste faible dans la plupart des pays (écoute médiane de 4 à 7 % supérieure dans six pays sur dix).
 - **Des classements très différents.** Deux pays n'ont en moyenne que 3,5 % de titres en commun, avec des ressemblances régionales.
 
-## 7. Limites
+## 6. Limites
 
 - Les quotas concernent la radio, alors que les données sont des écoutes Spotify.
 - La plupart des quotas existaient avant le début des données ; seuls deux mouvements ont lieu pendant la période (rétablissement du quota portugais en 2023, loi grecque de 2024).
@@ -119,7 +119,7 @@ Quelques définitions utiles :
 - Le Top 200 ne représente que les titres les plus visibles, et les playlists de la plateforme influencent les classements.
 - Le classement du Portugal en quota de langue repose sur la définition légale (langue ou patrimoine culturel, quelle que soit la nationalité des artistes) ; il se modifie dans le dictionnaire `nature_quota` du notebook.
 
-## 8. Contributeurs
+## 7. Contributeurs
 
 | Contributeur | Rôle | Profil GitHub |
 |---|---|---|
@@ -128,7 +128,7 @@ Quelques définitions utiles :
 | **Tony MAGYAR** | (https://github.com/tonymagyar69) |
 
 
-## 9. Sources et références
+## 8. Sources et références
 
 **Données et outils**
 
