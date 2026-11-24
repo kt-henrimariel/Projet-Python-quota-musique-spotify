@@ -70,33 +70,22 @@ L'étude est **purement descriptive** : elle décrit des écarts entre pays et n
 
 ## 3. Structure du dépôt
 
-> Arborescence à adapter à l'état réel du dépôt.
-
 ```text
 .
 ├── README.md                      Présentation du projet (ce fichier)
 ├── requirements.txt               Dépendances Python
 ├── notebooks/
-│   └── Fichier_Final.ipynb        Notebook principal : analyse complète, de l'introduction à la conclusion
+│   ├── Travail Final.ipynb        Notebook principal : analyse complète, de l'introduction à la conclusion
+│   ├── Récupération des données.ipynb        Notebook de récupération de données sur MusicBrainz et fusion avec la base principales
 ├── data/
-│   ├── base_complete.csv          Classements enrichis (nationalité et langue)
 │   ├── QUOTAS.xlsx                Présence d'un quota de diffusion par pays
 │   └── enrichissement/
 │       ├── artistes_nationalites.csv   Nationalité par artiste
-│       ├── chansons_langues.csv        Langue par titre
-│       └── remplissages_manuels.csv    Valeurs complétées à la main, avec leur fondement
-├── scripts/
-│   └── langue_chant.py            Langue d'un morceau via l'API MusicBrainz
-└── docs/
-    └── plan_detaille.md           Plan détaillé du projet
+└──     └── chansons_langues.csv        Langue par titre
 ```
 
 ## 4. Installation et utilisation
 
-### Prérequis
-
-- Python 3.10 ou plus récent
-- Jupyter (JupyterLab ou Jupyter Notebook)
 
 ### Installation
 
@@ -107,19 +96,6 @@ python -m venv .venv
 source .venv/bin/activate        # Windows : .venv\Scripts\activate
 pip install -r requirements.txt
 ```
-
-Contenu de `requirements.txt` :
-
-```text
-numpy
-pandas
-matplotlib
-scipy
-openpyxl
-jupyter
-requests        # uniquement pour scripts/langue_chant.py
-```
-
 ### Lancer l'analyse
 
 1. Placer `base_complete.csv` et `QUOTAS.xlsx` à l'emplacement attendu (dossier `data/`).
